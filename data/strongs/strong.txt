@@ -245,15 +245,15 @@
 123	0	'Edom	ed-ome'	or (fully) oEdowm {ed-ome'}; from 122; red (see Gen. 25:25); Edom, the elder twin-brother of Jacob; hence the region (Idumaea) occupied by him:--Edom, Edomites, Idumea.
 123	1	aigialos	ahee-ghee-al-os'	from aisso (to rush) and 251 (in the sense of the sea; a beach (on which the waves dash):--shore.
 124	0	'odem	o'-dem	from 119; redness, i.e. the ruby, garnet, or some other red gem:--sardius.
-124	1	Aiguptios	ahee-goop'-tee-os	from 125; an �gyptian or inhabitant of �gyptus:--Egyptian.
+124	1	Aiguptios	ahee-goop'-tee-os	from 125; an Egyptian or inhabitant of Egyptus:--Egyptian.
 125	0	'adamdam	ad-am-dawm'	reduplicated from 119; reddish:--(somewhat) reddish.
-125	1	Aiguptos	ah'-ee-goop-tos	of uncertain derivation:--�gyptus, the land of the Nile:--Egypt.
+125	1	Aiguptos	ah'-ee-goop-tos	of uncertain derivation:--Egyptus, the land of the Nile:--Egypt.
 126	0	'Admah	ad-maw'	contracted for 127; earthy; Admah, a place near the Dead Sea:--Admah.
 126	1	aidios	ah-id'-ee-os	from 104; everduring (forward and backward, or forward only):--eternal, everlasting.
 127	0	'adamah	ad-aw-maw'	from 119; soil (from its general redness):--country, earth, ground, husband(-man) (-ry), land.
 127	1	aidos	ahee-doce'	perhaps from 1 (as a negative particle) and 1492 (through the idea of downcast eyes); bashfulness, i.e. (towards men), modesty or (towards God) awe:--reverence, shamefacedness.
 128	0	'Adamah	ad-aw-maw'	the same as 127; Adamah, a place in Palestine:--Adamah.
-128	1	Aithiops	ahee-thee'-ops	from aitho (to scorch) and ops (the face, from 3700); an �thiopian (as a blackamoor):--Ethiopian.
+128	1	Aithiops	ahee-thee'-ops	from aitho (to scorch) and ops (the face, from 3700); an Ethiopian (as a blackamoor):--Ethiopian.
 129	0	'Adamiy	ad-aw-mee'	from 127; earthy; Adami, a place in Palestine:--Adami.
 129	1	haima	hah'-ee-mah	of uncertain derivation; blood, literally (of men or animals), figuratively (the juice of grapes) or specially (the atoning blood of Christ); by implication, bloodshed, also kindred:--blood.
 130	0	'Edomiy	ed-o-mee'	or (fully) aEdowmiy {ed-o-mee'}; patronymic from 123; an Edomite, or descendants from (or inhabitants of) Edom:--Edomite. See 726.
@@ -271,7 +271,7 @@
 136	0	'Adonay	ad-o-noy'	am emphatic form of 113; the Lord (used as a proper name of God only):--(my) Lord.
 136	1	ainos	ah'-ee-nos	apparently a prime word; properly, a story, but used in the sense of 1868; praise (of God):--praise.
 137	0	'Adoniy-Bezeq	ad-o''-nee-beh'-zek	from 113 and 966; lord of Bezek; Adoni-Bezek; a Canaanitish king:--Adoni-bezek.
-137	1	Ainon	ahee-nohn'	of Hebrew origin (a derivative of 5869, place of springs); �non, a place in Palestine:--�non.
+137	1	Ainon	ahee-nohn'	of Hebrew origin (a derivative of 5869, place of springs); enon, a place in Palestine:--enon.
 138	0	'Adoniyah	ad-o-nee-yaw'	original (prolonged) dAdoniyahuw {ad-o-nee- yaw'-hoo}; from 113 and 3050; lord (i.e. worshipper) of Jah; Adonijah, the name of three Israelites:--Adonijah.
 138	1	haireomai	hahee-reh'-om-ahee	probably akin to 142; to take for oneself, i.e. to prefer:--choose. Some of the forms are borrowed from a cognate hellomai hel'-lom-ahee; which is otherwise obsolete.
 139	0	'Adoniy-Tsedeq	ad-o''-nee-tseh'-dek	from 113 and 6664; lord of justice; Adoni-Tsedek, a Canaanitish king:--Adonizedec.
@@ -2377,7 +2377,7 @@
 1189	0	Ba`al	Tsphown	from 1168 and 6828 (in the sense of cold) (according to others an Egyptian form of Typhon, the destroyer); Baal of winter; Baal-Tsephon, a place in Eqypt:--Baal-zephon.
 1189	1	deomai	deh'-om-ahee	middle voice of 1210; to beg (as binding oneself), i.e. petition:--beseech, pray (to), make request. Compare 4441.
 1190	0	Ba`al	Shalishah	from 1168 and 8031; Baal of Shalishah, Baal-Shalishah, a place in Palestine:--Baal-shalisha.
-1190	1	Derbaios	der-bah'-ee-os	from 1191; a Derb�an or inhabitant of Derbe:--of Derbe.
+1190	1	Derbaios	der-bah'-ee-os	from 1191; a Derbean or inhabitant of Derbe:--of Derbe.
 1191	0	Ba`alath	bah-al-awth'	a modification of 1172; mistressship; Baalath, a place in Palestine:--Baalath.
 1191	1	Derbe	der-bay'	of foreign origin; Derbe, a place in Asia Minor:--Derbe.
 1192	0	Ba`alath	B`er	from 1172 and 875; mistress of a well; Baalath-Beer, a place in Palestine:--Baalath-beer.
@@ -2887,7 +2887,7 @@
 1444	0	geder	gheh'-der	from 1443; a circumvallation:--wall.
 1444	1	Hebraikos	heb-rah-ee-kos'	from 1443; Hebraic or the Jewish language:--Hebrew.
 1445	0	Geder	gheh'-der	: the same as 1444; Geder, a place in Palestine:--Geder.
-1445	1	Hebraios	heb-rah'-yos	from 1443; a Hebr�an (i.e. Hebrew) or Jew:--Hebrew.
+1445	1	Hebraios	heb-rah'-yos	from 1443; a Hebrean (i.e. Hebrew) or Jew:--Hebrew.
 1446	0	Gdor	ghed-ore'	or (fully) Gdowr {ghed-ore'}; from 1443; inclosure; Gedor, a place in Palestine; also the name of three Israelites:--Gedor.
 1446	1	Hebrais	heb-rah-is'	from 1443; the Hebraistic (Hebrew) or Jewish (Chaldee) language:--Hebrew.
 1447	0	gader	gaw-dare'	from 1443; a circumvallation; by implication, an inclosure:--fence, hedge, wall.
@@ -3283,7 +3283,7 @@
 1642	0	Grar	gher-awr'	probably from 1641; a rolling country; Gerar, a Philistine city:--Gerar.
 1642	1	elattoo	el-at-to'-o	from 1640; to lessen (in rank or influence):--decrease, make lower.
 1643	0	geres	gheh'-res	from an unused root meaning to husk; a kernel (collectively), i.e. grain:--beaten corn.
-1643	1	elauno	el-ow'-no	a prolonged form of a primary verb (obsolete except in certain tenses as an alternative of this) of uncertain affinity; to push (as wind, oars or d�monical power):--carry, drive, row.
+1643	1	elauno	el-ow'-no	a prolonged form of a primary verb (obsolete except in certain tenses as an alternative of this) of uncertain affinity; to push (as wind, oars or demonical power):--carry, drive, row.
 1644	0	garash	gaw-rash'	a primitive root; to drive out from a possession; especially to expatriate or divorce:--cast up (out), divorced (woman), drive away (forth, out), expel,   surely put away, trouble, thrust out.
 1644	1	elaphria	el-af-ree'-ah	from 1645; levity (figuratively), i.e. fickleness:--lightness.
 1645	0	geresh	gheh'-resh	from 1644; produce (as if expelled):--put forth.
@@ -3767,7 +3767,7 @@
 1884	0	dthabar	deth-aw-bawr'	(Aramaic) of Pers. origin; meaning one skilled in law; a judge:--counsellor.
 1884	1	eparkeo	ep-ar-keh'-o	from 1909 and 714; to avail for, i.e. help:--relieve.
 1885	0	Dathan	daw-thawn'	of uncertain derivation; Dathan, an Israelite:--Dathan.
-1885	1	eparchia	ep-ar-khee'-ah	from a compound of 1909 and 757 (meaning a governor of a district, "eparch"); a special region of government, i.e. a Roman pr�fecture:--province.
+1885	1	eparchia	ep-ar-khee'-ah	from a compound of 1909 and 757 (meaning a governor of a district, "eparch"); a special region of government, i.e. a Roman prefecture:--province.
 1886	0	Dothan	do'-thawn	or (Aramaic dual) Dothayin (Gen. 37:17) {do- thah'-yin}; of uncertain derivation; Dothan, a place in Palestine:--Dothan.
 1886	1	epaulis	ep'-ow-lis	from 1909 and an equivalent of 833; a hut over the head, i.e. a dwelling:--habitation.
 1887	0	he'	hay	a primitive particle; lo!:--behold, lo.
@@ -4076,7 +4076,7 @@
 2038	1	ergazomai	er-gad'-zom-ahee	middle voice from 2041; to toil (as a task, occupation, etc.), (by implication) effect, be engaged in or with, etc.:--commit, do, labor for, minister about, trade (by), work.
 2039	0	Haran	haw-rawn'	perhaps from 2022; mountaineer; Haran, the name of two men:--Haran.
 2039	1	ergasia	er-gas-ee'-ah	from 2040; occupation; by implication, profit, pains:--craft, diligence, gain, work.
-2040	0	harac	haw-ras'	a primitive root; to pull down or in pieces, break, &� destroy:--beat down, break (down, through), destroy, overthrow, pluck down, pull down, ruin, throw down,   utterly.
+2040	0	harac	haw-ras'	a primitive root; to pull down or in pieces, break, destroy:--beat down, break (down, through), destroy, overthrow, pluck down, pull down, ruin, throw down,   utterly.
 2040	1	ergates	er-gat'-ace	from 2041; a toiler; figuratively, a teacher:--labourer, worker(-men).
 2041	0	herec	heh'-res	from 2040; demolition:--destruction.
 2041	1	ergon	er'-gon	from a primary (but obsolete) ergo (to work); toil (as an effort or occupation); by implication, an act:--deed, doing, labour, work.
@@ -4112,7 +4112,7 @@
 2056	1	eriphos	er'-if-os	perhaps from the same as 2053 (through the idea of hairiness); a kid or (genitive case) goat:--goat, kid.
 2057	0	Vanyah	van-yaw'	perhaps for 6043; Vanjah, an Israelite:--Vaniah.
 2057	1	Hermas	her-mas'	probably from 2060; Hermas, a Christian:--Hermas.
-2058	0	Vophciy	vof-see'	probably from 3254; additional; Vophsi, an &� Israelite:--Vophsi.
+2058	0	Vophciy	vof-see'	probably from 3254; additional; Vophsi, an Israelite:--Vophsi.
 2058	1	hermeneia	her-may-ni'-ah	from the same as 2059; translation:--interpretation.
 2059	0	Vashniy	vash-nee'	probably from 3461; weak; Vashni, an Israelite:--Vashni.
 2059	1	hermeneuo	her-mayn-yoo'-o	from a presumed derivative of 2060 (as the god of language); to translate:--interpret.
@@ -4130,7 +4130,7 @@
 2065	1	erotao	er-o-tah'-o	apparently from 2046 (compare 2045); to interrogate; by implication, to request:--ask, beseech, desire, intreat, pray. Compare 4441.
 2066	0	Zabad	zaw-bawd'	from 2064; giver; Zabad, the name of seven Israelites:--Zabad.
 2066	1	esthes	es-thace'	from hennumi (to clothe); dress:--apparel, clothing, raiment, robe.
-2067	0	Zabdiy	zab-dee'	from 2065; giving; Zabdi, the name of four &� Israelites:--Zabdi.
+2067	0	Zabdiy	zab-dee'	from 2065; giving; Zabdi, the name of four Israelites:--Zabdi.
 2067	1	esthesis	es'-thay-sis	from a derivative of 2066; clothing (concretely):--government.
 2068	0	Zabdiy'el	zab-dee-ale'	from 2065 and 410; gift of God: zabdiel, the name of two Israelites:--Zabdiel.
 2068	1	esthio	es-thee'-o	strengthened for a primary edo (to eat); used only in certain tenses, the rest being supplied by 5315; to eat (usually literal):--devour, eat, live.
@@ -4200,7 +4200,7 @@
 2100	1	euaresteo	yoo-ar-es-teh'-o	from 2101; to gratify entirely:--please (well).
 2101	0	zowb	zobe	from 2100; a seminal or menstrual flux:--issue.
 2101	1	euarestos	yoo-ar'-es-tos	from 2095 and 701; fully agreeable:--acceptable(-ted), wellpleasing.
-2102	0	zuwd	zood	or (by permutation) ziyd {zeed}; a primitive root; to seethe; figuratively, to be insolent:--be proud, deal proudly, &� presume, (come) presumptuously, sod.
+2102	0	zuwd	zood	or (by permutation) ziyd {zeed}; a primitive root; to seethe; figuratively, to be insolent:--be proud, deal proudly, presume, (come) presumptuously, sod.
 2102	1	euarestos	yoo-ar-es'-toce	adverb from 2101; quite agreeably:--acceptably,   please well.
 2103	0	zuwd	zood	(Aramaic) corresponding to 2102; to be proud:--in pride.
 2103	1	Euboulos	yoo'-boo-los	from 2095 and 1014; good-willer; Eubulus, a Christian:--Eubulus.
@@ -4226,7 +4226,7 @@
 2113	1	euthudromeo	yoo-thoo-drom-eh'-o	from 2117 and 1408; to lay a straight course, i.e. sail direct:--(come) with a straight course.
 2114	0	zuwr	zoor	a primitive root; to turn aside (especially for lodging); hence to be a foreigner, strange, profane; specifically (active participle) to commit adultery:--(come from) another (man, place), fanner, go away, (e-)strange(-r, thing, woman).
 2114	1	euthumeo	yoo-thoo-meh'-o	from 2115; to cheer up, i.e. (intransitively) be cheerful; neuter comparative (adverbially) more cheerfully:--be of good cheer (merry).
-2115	0	zuwr	zoor	a primitive root (compare 6695); to press together, &� tighten:--close, rush, thrust together.
+2115	0	zuwr	zoor	a primitive root (compare 6695); to press together, tighten:--close, rush, thrust together.
 2115	1	euthumos	yoo'-thoo-mos	from 2095 and 2372; in fine spirits, i.e. cheerful:--of good cheer, the more cheerfully.
 2116	0	zuwreh	zoo-reh'	from 2115; trodden on:--that which is crushed.
 2116	1	euthuno	yoo-thoo'-no	from 2117; to straighten (level); technically, to steer:--governor, make straight.
@@ -4478,7 +4478,7 @@
 2239	1	ethos	ay'-thos	a strengthened form of 1485; usage, i.e. (plural) moral habits:--manners.
 2240	0	Zattuw'	zat-too'	of uncertain derivation; Zattu, an Israelite:--Zattu.
 2240	1	heko	hay'-ko	a primary verb; to arrive, i.e. be present (literally or figuratively):--come.
-2241	0	Zetham	zay-thawm'	apparently a variation for 2133; Zetham, an &� Israelite:--Zetham.
+2241	0	Zetham	zay-thawm'	apparently a variation for 2133; Zetham, an Israelite:--Zetham.
 2241	1	eli	ay-lee'	of Hebrew origin (410 with pronominal suffix); my God:-- Eli.
 2242	0	Zethar	zay-thar'	of Persian origin; Zethar, a eunuch of  erxes:--Zethar.
 2242	1	Heli	hay-lee'	of Hebrew origin (5941); Heli (i.e. Eli), an Israelite:--Heli.
@@ -4504,7 +4504,7 @@
 2252	1	emen	ay'-mane	a prolonged form of 2358; I was:--be, was. (Sometimes unexpressed).
 2253	0	chebyown	kheb-yone'	from 2247; a concealment:--hiding.
 2253	1	hemithanes	hay-mee-than-ace'	from a presumed compound of the base of 2255 and 2348; half dead, i.e. entirely exhausted:--half dead.
-2254	0	chabal	khaw-bal'	a primitive root; to wind tightly (as a rope), i.e. to bind; specifically, by a pledge; figuratively, to pervert, destroy; also to writhe in pain (especially of parturition):--  at all, band, bring forth, (deal) corrupt(-ly), destroy, offend, lay &� to (take a) pledge, spoil, travail,   very, withhold.
+2254	0	chabal	khaw-bal'	a primitive root; to wind tightly (as a rope), i.e. to bind; specifically, by a pledge; figuratively, to pervert, destroy; also to writhe in pain (especially of parturition):--  at all, band, bring forth, (deal) corrupt(-ly), destroy, offend, lay to (take a) pledge, spoil, travail,   very, withhold.
 2254	1	hemin	hay-meen'	dative case plural of 1473; to (or for, with, by) us:--our, (for) us, we.
 2255	0	chabal	khab-al'	(Aramaic) corresponding to 2254; to ruin:--destroy, hurt.
 2255	1	hemisu	hay'-mee-soo	neuter of a derivative from an inseparable prefix akin to 260 (through the idea of partition involved in connection) and meaning semi-; (as noun) half:--half.
