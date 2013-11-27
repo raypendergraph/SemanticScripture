@@ -1,0 +1,66 @@
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://sigmajs.org/js/sigma.min.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $('input[type=submit]').click(function(e) {
+                e.preventDefault();
+                $.getJSON('http://woof.magnify.net/api/content/find?vq=karma&per_page=5&page=1&sort=popularity&key=84LTHNZQ1364W14D&format=json&callback=?', function (data) {
+                    $('form').append($('<div>').text(JSON.stringify(data)))
+                })
+            });
+        });
+
+        $(document).ready(function () {
+
+
+            var sigRoot = document.getElementById('sig');
+            var sigInst = sigma.init(sigRoot).drawingProperties({
+                defaultLabelColor: '#ccc',
+                font: 'Arial',
+                edgeColor: 'source',
+                defaultEdgeType: 'curve'
+            }).graphProperties({
+                        minNodeSize: 1,
+                        maxNodeSize: 10
+                    });
+
+            sigInst.addNode('hello', {
+                label: 'Hello',
+                color: '#ff0000',
+                x: 1
+            }).addNode('world', {
+                        label: 'World !',
+                        color: '#00ff00',
+                        x: 2
+            }).addEdge('hello_world', 'hello', 'world').draw();
+        });
+    </script>
+
+    <style type="text/css">
+            /* sigma.js context : */
+        .sigma {
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+            border-radius: 4px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            background: #222;
+            width: 80%;
+            height: 80%;
+            top: 0;
+            left: 0;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="sigma" id="sig"></div>
+</body>
+<form>
+    <input type="text" placeholder="enter text here" />
+    <input type="submit" value="call API" />
+</form>
+</html>>

@@ -17,27 +17,29 @@ class OriginType(object):
         return cls.Hebrew if designator == 'H' else cls.Greek
 
 
-def __initialize():
-    from .._constants import STRONGS_MAIN, STRONGS_CROSS_REFERENCES, STRONGS_ROOTS
+def _load_strongs_definitions():
+    from ..constants import STRONGS_MAIN
+    global _strongs_definitions
 
-    global _strongs
-    _strongs = dict()
+    _strongs_definitions = dict()
     with open(STRONGS_MAIN) as file:
-        for col in [line.encode('UTF-16').split() for line in file]:
-            print(col)
+        for col in [line.split('|') for line in file]:
             key = col[1], col[0]
             assert col[1] == '0' or col[1] == '1'
             value = {'number': col[0],
                      'origin': 'H' if col[1] == '0' else 'G',
                      'word': col[2],
-                     'phonetic':col[3],
-                     'pronunciation':col[4],
-                     'meaning':col[5]}
-            _strongs[key] = value
+                     'pronunciation': col[3],
+                     'meaning': col[4].strip()}
+            _strongs_definitions[key] = value
+
+
+def _load_cross_references():
+    from ..constants import STRONGS_MAIN, STRONGS_CROSS_REFERENCES, STRONGS_ROOTS
 
     global _strongs_by_book_chapter_verse
-    _strongs_by_book_chapter_verse = dict()
     global _book_chapter_verse_by_strongs
+    _strongs_by_book_chapter_verse = dict()
     _book_chapter_verse_by_strongs = dict()
 
     with open(STRONGS_CROSS_REFERENCES) as file:
@@ -57,9 +59,20 @@ def __initialize():
                 _book_chapter_verse_by_strongs[_strongs] = bcv_list
             bcv_list.append(bcv)
 
-__initialize()
 
 
-def lookup(origin, number):
+_load_strongs_definitions()
+_load_cross_references()
+
+def lookup_definition(origin, number):
     assert origin == 'H' or origin == 'G', "Origin has to be 'H'-Hebrew or 'G'-Greek."
-    return _strongs[origin,number]
+    return _strongs_definitions[origin,number]
+
+def get_definiton_data():
+    return _strongs_definitions.copy()
+
+def get_strongs_by_verse():
+    return _strongs_by_book_chapter_verse.copy()
+
+def get_verses_by_strongs():
+    return _book_chapter_verse_by_strongs.copy()

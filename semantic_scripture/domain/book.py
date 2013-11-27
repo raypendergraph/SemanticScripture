@@ -1,7 +1,7 @@
 import re
 from os.path import join
-from semantic_scripture._constants import BOOKS
-from .._constants import CHAPTER_AND_VERSE_REGEX, KJV_TEXT_PATH
+from semantic_scripture.constants import BOOKS
+from ..constants import CHAPTER_AND_VERSE_REGEX, KJV_TEXT_PATH
 
 _books = dict()
 
@@ -20,6 +20,10 @@ def read_book_data(book_name):
     with open(join(KJV_TEXT_PATH,'{0}.txt'.format(book_name))) as file:
         words =  [word for word in file.read().split()]
         beginning_index = next((i for i, word in enumerate(words) if verse_delimiter.match(word)), -1)
+
+        if beginning_index < 0:
+            return chapters
+
         chapter_verse = _chapter_and_verse(words[beginning_index])
         last_index = 0
         words = words[beginning_index+1:]
