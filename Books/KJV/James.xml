@@ -1,122 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book n="59" title="James" shortName="Jas" xmlns="http://example.com/SemanticScripture" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd">
-    <chapter n="1">
-      <verse n="1" id="jas.1.1">James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.</verse>
-      <verse n="2" id="jas.1.2">My brethren, count it all joy when ye fall into divers temptations;</verse>
-      <verse n="3" id="jas.1.3">Knowing this, that the trying of your faith worketh patience.</verse>
-      <verse n="4" id="jas.1.4">But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.</verse>
-      <verse n="5" id="jas.1.5">If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.</verse>
-      <verse n="6" id="jas.1.6">But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.</verse>
-      <verse n="7" id="jas.1.7">For let not that man think that he shall receive any thing of the Lord.</verse>
-      <verse n="8" id="jas.1.8">A double minded man is unstable in all his ways.</verse>
-      <verse n="9" id="jas.1.9">Let the brother of low degree rejoice in that he is exalted:</verse>
-      <verse n="10" id="jas.1.10">But the rich, in that he is made low: because as the flower of the grass he shall pass away.</verse>
-      <verse n="11" id="jas.1.11">For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.</verse>
-      <verse n="12" id="jas.1.12">Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.</verse>
-      <verse n="13" id="jas.1.13">Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:</verse>
-      <verse n="14" id="jas.1.14">But every man is tempted, when he is drawn away of his own lust, and enticed.</verse>
-      <verse n="15" id="jas.1.15">Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.</verse>
-      <verse n="16" id="jas.1.16">Do not err, my beloved brethren.</verse>
-      <verse n="17" id="jas.1.17">Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.</verse>
-      <verse n="18" id="jas.1.18">Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.</verse>
-      <verse n="19" id="jas.1.19">Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:</verse>
-      <verse n="20" id="jas.1.20">For the wrath of man worketh not the righteousness of God.</verse>
-      <verse n="21" id="jas.1.21">Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.</verse>
-      <verse n="22" id="jas.1.22">But be ye doers of the word, and not hearers only, deceiving your own selves.</verse>
-      <verse n="23" id="jas.1.23">For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:</verse>
-      <verse n="24" id="jas.1.24">For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.</verse>
-      <verse n="25" id="jas.1.25">But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.</verse>
-      <verse n="26" id="jas.1.26">If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.</verse>
-      <verse n="27" id="jas.1.27">Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.</verse>
+<book xmlns="http://example.com/SemanticScripture" title="James" shortName="Jas" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="59">
+    <chapter id="59001">
+      <block id="59001001" type="v">James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.</block>
+      <block id="59001002" type="v">My brethren, count it all joy when ye fall into divers temptations;</block>
+      <block id="59001003" type="v">Knowing this, that the trying of your faith worketh patience.</block>
+      <block id="59001004" type="v">But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.</block>
+      <block id="59001005" type="v">If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.</block>
+      <block id="59001006" type="v">But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.</block>
+      <block id="59001007" type="v">For let not that man think that he shall receive any thing of the Lord.</block>
+      <block id="59001008" type="v">A double minded man is unstable in all his ways.</block>
+      <block id="59001009" type="v">Let the brother of low degree rejoice in that he is exalted:</block>
+      <block id="59001010" type="v">But the rich, in that he is made low: because as the flower of the grass he shall pass away.</block>
+      <block id="59001011" type="v">For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.</block>
+      <block id="59001012" type="v">Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.</block>
+      <block id="59001013" type="v">Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:</block>
+      <block id="59001014" type="v">But every man is tempted, when he is drawn away of his own lust, and enticed.</block>
+      <block id="59001015" type="v">Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.</block>
+      <block id="59001016" type="v">Do not err, my beloved brethren.</block>
+      <block id="59001017" type="v">Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.</block>
+      <block id="59001018" type="v">Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.</block>
+      <block id="59001019" type="v">Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:</block>
+      <block id="59001020" type="v">For the wrath of man worketh not the righteousness of God.</block>
+      <block id="59001021" type="v">Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.</block>
+      <block id="59001022" type="v">But be ye doers of the word, and not hearers only, deceiving your own selves.</block>
+      <block id="59001023" type="v">For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:</block>
+      <block id="59001024" type="v">For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.</block>
+      <block id="59001025" type="v">But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.</block>
+      <block id="59001026" type="v">If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.</block>
+      <block id="59001027" type="v">Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.</block>
     </chapter>
-    <chapter n="2">
-      <verse n="1" id="jas.2.1">My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.</verse>
-      <verse n="2" id="jas.2.2">For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;</verse>
-      <verse n="3" id="jas.2.3">And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:</verse>
-      <verse n="4" id="jas.2.4">Are ye not then partial in yourselves, and are become judges of evil thoughts?</verse>
-      <verse n="5" id="jas.2.5">Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?</verse>
-      <verse n="6" id="jas.2.6">But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?</verse>
-      <verse n="7" id="jas.2.7">Do not they blaspheme that worthy name by the which ye are called?</verse>
-      <verse n="8" id="jas.2.8">If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:</verse>
-      <verse n="9" id="jas.2.9">But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.</verse>
-      <verse n="10" id="jas.2.10">For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.</verse>
-      <verse n="11" id="jas.2.11">For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.</verse>
-      <verse n="12" id="jas.2.12">So speak ye, and so do, as they that shall be judged by the law of liberty.</verse>
-      <verse n="13" id="jas.2.13">For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.</verse>
-      <verse n="14" id="jas.2.14">What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?</verse>
-      <verse n="15" id="jas.2.15">If a brother or sister be naked, and destitute of daily food,</verse>
-      <verse n="16" id="jas.2.16">And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?</verse>
-      <verse n="17" id="jas.2.17">Even so faith, if it hath not works, is dead, being alone.</verse>
-      <verse n="18" id="jas.2.18">Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.</verse>
-      <verse n="19" id="jas.2.19">Thou believest that there is one God; thou doest well: the devils also believe, and tremble.</verse>
-      <verse n="20" id="jas.2.20">But wilt thou know, O vain man, that faith without works is dead?</verse>
-      <verse n="21" id="jas.2.21">Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?</verse>
-      <verse n="22" id="jas.2.22">Seest thou how faith wrought with his works, and by works was faith made perfect?</verse>
-      <verse n="23" id="jas.2.23">And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.</verse>
-      <verse n="24" id="jas.2.24">Ye see then how that by works a man is justified, and not by faith only.</verse>
-      <verse n="25" id="jas.2.25">Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?</verse>
-      <verse n="26" id="jas.2.26">For as the body without the spirit is dead, so faith without works is dead also.</verse>
+    <chapter id="59002">
+      <block id="59002001" type="v">My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.</block>
+      <block id="59002002" type="v">For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;</block>
+      <block id="59002003" type="v">And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:</block>
+      <block id="59002004" type="v">Are ye not then partial in yourselves, and are become judges of evil thoughts?</block>
+      <block id="59002005" type="v">Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?</block>
+      <block id="59002006" type="v">But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?</block>
+      <block id="59002007" type="v">Do not they blaspheme that worthy name by the which ye are called?</block>
+      <block id="59002008" type="v">If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:</block>
+      <block id="59002009" type="v">But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.</block>
+      <block id="59002010" type="v">For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.</block>
+      <block id="59002011" type="v">For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.</block>
+      <block id="59002012" type="v">So speak ye, and so do, as they that shall be judged by the law of liberty.</block>
+      <block id="59002013" type="v">For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.</block>
+      <block id="59002014" type="v">What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?</block>
+      <block id="59002015" type="v">If a brother or sister be naked, and destitute of daily food,</block>
+      <block id="59002016" type="v">And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?</block>
+      <block id="59002017" type="v">Even so faith, if it hath not works, is dead, being alone.</block>
+      <block id="59002018" type="v">Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.</block>
+      <block id="59002019" type="v">Thou believest that there is one God; thou doest well: the devils also believe, and tremble.</block>
+      <block id="59002020" type="v">But wilt thou know, O vain man, that faith without works is dead?</block>
+      <block id="59002021" type="v">Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?</block>
+      <block id="59002022" type="v">Seest thou how faith wrought with his works, and by works was faith made perfect?</block>
+      <block id="59002023" type="v">And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.</block>
+      <block id="59002024" type="v">Ye see then how that by works a man is justified, and not by faith only.</block>
+      <block id="59002025" type="v">Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?</block>
+      <block id="59002026" type="v">For as the body without the spirit is dead, so faith without works is dead also.</block>
     </chapter>
-    <chapter n="3">
-      <verse n="1" id="jas.3.1">My brethren, be not many masters, knowing that we shall receive the greater condemnation.</verse>
-      <verse n="2" id="jas.3.2">For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.</verse>
-      <verse n="3" id="jas.3.3">Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.</verse>
-      <verse n="4" id="jas.3.4">Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.</verse>
-      <verse n="5" id="jas.3.5">Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!</verse>
-      <verse n="6" id="jas.3.6">And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.</verse>
-      <verse n="7" id="jas.3.7">For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:</verse>
-      <verse n="8" id="jas.3.8">But the tongue can no man tame; it is an unruly evil, full of deadly poison.</verse>
-      <verse n="9" id="jas.3.9">Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.</verse>
-      <verse n="10" id="jas.3.10">Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.</verse>
-      <verse n="11" id="jas.3.11">Doth a fountain send forth at the same place sweet water and bitter?</verse>
-      <verse n="12" id="jas.3.12">Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.</verse>
-      <verse n="13" id="jas.3.13">Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.</verse>
-      <verse n="14" id="jas.3.14">But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.</verse>
-      <verse n="15" id="jas.3.15">This wisdom descendeth not from above, but is earthly, sensual, devilish.</verse>
-      <verse n="16" id="jas.3.16">For where envying and strife is, there is confusion and every evil work.</verse>
-      <verse n="17" id="jas.3.17">But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.</verse>
-      <verse n="18" id="jas.3.18">And the fruit of righteousness is sown in peace of them that make peace.</verse>
+    <chapter id="59003">
+      <block id="59003001" type="v">My brethren, be not many masters, knowing that we shall receive the greater condemnation.</block>
+      <block id="59003002" type="v">For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.</block>
+      <block id="59003003" type="v">Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.</block>
+      <block id="59003004" type="v">Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.</block>
+      <block id="59003005" type="v">Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!</block>
+      <block id="59003006" type="v">And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.</block>
+      <block id="59003007" type="v">For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:</block>
+      <block id="59003008" type="v">But the tongue can no man tame; it is an unruly evil, full of deadly poison.</block>
+      <block id="59003009" type="v">Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.</block>
+      <block id="59003010" type="v">Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.</block>
+      <block id="59003011" type="v">Doth a fountain send forth at the same place sweet water and bitter?</block>
+      <block id="59003012" type="v">Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.</block>
+      <block id="59003013" type="v">Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.</block>
+      <block id="59003014" type="v">But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.</block>
+      <block id="59003015" type="v">This wisdom descendeth not from above, but is earthly, sensual, devilish.</block>
+      <block id="59003016" type="v">For where envying and strife is, there is confusion and every evil work.</block>
+      <block id="59003017" type="v">But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.</block>
+      <block id="59003018" type="v">And the fruit of righteousness is sown in peace of them that make peace.</block>
     </chapter>
-    <chapter n="4">
-      <verse n="1" id="jas.4.1">From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?</verse>
-      <verse n="2" id="jas.4.2">Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.</verse>
-      <verse n="3" id="jas.4.3">Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.</verse>
-      <verse n="4" id="jas.4.4">Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.</verse>
-      <verse n="5" id="jas.4.5">Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?</verse>
-      <verse n="6" id="jas.4.6">But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.</verse>
-      <verse n="7" id="jas.4.7">Submit yourselves therefore to God. Resist the devil, and he will flee from you.</verse>
-      <verse n="8" id="jas.4.8">Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.</verse>
-      <verse n="9" id="jas.4.9">Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.</verse>
-      <verse n="10" id="jas.4.10">Humble yourselves in the sight of the Lord, and he shall lift you up.</verse>
-      <verse n="11" id="jas.4.11">Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge.</verse>
-      <verse n="12" id="jas.4.12">There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?</verse>
-      <verse n="13" id="jas.4.13">Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:</verse>
-      <verse n="14" id="jas.4.14">Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.</verse>
-      <verse n="15" id="jas.4.15">For that ye ought to say, If the Lord will, we shall live, and do this, or that.</verse>
-      <verse n="16" id="jas.4.16">But now ye rejoice in your boastings: all such rejoicing is evil.</verse>
-      <verse n="17" id="jas.4.17">Therefore to him that knoweth to do good, and doeth it not, to him it is sin.</verse>
+    <chapter id="59004">
+      <block id="59004001" type="v">From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?</block>
+      <block id="59004002" type="v">Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.</block>
+      <block id="59004003" type="v">Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.</block>
+      <block id="59004004" type="v">Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.</block>
+      <block id="59004005" type="v">Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?</block>
+      <block id="59004006" type="v">But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.</block>
+      <block id="59004007" type="v">Submit yourselves therefore to God. Resist the devil, and he will flee from you.</block>
+      <block id="59004008" type="v">Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.</block>
+      <block id="59004009" type="v">Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.</block>
+      <block id="59004010" type="v">Humble yourselves in the sight of the Lord, and he shall lift you up.</block>
+      <block id="59004011" type="v">Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge.</block>
+      <block id="59004012" type="v">There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?</block>
+      <block id="59004013" type="v">Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:</block>
+      <block id="59004014" type="v">Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.</block>
+      <block id="59004015" type="v">For that ye ought to say, If the Lord will, we shall live, and do this, or that.</block>
+      <block id="59004016" type="v">But now ye rejoice in your boastings: all such rejoicing is evil.</block>
+      <block id="59004017" type="v">Therefore to him that knoweth to do good, and doeth it not, to him it is sin.</block>
     </chapter>
-    <chapter n="5">
-      <verse n="1" id="jas.5.1">Go to now, ye rich men, weep and howl for your miseries that shall come upon you.</verse>
-      <verse n="2" id="jas.5.2">Your riches are corrupted, and your garments are motheaten.</verse>
-      <verse n="3" id="jas.5.3">Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.</verse>
-      <verse n="4" id="jas.5.4">Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.</verse>
-      <verse n="5" id="jas.5.5">Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.</verse>
-      <verse n="6" id="jas.5.6">Ye have condemned and killed the just; and he doth not resist you.</verse>
-      <verse n="7" id="jas.5.7">Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.</verse>
-      <verse n="8" id="jas.5.8">Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.</verse>
-      <verse n="9" id="jas.5.9">Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.</verse>
-      <verse n="10" id="jas.5.10">Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.</verse>
-      <verse n="11" id="jas.5.11">Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.</verse>
-      <verse n="12" id="jas.5.12">But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.</verse>
-      <verse n="13" id="jas.5.13">Is any among you afflicted? let him pray. Is any merry? let him sing psalms.</verse>
-      <verse n="14" id="jas.5.14">Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:</verse>
-      <verse n="15" id="jas.5.15">And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.</verse>
-      <verse n="16" id="jas.5.16">Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.</verse>
-      <verse n="17" id="jas.5.17">Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.</verse>
-      <verse n="18" id="jas.5.18">And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.</verse>
-      <verse n="19" id="jas.5.19">Brethren, if any of you do err from the truth, and one convert him;</verse>
-      <verse n="20" id="jas.5.20">Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.</verse>
+    <chapter id="59005">
+      <block id="59005001" type="v">Go to now, ye rich men, weep and howl for your miseries that shall come upon you.</block>
+      <block id="59005002" type="v">Your riches are corrupted, and your garments are motheaten.</block>
+      <block id="59005003" type="v">Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.</block>
+      <block id="59005004" type="v">Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.</block>
+      <block id="59005005" type="v">Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.</block>
+      <block id="59005006" type="v">Ye have condemned and killed the just; and he doth not resist you.</block>
+      <block id="59005007" type="v">Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.</block>
+      <block id="59005008" type="v">Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.</block>
+      <block id="59005009" type="v">Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.</block>
+      <block id="59005010" type="v">Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.</block>
+      <block id="59005011" type="v">Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.</block>
+      <block id="59005012" type="v">But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.</block>
+      <block id="59005013" type="v">Is any among you afflicted? let him pray. Is any merry? let him sing psalms.</block>
+      <block id="59005014" type="v">Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:</block>
+      <block id="59005015" type="v">And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.</block>
+      <block id="59005016" type="v">Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.</block>
+      <block id="59005017" type="v">Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.</block>
+      <block id="59005018" type="v">And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.</block>
+      <block id="59005019" type="v">Brethren, if any of you do err from the truth, and one convert him;</block>
+      <block id="59005020" type="v">Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.</block>
     </chapter>
   </book>
-  

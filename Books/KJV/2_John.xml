@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book n="63" title="2 John" shortName="2John" xmlns="http://example.com/SemanticScripture" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd">
-    <chapter n="1">
-      <verse n="1" id="2john.1.1">The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;</verse>
-      <verse n="2" id="2john.1.2">For the truth's sake, which dwelleth in us, and shall be with us for ever.</verse>
-      <verse n="3" id="2john.1.3">Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.</verse>
-      <verse n="4" id="2john.1.4">I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.</verse>
-      <verse n="5" id="2john.1.5">And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.</verse>
-      <verse n="6" id="2john.1.6">And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.</verse>
-      <verse n="7" id="2john.1.7">For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.</verse>
-      <verse n="8" id="2john.1.8">Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.</verse>
-      <verse n="9" id="2john.1.9">Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.</verse>
-      <verse n="10" id="2john.1.10">If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:</verse>
-      <verse n="11" id="2john.1.11">For he that biddeth him God speed is partaker of his evil deeds.</verse>
-      <verse n="12" id="2john.1.12">Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.</verse>
-      <verse n="13" id="2john.1.13">The children of thy elect sister greet thee. Amen.</verse>
+<book xmlns="http://example.com/SemanticScripture" title="2 John" shortName="2John" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="63">
+    <chapter id="63001">
+      <block id="63001001" type="v">The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;</block>
+      <block id="63001002" type="v">For the truth's sake, which dwelleth in us, and shall be with us for ever.</block>
+      <block id="63001003" type="v">Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.</block>
+      <block id="63001004" type="v">I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.</block>
+      <block id="63001005" type="v">And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.</block>
+      <block id="63001006" type="v">And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.</block>
+      <block id="63001007" type="v">For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.</block>
+      <block id="63001008" type="v">Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.</block>
+      <block id="63001009" type="v">Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.</block>
+      <block id="63001010" type="v">If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:</block>
+      <block id="63001011" type="v">For he that biddeth him God speed is partaker of his evil deeds.</block>
+      <block id="63001012" type="v">Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.</block>
+      <block id="63001013" type="v">The children of thy elect sister greet thee. Amen.</block>
     </chapter>
   </book>
-  

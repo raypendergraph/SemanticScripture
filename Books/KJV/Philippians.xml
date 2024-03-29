@@ -1,117 +1,116 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book n="50" title="Philippians" shortName="Phil" xmlns="http://example.com/SemanticScripture" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd">
-    <chapter n="1">
+<book xmlns="http://example.com/SemanticScripture" title="Philippians" shortName="Phil" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="50">
+    <chapter id="50001">
       <CAPTION vref="1">To the Philippians written from Rome, by Epaphroditus.</CAPTION>
-      <verse n="1" id="phil.1.1">Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:</verse>
-      <verse n="2" id="phil.1.2">Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.</verse>
-      <verse n="3" id="phil.1.3">I thank my God upon every remembrance of you,</verse>
-      <verse n="4" id="phil.1.4">Always in every prayer of mine for you all making request with joy,</verse>
-      <verse n="5" id="phil.1.5">For your fellowship in the gospel from the first day until now;</verse>
-      <verse n="6" id="phil.1.6">Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:</verse>
-      <verse n="7" id="phil.1.7">Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.</verse>
-      <verse n="8" id="phil.1.8">For God is my record, how greatly I long after you all in the bowels of Jesus Christ.</verse>
-      <verse n="9" id="phil.1.9">And this I pray, that your love may abound yet more and more in knowledge and in all judgment;</verse>
-      <verse n="10" id="phil.1.10">That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;</verse>
-      <verse n="11" id="phil.1.11">Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.</verse>
-      <verse n="12" id="phil.1.12">But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;</verse>
-      <verse n="13" id="phil.1.13">So that my bonds in Christ are manifest in all the palace, and in all other places;</verse>
-      <verse n="14" id="phil.1.14">And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.</verse>
-      <verse n="15" id="phil.1.15">Some indeed preach Christ even of envy and strife; and some also of good will:</verse>
-      <verse n="16" id="phil.1.16">The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:</verse>
-      <verse n="17" id="phil.1.17">But the other of love, knowing that I am set for the defence of the gospel.</verse>
-      <verse n="18" id="phil.1.18">What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.</verse>
-      <verse n="19" id="phil.1.19">For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,</verse>
-      <verse n="20" id="phil.1.20">According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.</verse>
-      <verse n="21" id="phil.1.21">For to me to live is Christ, and to die is gain.</verse>
-      <verse n="22" id="phil.1.22">But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not.</verse>
-      <verse n="23" id="phil.1.23">For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:</verse>
-      <verse n="24" id="phil.1.24">Nevertheless to abide in the flesh is more needful for you.</verse>
-      <verse n="25" id="phil.1.25">And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;</verse>
-      <verse n="26" id="phil.1.26">That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.</verse>
-      <verse n="27" id="phil.1.27">Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;</verse>
-      <verse n="28" id="phil.1.28">And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.</verse>
-      <verse n="29" id="phil.1.29">For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;</verse>
-      <verse n="30" id="phil.1.30">Having the same conflict which ye saw in me, and now hear to be in me.</verse>
+      <block id="50001001" type="verse">Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:</block>
+      <block id="50001002" type="verse">Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.</block>
+      <block id="50001003" type="verse">I thank my God upon every remembrance of you,</block>
+      <block id="50001004" type="verse">Always in every prayer of mine for you all making request with joy,</block>
+      <block id="50001005" type="verse">For your fellowship in the gospel from the first day until now;</block>
+      <block id="50001006" type="verse">Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:</block>
+      <block id="50001007" type="verse">Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.</block>
+      <block id="50001008" type="verse">For God is my record, how greatly I long after you all in the bowels of Jesus Christ.</block>
+      <block id="50001009" type="verse">And this I pray, that your love may abound yet more and more in knowledge and in all judgment;</block>
+      <block id="50001010" type="verse">That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;</block>
+      <block id="50001011" type="verse">Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.</block>
+      <block id="50001012" type="verse">But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;</block>
+      <block id="50001013" type="verse">So that my bonds in Christ are manifest in all the palace, and in all other places;</block>
+      <block id="50001014" type="verse">And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.</block>
+      <block id="50001015" type="verse">Some indeed preach Christ even of envy and strife; and some also of good will:</block>
+      <block id="50001016" type="verse">The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:</block>
+      <block id="50001017" type="verse">But the other of love, knowing that I am set for the defence of the gospel.</block>
+      <block id="50001018" type="verse">What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.</block>
+      <block id="50001019" type="verse">For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,</block>
+      <block id="50001020" type="verse">According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.</block>
+      <block id="50001021" type="verse">For to me to live is Christ, and to die is gain.</block>
+      <block id="50001022" type="verse">But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not.</block>
+      <block id="50001023" type="verse">For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:</block>
+      <block id="50001024" type="verse">Nevertheless to abide in the flesh is more needful for you.</block>
+      <block id="50001025" type="verse">And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;</block>
+      <block id="50001026" type="verse">That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.</block>
+      <block id="50001027" type="verse">Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;</block>
+      <block id="50001028" type="verse">And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.</block>
+      <block id="50001029" type="verse">For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;</block>
+      <block id="50001030" type="verse">Having the same conflict which ye saw in me, and now hear to be in me.</block>
     </chapter>
-    <chapter n="2">
-      <verse n="1" id="phil.2.1">If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,</verse>
-      <verse n="2" id="phil.2.2">Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.</verse>
-      <verse n="3" id="phil.2.3">Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.</verse>
-      <verse n="4" id="phil.2.4">Look not every man on his own things, but every man also on the things of others.</verse>
-      <verse n="5" id="phil.2.5">Let this mind be in you, which was also in Christ Jesus:</verse>
-      <verse n="6" id="phil.2.6">Who, being in the form of God, thought it not robbery to be equal with God:</verse>
-      <verse n="7" id="phil.2.7">But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:</verse>
-      <verse n="8" id="phil.2.8">And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.</verse>
-      <verse n="9" id="phil.2.9">Wherefore God also hath highly exalted him, and given him a name which is above every name:</verse>
-      <verse n="10" id="phil.2.10">That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;</verse>
-      <verse n="11" id="phil.2.11">And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.</verse>
-      <verse n="12" id="phil.2.12">Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.</verse>
-      <verse n="13" id="phil.2.13">For it is God which worketh in you both to will and to do of his good pleasure.</verse>
-      <verse n="14" id="phil.2.14">Do all things without murmurings and disputings:</verse>
-      <verse n="15" id="phil.2.15">That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;</verse>
-      <verse n="16" id="phil.2.16">Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.</verse>
-      <verse n="17" id="phil.2.17">Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.</verse>
-      <verse n="18" id="phil.2.18">For the same cause also do ye joy, and rejoice with me.</verse>
-      <verse n="19" id="phil.2.19">But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.</verse>
-      <verse n="20" id="phil.2.20">For I have no man likeminded, who will naturally care for your state.</verse>
-      <verse n="21" id="phil.2.21">For all seek their own, not the things which are Jesus Christ's.</verse>
-      <verse n="22" id="phil.2.22">But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.</verse>
-      <verse n="23" id="phil.2.23">Him therefore I hope to send presently, so soon as I shall see how it will go with me.</verse>
-      <verse n="24" id="phil.2.24">But I trust in the Lord that I also myself shall come shortly.</verse>
-      <verse n="25" id="phil.2.25">Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.</verse>
-      <verse n="26" id="phil.2.26">For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.</verse>
-      <verse n="27" id="phil.2.27">For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.</verse>
-      <verse n="28" id="phil.2.28">I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.</verse>
-      <verse n="29" id="phil.2.29">Receive him therefore in the Lord with all gladness; and hold such in reputation:</verse>
-      <verse n="30" id="phil.2.30">Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.</verse>
+    <chapter id="50002">
+      <block id="50002001" type="verse">If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,</block>
+      <block id="50002002" type="verse">Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.</block>
+      <block id="50002003" type="verse">Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.</block>
+      <block id="50002004" type="verse">Look not every man on his own things, but every man also on the things of others.</block>
+      <block id="50002005" type="verse">Let this mind be in you, which was also in Christ Jesus:</block>
+      <block id="50002006" type="verse">Who, being in the form of God, thought it not robbery to be equal with God:</block>
+      <block id="50002007" type="verse">But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:</block>
+      <block id="50002008" type="verse">And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.</block>
+      <block id="50002009" type="verse">Wherefore God also hath highly exalted him, and given him a name which is above every name:</block>
+      <block id="50002010" type="verse">That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;</block>
+      <block id="50002011" type="verse">And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.</block>
+      <block id="50002012" type="verse">Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.</block>
+      <block id="50002013" type="verse">For it is God which worketh in you both to will and to do of his good pleasure.</block>
+      <block id="50002014" type="verse">Do all things without murmurings and disputings:</block>
+      <block id="50002015" type="verse">That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;</block>
+      <block id="50002016" type="verse">Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.</block>
+      <block id="50002017" type="verse">Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.</block>
+      <block id="50002018" type="verse">For the same cause also do ye joy, and rejoice with me.</block>
+      <block id="50002019" type="verse">But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.</block>
+      <block id="50002020" type="verse">For I have no man likeminded, who will naturally care for your state.</block>
+      <block id="50002021" type="verse">For all seek their own, not the things which are Jesus Christ's.</block>
+      <block id="50002022" type="verse">But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.</block>
+      <block id="50002023" type="verse">Him therefore I hope to send presently, so soon as I shall see how it will go with me.</block>
+      <block id="50002024" type="verse">But I trust in the Lord that I also myself shall come shortly.</block>
+      <block id="50002025" type="verse">Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.</block>
+      <block id="50002026" type="verse">For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.</block>
+      <block id="50002027" type="verse">For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.</block>
+      <block id="50002028" type="verse">I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.</block>
+      <block id="50002029" type="verse">Receive him therefore in the Lord with all gladness; and hold such in reputation:</block>
+      <block id="50002030" type="verse">Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.</block>
     </chapter>
-    <chapter n="3">
-      <verse n="1" id="phil.3.1">Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.</verse>
-      <verse n="2" id="phil.3.2">Beware of dogs, beware of evil workers, beware of the concision.</verse>
-      <verse n="3" id="phil.3.3">For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.</verse>
-      <verse n="4" id="phil.3.4">Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:</verse>
-      <verse n="5" id="phil.3.5">Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;</verse>
-      <verse n="6" id="phil.3.6">Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.</verse>
-      <verse n="7" id="phil.3.7">But what things were gain to me, those I counted loss for Christ.</verse>
-      <verse n="8" id="phil.3.8">Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,</verse>
-      <verse n="9" id="phil.3.9">And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:</verse>
-      <verse n="10" id="phil.3.10">That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;</verse>
-      <verse n="11" id="phil.3.11">If by any means I might attain unto the resurrection of the dead.</verse>
-      <verse n="12" id="phil.3.12">Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.</verse>
-      <verse n="13" id="phil.3.13">Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,</verse>
-      <verse n="14" id="phil.3.14">I press toward the mark for the prize of the high calling of God in Christ Jesus.</verse>
-      <verse n="15" id="phil.3.15">Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.</verse>
-      <verse n="16" id="phil.3.16">Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.</verse>
-      <verse n="17" id="phil.3.17">Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.</verse>
-      <verse n="18" id="phil.3.18">For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:</verse>
-      <verse n="19" id="phil.3.19">Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)</verse>
-      <verse n="20" id="phil.3.20">For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:</verse>
-      <verse n="21" id="phil.3.21">Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.</verse>
+    <chapter id="50003">
+      <block id="50003001" type="verse">Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.</block>
+      <block id="50003002" type="verse">Beware of dogs, beware of evil workers, beware of the concision.</block>
+      <block id="50003003" type="verse">For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.</block>
+      <block id="50003004" type="verse">Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:</block>
+      <block id="50003005" type="verse">Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;</block>
+      <block id="50003006" type="verse">Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.</block>
+      <block id="50003007" type="verse">But what things were gain to me, those I counted loss for Christ.</block>
+      <block id="50003008" type="verse">Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,</block>
+      <block id="50003009" type="verse">And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:</block>
+      <block id="50003010" type="verse">That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;</block>
+      <block id="50003011" type="verse">If by any means I might attain unto the resurrection of the dead.</block>
+      <block id="50003012" type="verse">Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.</block>
+      <block id="50003013" type="verse">Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,</block>
+      <block id="50003014" type="verse">I press toward the mark for the prize of the high calling of God in Christ Jesus.</block>
+      <block id="50003015" type="verse">Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.</block>
+      <block id="50003016" type="verse">Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.</block>
+      <block id="50003017" type="verse">Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.</block>
+      <block id="50003018" type="verse">For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:</block>
+      <block id="50003019" type="verse">Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)</block>
+      <block id="50003020" type="verse">For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:</block>
+      <block id="50003021" type="verse">Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.</block>
     </chapter>
-    <chapter n="4">
-      <verse n="1" id="phil.4.1">Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.</verse>
-      <verse n="2" id="phil.4.2">I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.</verse>
-      <verse n="3" id="phil.4.3">And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.</verse>
-      <verse n="4" id="phil.4.4">Rejoice in the Lord alway: and again I say, Rejoice.</verse>
-      <verse n="5" id="phil.4.5">Let your moderation be known unto all men. The Lord is at hand.</verse>
-      <verse n="6" id="phil.4.6">Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.</verse>
-      <verse n="7" id="phil.4.7">And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.</verse>
-      <verse n="8" id="phil.4.8">Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.</verse>
-      <verse n="9" id="phil.4.9">Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.</verse>
-      <verse n="10" id="phil.4.10">But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.</verse>
-      <verse n="11" id="phil.4.11">Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.</verse>
-      <verse n="12" id="phil.4.12">I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.</verse>
-      <verse n="13" id="phil.4.13">I can do all things through Christ which strengtheneth me.</verse>
-      <verse n="14" id="phil.4.14">Notwithstanding ye have well done, that ye did communicate with my affliction.</verse>
-      <verse n="15" id="phil.4.15">Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.</verse>
-      <verse n="16" id="phil.4.16">For even in Thessalonica ye sent once and again unto my necessity.</verse>
-      <verse n="17" id="phil.4.17">Not because I desire a gift: but I desire fruit that may abound to your account.</verse>
-      <verse n="18" id="phil.4.18">But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.</verse>
-      <verse n="19" id="phil.4.19">But my God shall supply all your need according to his riches in glory by Christ Jesus.</verse>
-      <verse n="20" id="phil.4.20">Now unto God and our Father be glory for ever and ever. Amen.</verse>
-      <verse n="21" id="phil.4.21">Salute every saint in Christ Jesus. The brethren which are with me greet you.</verse>
-      <verse n="22" id="phil.4.22">All the saints salute you, chiefly they that are of Caesar's household.</verse>
-      <verse n="23" id="phil.4.23">The grace of our Lord Jesus Christ be with you all. Amen. </verse>
+    <chapter id="50004">
+      <block id="50004001" type="verse">Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.</block>
+      <block id="50004002" type="verse">I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.</block>
+      <block id="50004003" type="verse">And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.</block>
+      <block id="50004004" type="verse">Rejoice in the Lord alway: and again I say, Rejoice.</block>
+      <block id="50004005" type="verse">Let your moderation be known unto all men. The Lord is at hand.</block>
+      <block id="50004006" type="verse">Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.</block>
+      <block id="50004007" type="verse">And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.</block>
+      <block id="50004008" type="verse">Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.</block>
+      <block id="50004009" type="verse">Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.</block>
+      <block id="50004010" type="verse">But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.</block>
+      <block id="50004011" type="verse">Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.</block>
+      <block id="50004012" type="verse">I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.</block>
+      <block id="50004013" type="verse">I can do all things through Christ which strengtheneth me.</block>
+      <block id="50004014" type="verse">Notwithstanding ye have well done, that ye did communicate with my affliction.</block>
+      <block id="50004015" type="verse">Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.</block>
+      <block id="50004016" type="verse">For even in Thessalonica ye sent once and again unto my necessity.</block>
+      <block id="50004017" type="verse">Not because I desire a gift: but I desire fruit that may abound to your account.</block>
+      <block id="50004018" type="verse">But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.</block>
+      <block id="50004019" type="verse">But my God shall supply all your need according to his riches in glory by Christ Jesus.</block>
+      <block id="50004020" type="verse">Now unto God and our Father be glory for ever and ever. Amen.</block>
+      <block id="50004021" type="verse">Salute every saint in Christ Jesus. The brethren which are with me greet you.</block>
+      <block id="50004022" type="verse">All the saints salute you, chiefly they that are of Caesar's household.</block>
+      <block id="50004023" type="verse">The grace of our Lord Jesus Christ be with you all. Amen. </block>
     </chapter>
   </book>
-  
