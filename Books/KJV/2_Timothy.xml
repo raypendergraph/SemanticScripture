@@ -1,95 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="2 Timothy" shortName="2Tim" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="55">
-    <chapter id="55001">
-      <CAPTION vref="1">The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.</CAPTION>
-      <block id="55001001" type="v">Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,</block>
-      <block id="55001002" type="v">To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.</block>
-      <block id="55001003" type="v">I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;</block>
-      <block id="55001004" type="v">Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;</block>
-      <block id="55001005" type="v">When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.</block>
-      <block id="55001006" type="v">Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.</block>
-      <block id="55001007" type="v">For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.</block>
-      <block id="55001008" type="v">Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;</block>
-      <block id="55001009" type="v">Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,</block>
-      <block id="55001010" type="v">But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:</block>
-      <block id="55001011" type="v">Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.</block>
-      <block id="55001012" type="v">For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.</block>
-      <block id="55001013" type="v">Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.</block>
-      <block id="55001014" type="v">That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.</block>
-      <block id="55001015" type="v">This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.</block>
-      <block id="55001016" type="v">The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:</block>
-      <block id="55001017" type="v">But, when he was in Rome, he sought me out very diligently, and found me.</block>
-      <block id="55001018" type="v">The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.</block>
-    </chapter>
-    <chapter id="55002">
-      <block id="55002001" type="v">Thou therefore, my son, be strong in the grace that is in Christ Jesus.</block>
-      <block id="55002002" type="v">And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.</block>
-      <block id="55002003" type="v">Thou therefore endure hardness, as a good soldier of Jesus Christ.</block>
-      <block id="55002004" type="v">No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.</block>
-      <block id="55002005" type="v">And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.</block>
-      <block id="55002006" type="v">The husbandman that laboureth must be first partaker of the fruits.</block>
-      <block id="55002007" type="v">Consider what I say; and the Lord give thee understanding in all things.</block>
-      <block id="55002008" type="v">Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:</block>
-      <block id="55002009" type="v">Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.</block>
-      <block id="55002010" type="v">Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.</block>
-      <block id="55002011" type="v">It is a faithful saying: For if we be dead with him, we shall also live with him:</block>
-      <block id="55002012" type="v">If we suffer, we shall also reign with him: if we deny him, he also will deny us:</block>
-      <block id="55002013" type="v">If we believe not, yet he abideth faithful: he cannot deny himself.</block>
-      <block id="55002014" type="v">Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.</block>
-      <block id="55002015" type="v">Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.</block>
-      <block id="55002016" type="v">But shun profane and vain babblings: for they will increase unto more ungodliness.</block>
-      <block id="55002017" type="v">And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;</block>
-      <block id="55002018" type="v">Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.</block>
-      <block id="55002019" type="v">Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.</block>
-      <block id="55002020" type="v">But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.</block>
-      <block id="55002021" type="v">If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work.</block>
-      <block id="55002022" type="v">Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.</block>
-      <block id="55002023" type="v">But foolish and unlearned questions avoid, knowing that they do gender strifes.</block>
-      <block id="55002024" type="v">And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,</block>
-      <block id="55002025" type="v">In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;</block>
-      <block id="55002026" type="v">And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.</block>
-    </chapter>
-    <chapter id="55003">
-      <block id="55003001" type="v">This know also, that in the last days perilous times shall come.</block>
-      <block id="55003002" type="v">For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,</block>
-      <block id="55003003" type="v">Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,</block>
-      <block id="55003004" type="v">Traitors, heady, highminded, lovers of pleasures more than lovers of God;</block>
-      <block id="55003005" type="v">Having a form of godliness, but denying the power thereof: from such turn away.</block>
-      <block id="55003006" type="v">For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,</block>
-      <block id="55003007" type="v">Ever learning, and never able to come to the knowledge of the truth.</block>
-      <block id="55003008" type="v">Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.</block>
-      <block id="55003009" type="v">But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.</block>
-      <block id="55003010" type="v">But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,</block>
-      <block id="55003011" type="v">Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.</block>
-      <block id="55003012" type="v">Yea, and all that will live godly in Christ Jesus shall suffer persecution.</block>
-      <block id="55003013" type="v">But evil men and seducers shall wax worse and worse, deceiving, and being deceived.</block>
-      <block id="55003014" type="v">But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;</block>
-      <block id="55003015" type="v">And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.</block>
-      <block id="55003016" type="v">All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:</block>
-      <block id="55003017" type="v">That the man of God may be perfect, throughly furnished unto all good works.</block>
-    </chapter>
-    <chapter id="55004">
-      <block id="55004001" type="v">I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;</block>
-      <block id="55004002" type="v">Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.</block>
-      <block id="55004003" type="v">For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;</block>
-      <block id="55004004" type="v">And they shall turn away their ears from the truth, and shall be turned unto fables.</block>
-      <block id="55004005" type="v">But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry.</block>
-      <block id="55004006" type="v">For I am now ready to be offered, and the time of my departure is at hand.</block>
-      <block id="55004007" type="v">I have fought a good fight, I have finished my course, I have kept the faith:</block>
-      <block id="55004008" type="v">Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.</block>
-      <block id="55004009" type="v">Do thy diligence to come shortly unto me:</block>
-      <block id="55004010" type="v">For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.</block>
-      <block id="55004011" type="v">Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.</block>
-      <block id="55004012" type="v">And Tychicus have I sent to Ephesus.</block>
-      <block id="55004013" type="v">The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.</block>
-      <block id="55004014" type="v">Alexander the coppersmith did me much evil: the Lord reward him according to his works:</block>
-      <block id="55004015" type="v">Of whom be thou ware also; for he hath greatly withstood our words.</block>
-      <block id="55004016" type="v">At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.</block>
-      <block id="55004017" type="v">Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.</block>
-      <block id="55004018" type="v">And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.</block>
-      <block id="55004019" type="v">Salute Prisca and Aquila, and the household of Onesiphorus.</block>
-      <block id="55004020" type="v">Erastus abode at Corinth: but Trophimus have I left at Miletum sick.</block>
-      <block id="55004021" type="v">Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.</block>
-      <block id="55004022" type="v">The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. </block>
-    </chapter>
-  </book>
+<text  title="2 Timothy"   id="55" xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+    <ante>
+      <caption>The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.</caption>
+    </ante>
+    <sec type="ch" id="55001">
+      <frag id="55001001" type="vs">Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,</frag>
+      <frag id="55001002" type="vs">To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.</frag>
+      <frag id="55001003" type="vs">I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;</frag>
+      <frag id="55001004" type="vs">Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;</frag>
+      <frag id="55001005" type="vs">When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.</frag>
+      <frag id="55001006" type="vs">Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.</frag>
+      <frag id="55001007" type="vs">For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.</frag>
+      <frag id="55001008" type="vs">Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;</frag>
+      <frag id="55001009" type="vs">Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,</frag>
+      <frag id="55001010" type="vs">But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:</frag>
+      <frag id="55001011" type="vs">Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.</frag>
+      <frag id="55001012" type="vs">For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.</frag>
+      <frag id="55001013" type="vs">Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.</frag>
+      <frag id="55001014" type="vs">That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.</frag>
+      <frag id="55001015" type="vs">This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.</frag>
+      <frag id="55001016" type="vs">The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:</frag>
+      <frag id="55001017" type="vs">But, when he was in Rome, he sought me out very diligently, and found me.</frag>
+      <frag id="55001018" type="vs">The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.</frag>
+    </sec>
+    <sec type="ch" id="55002">
+      <frag id="55002001" type="vs">Thou therefore, my son, be strong in the grace that is in Christ Jesus.</frag>
+      <frag id="55002002" type="vs">And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.</frag>
+      <frag id="55002003" type="vs">Thou therefore endure hardness, as a good soldier of Jesus Christ.</frag>
+      <frag id="55002004" type="vs">No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.</frag>
+      <frag id="55002005" type="vs">And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.</frag>
+      <frag id="55002006" type="vs">The husbandman that laboureth must be first partaker of the fruits.</frag>
+      <frag id="55002007" type="vs">Consider what I say; and the Lord give thee understanding in all things.</frag>
+      <frag id="55002008" type="vs">Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:</frag>
+      <frag id="55002009" type="vs">Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.</frag>
+      <frag id="55002010" type="vs">Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.</frag>
+      <frag id="55002011" type="vs">It is a faithful saying: For if we be dead with him, we shall also live with him:</frag>
+      <frag id="55002012" type="vs">If we suffer, we shall also reign with him: if we deny him, he also will deny us:</frag>
+      <frag id="55002013" type="vs">If we believe not, yet he abideth faithful: he cannot deny himself.</frag>
+      <frag id="55002014" type="vs">Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.</frag>
+      <frag id="55002015" type="vs">Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.</frag>
+      <frag id="55002016" type="vs">But shun profane and vain babblings: for they will increase unto more ungodliness.</frag>
+      <frag id="55002017" type="vs">And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;</frag>
+      <frag id="55002018" type="vs">Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.</frag>
+      <frag id="55002019" type="vs">Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.</frag>
+      <frag id="55002020" type="vs">But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.</frag>
+      <frag id="55002021" type="vs">If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work.</frag>
+      <frag id="55002022" type="vs">Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.</frag>
+      <frag id="55002023" type="vs">But foolish and unlearned questions avoid, knowing that they do gender strifes.</frag>
+      <frag id="55002024" type="vs">And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,</frag>
+      <frag id="55002025" type="vs">In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;</frag>
+      <frag id="55002026" type="vs">And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.</frag>
+    </sec>
+    <sec type="ch" id="55003">
+      <frag id="55003001" type="vs">This know also, that in the last days perilous times shall come.</frag>
+      <frag id="55003002" type="vs">For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,</frag>
+      <frag id="55003003" type="vs">Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,</frag>
+      <frag id="55003004" type="vs">Traitors, heady, highminded, lovers of pleasures more than lovers of God;</frag>
+      <frag id="55003005" type="vs">Having a form of godliness, but denying the power thereof: from such turn away.</frag>
+      <frag id="55003006" type="vs">For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,</frag>
+      <frag id="55003007" type="vs">Ever learning, and never able to come to the knowledge of the truth.</frag>
+      <frag id="55003008" type="vs">Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.</frag>
+      <frag id="55003009" type="vs">But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.</frag>
+      <frag id="55003010" type="vs">But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,</frag>
+      <frag id="55003011" type="vs">Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.</frag>
+      <frag id="55003012" type="vs">Yea, and all that will live godly in Christ Jesus shall suffer persecution.</frag>
+      <frag id="55003013" type="vs">But evil men and seducers shall wax worse and worse, deceiving, and being deceived.</frag>
+      <frag id="55003014" type="vs">But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;</frag>
+      <frag id="55003015" type="vs">And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.</frag>
+      <frag id="55003016" type="vs">All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:</frag>
+      <frag id="55003017" type="vs">That the man of God may be perfect, throughly furnished unto all good works.</frag>
+    </sec>
+    <sec type="ch" id="55004">
+      <frag id="55004001" type="vs">I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;</frag>
+      <frag id="55004002" type="vs">Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.</frag>
+      <frag id="55004003" type="vs">For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;</frag>
+      <frag id="55004004" type="vs">And they shall turn away their ears from the truth, and shall be turned unto fables.</frag>
+      <frag id="55004005" type="vs">But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry.</frag>
+      <frag id="55004006" type="vs">For I am now ready to be offered, and the time of my departure is at hand.</frag>
+      <frag id="55004007" type="vs">I have fought a good fight, I have finished my course, I have kept the faith:</frag>
+      <frag id="55004008" type="vs">Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.</frag>
+      <frag id="55004009" type="vs">Do thy diligence to come shortly unto me:</frag>
+      <frag id="55004010" type="vs">For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.</frag>
+      <frag id="55004011" type="vs">Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.</frag>
+      <frag id="55004012" type="vs">And Tychicus have I sent to Ephesus.</frag>
+      <frag id="55004013" type="vs">The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.</frag>
+      <frag id="55004014" type="vs">Alexander the coppersmith did me much evil: the Lord reward him according to his works:</frag>
+      <frag id="55004015" type="vs">Of whom be thou ware also; for he hath greatly withstood our words.</frag>
+      <frag id="55004016" type="vs">At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.</frag>
+      <frag id="55004017" type="vs">Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.</frag>
+      <frag id="55004018" type="vs">And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.</frag>
+      <frag id="55004019" type="vs">Salute Prisca and Aquila, and the household of Onesiphorus.</frag>
+      <frag id="55004020" type="vs">Erastus abode at Corinth: but Trophimus have I left at Miletum sick.</frag>
+      <frag id="55004021" type="vs">Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.</frag>
+      <frag id="55004022" type="vs">The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. </frag>
+    </sec>
+  </text>

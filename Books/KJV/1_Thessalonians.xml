@@ -1,103 +1,105 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="1 Thessalonians" shortName="1Thess" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="52">
-    <chapter id="52001">
-      <CAPTION vref="1">The first epistle to the Thessalonians was written from Athens.</CAPTION>
-      <block id="52001001" type="verse">Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.</block>
-      <block id="52001002" type="verse">We give thanks to God always for you all, making mention of you in our prayers;</block>
-      <block id="52001003" type="verse">Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;</block>
-      <block id="52001004" type="verse">Knowing, brethren beloved, your election of God.</block>
-      <block id="52001005" type="verse">For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.</block>
-      <block id="52001006" type="verse">And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:</block>
-      <block id="52001007" type="verse">So that ye were ensamples to all that believe in Macedonia and Achaia.</block>
-      <block id="52001008" type="verse">For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.</block>
-      <block id="52001009" type="verse">For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;</block>
-      <block id="52001010" type="verse">And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.</block>
-    </chapter>
-    <chapter id="52002">
-      <block id="52002001" type="verse">For yourselves, brethren, know our entrance in unto you, that it was not in vain:</block>
-      <block id="52002002" type="verse">But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.</block>
-      <block id="52002003" type="verse">For our exhortation was not of deceit, nor of uncleanness, nor in guile:</block>
-      <block id="52002004" type="verse">But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.</block>
-      <block id="52002005" type="verse">For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:</block>
-      <block id="52002006" type="verse">Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.</block>
-      <block id="52002007" type="verse">But we were gentle among you, even as a nurse cherisheth her children:</block>
-      <block id="52002008" type="verse">So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.</block>
-      <block id="52002009" type="verse">For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God.</block>
-      <block id="52002010" type="verse">Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:</block>
-      <block id="52002011" type="verse">As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,</block>
-      <block id="52002012" type="verse">That ye would walk worthy of God, who hath called you unto his kingdom and glory.</block>
-      <block id="52002013" type="verse">For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.</block>
-      <block id="52002014" type="verse">For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:</block>
-      <block id="52002015" type="verse">Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:</block>
-      <block id="52002016" type="verse">Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.</block>
-      <block id="52002017" type="verse">But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.</block>
-      <block id="52002018" type="verse">Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.</block>
-      <block id="52002019" type="verse">For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?</block>
-      <block id="52002020" type="verse">For ye are our glory and joy.</block>
-    </chapter>
-    <chapter id="52003">
-      <block id="52003001" type="verse">Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;</block>
-      <block id="52003002" type="verse">And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:</block>
-      <block id="52003003" type="verse">That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.</block>
-      <block id="52003004" type="verse">For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know.</block>
-      <block id="52003005" type="verse">For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.</block>
-      <block id="52003006" type="verse">But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:</block>
-      <block id="52003007" type="verse">Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:</block>
-      <block id="52003008" type="verse">For now we live, if ye stand fast in the Lord.</block>
-      <block id="52003009" type="verse">For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;</block>
-      <block id="52003010" type="verse">Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?</block>
-      <block id="52003011" type="verse">Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.</block>
-      <block id="52003012" type="verse">And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:</block>
-      <block id="52003013" type="verse">To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.</block>
-    </chapter>
-    <chapter id="52004">
-      <block id="52004001" type="verse">Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.</block>
-      <block id="52004002" type="verse">For ye know what commandments we gave you by the Lord Jesus.</block>
-      <block id="52004003" type="verse">For this is the will of God, even your sanctification, that ye should abstain from fornication:</block>
-      <block id="52004004" type="verse">That every one of you should know how to possess his vessel in sanctification and honour;</block>
-      <block id="52004005" type="verse">Not in the lust of concupiscence, even as the Gentiles which know not God:</block>
-      <block id="52004006" type="verse">That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.</block>
-      <block id="52004007" type="verse">For God hath not called us unto uncleanness, but unto holiness.</block>
-      <block id="52004008" type="verse">He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.</block>
-      <block id="52004009" type="verse">But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.</block>
-      <block id="52004010" type="verse">And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;</block>
-      <block id="52004011" type="verse">And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;</block>
-      <block id="52004012" type="verse">That ye may walk honestly toward them that are without, and that ye may have lack of nothing.</block>
-      <block id="52004013" type="verse">But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.</block>
-      <block id="52004014" type="verse">For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.</block>
-      <block id="52004015" type="verse">For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.</block>
-      <block id="52004016" type="verse">For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:</block>
-      <block id="52004017" type="verse">Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.</block>
-      <block id="52004018" type="verse">Wherefore comfort one another with these words.</block>
-    </chapter>
-    <chapter id="52005">
-      <block id="52005001" type="verse">But of the times and the seasons, brethren, ye have no need that I write unto you.</block>
-      <block id="52005002" type="verse">For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.</block>
-      <block id="52005003" type="verse">For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.</block>
-      <block id="52005004" type="verse">But ye, brethren, are not in darkness, that that day should overtake you as a thief.</block>
-      <block id="52005005" type="verse">Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.</block>
-      <block id="52005006" type="verse">Therefore let us not sleep, as do others; but let us watch and be sober.</block>
-      <block id="52005007" type="verse">For they that sleep sleep in the night; and they that be drunken are drunken in the night.</block>
-      <block id="52005008" type="verse">But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.</block>
-      <block id="52005009" type="verse">For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,</block>
-      <block id="52005010" type="verse">Who died for us, that, whether we wake or sleep, we should live together with him.</block>
-      <block id="52005011" type="verse">Wherefore comfort yourselves together, and edify one another, even as also ye do.</block>
-      <block id="52005012" type="verse">And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;</block>
-      <block id="52005013" type="verse">And to esteem them very highly in love for their work's sake. And be at peace among yourselves.</block>
-      <block id="52005014" type="verse">Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.</block>
-      <block id="52005015" type="verse">See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.</block>
-      <block id="52005016" type="verse">Rejoice evermore.</block>
-      <block id="52005017" type="verse">Pray without ceasing.</block>
-      <block id="52005018" type="verse">In every thing give thanks: for this is the will of God in Christ Jesus concerning you.</block>
-      <block id="52005019" type="verse">Quench not the Spirit.</block>
-      <block id="52005020" type="verse">Despise not prophesyings.</block>
-      <block id="52005021" type="verse">Prove all things; hold fast that which is good.</block>
-      <block id="52005022" type="verse">Abstain from all appearance of evil.</block>
-      <block id="52005023" type="verse">And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.</block>
-      <block id="52005024" type="verse">Faithful is he that calleth you, who also will do it.</block>
-      <block id="52005025" type="verse">Brethren, pray for us.</block>
-      <block id="52005026" type="verse">Greet all the brethren with an holy kiss.</block>
-      <block id="52005027" type="verse">I charge you by the Lord that this epistle be read unto all the holy brethren.</block>
-      <block id="52005028" type="verse">The grace of our Lord Jesus Christ be with you. Amen. </block>
-    </chapter>
-  </book>
+<text xmlns="http://example.com/SemanticScripture"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="1 Thessalonians" id="52"
+  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sec type="ch" id="52001">
+    <caption>The first epistle to the Thessalonians was written from Athens.</caption>
+    <frag id="52001001" type="vs">Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.</frag>
+    <frag id="52001002" type="vs">We give thanks to God always for you all, making mention of you in our prayers;</frag>
+    <frag id="52001003" type="vs">Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;</frag>
+    <frag id="52001004" type="vs">Knowing, brethren beloved, your election of God.</frag>
+    <frag id="52001005" type="vs">For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.</frag>
+    <frag id="52001006" type="vs">And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:</frag>
+    <frag id="52001007" type="vs">So that ye were ensamples to all that believe in Macedonia and Achaia.</frag>
+    <frag id="52001008" type="vs">For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.</frag>
+    <frag id="52001009" type="vs">For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;</frag>
+    <frag id="52001010" type="vs">And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.</frag>
+  </sec>
+  <sec type="ch" id="52002">
+    <frag id="52002001" type="vs">For yourselves, brethren, know our entrance in unto you, that it was not in vain:</frag>
+    <frag id="52002002" type="vs">But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.</frag>
+    <frag id="52002003" type="vs">For our exhortation was not of deceit, nor of uncleanness, nor in guile:</frag>
+    <frag id="52002004" type="vs">But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.</frag>
+    <frag id="52002005" type="vs">For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:</frag>
+    <frag id="52002006" type="vs">Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.</frag>
+    <frag id="52002007" type="vs">But we were gentle among you, even as a nurse cherisheth her children:</frag>
+    <frag id="52002008" type="vs">So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.</frag>
+    <frag id="52002009" type="vs">For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God.</frag>
+    <frag id="52002010" type="vs">Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:</frag>
+    <frag id="52002011" type="vs">As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,</frag>
+    <frag id="52002012" type="vs">That ye would walk worthy of God, who hath called you unto his kingdom and glory.</frag>
+    <frag id="52002013" type="vs">For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.</frag>
+    <frag id="52002014" type="vs">For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:</frag>
+    <frag id="52002015" type="vs">Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:</frag>
+    <frag id="52002016" type="vs">Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.</frag>
+    <frag id="52002017" type="vs">But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.</frag>
+    <frag id="52002018" type="vs">Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.</frag>
+    <frag id="52002019" type="vs">For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?</frag>
+    <frag id="52002020" type="vs">For ye are our glory and joy.</frag>
+  </sec>
+  <sec type="ch" id="52003">
+    <frag id="52003001" type="vs">Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;</frag>
+    <frag id="52003002" type="vs">And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:</frag>
+    <frag id="52003003" type="vs">That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.</frag>
+    <frag id="52003004" type="vs">For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know.</frag>
+    <frag id="52003005" type="vs">For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.</frag>
+    <frag id="52003006" type="vs">But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:</frag>
+    <frag id="52003007" type="vs">Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:</frag>
+    <frag id="52003008" type="vs">For now we live, if ye stand fast in the Lord.</frag>
+    <frag id="52003009" type="vs">For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;</frag>
+    <frag id="52003010" type="vs">Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?</frag>
+    <frag id="52003011" type="vs">Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.</frag>
+    <frag id="52003012" type="vs">And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:</frag>
+    <frag id="52003013" type="vs">To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.</frag>
+  </sec>
+  <sec type="ch" id="52004">
+    <frag id="52004001" type="vs">Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.</frag>
+    <frag id="52004002" type="vs">For ye know what commandments we gave you by the Lord Jesus.</frag>
+    <frag id="52004003" type="vs">For this is the will of God, even your sanctification, that ye should abstain from fornication:</frag>
+    <frag id="52004004" type="vs">That every one of you should know how to possess his vessel in sanctification and honour;</frag>
+    <frag id="52004005" type="vs">Not in the lust of concupiscence, even as the Gentiles which know not God:</frag>
+    <frag id="52004006" type="vs">That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.</frag>
+    <frag id="52004007" type="vs">For God hath not called us unto uncleanness, but unto holiness.</frag>
+    <frag id="52004008" type="vs">He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.</frag>
+    <frag id="52004009" type="vs">But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.</frag>
+    <frag id="52004010" type="vs">And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;</frag>
+    <frag id="52004011" type="vs">And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;</frag>
+    <frag id="52004012" type="vs">That ye may walk honestly toward them that are without, and that ye may have lack of nothing.</frag>
+    <frag id="52004013" type="vs">But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.</frag>
+    <frag id="52004014" type="vs">For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.</frag>
+    <frag id="52004015" type="vs">For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.</frag>
+    <frag id="52004016" type="vs">For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:</frag>
+    <frag id="52004017" type="vs">Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.</frag>
+    <frag id="52004018" type="vs">Wherefore comfort one another with these words.</frag>
+  </sec>
+  <sec type="ch" id="52005">
+    <frag id="52005001" type="vs">But of the times and the seasons, brethren, ye have no need that I write unto you.</frag>
+    <frag id="52005002" type="vs">For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.</frag>
+    <frag id="52005003" type="vs">For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.</frag>
+    <frag id="52005004" type="vs">But ye, brethren, are not in darkness, that that day should overtake you as a thief.</frag>
+    <frag id="52005005" type="vs">Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.</frag>
+    <frag id="52005006" type="vs">Therefore let us not sleep, as do others; but let us watch and be sober.</frag>
+    <frag id="52005007" type="vs">For they that sleep sleep in the night; and they that be drunken are drunken in the night.</frag>
+    <frag id="52005008" type="vs">But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.</frag>
+    <frag id="52005009" type="vs">For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,</frag>
+    <frag id="52005010" type="vs">Who died for us, that, whether we wake or sleep, we should live together with him.</frag>
+    <frag id="52005011" type="vs">Wherefore comfort yourselves together, and edify one another, even as also ye do.</frag>
+    <frag id="52005012" type="vs">And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;</frag>
+    <frag id="52005013" type="vs">And to esteem them very highly in love for their work's sake. And be at peace among yourselves.</frag>
+    <frag id="52005014" type="vs">Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.</frag>
+    <frag id="52005015" type="vs">See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.</frag>
+    <frag id="52005016" type="vs">Rejoice evermore.</frag>
+    <frag id="52005017" type="vs">Pray without ceasing.</frag>
+    <frag id="52005018" type="vs">In every thing give thanks: for this is the will of God in Christ Jesus concerning you.</frag>
+    <frag id="52005019" type="vs">Quench not the Spirit.</frag>
+    <frag id="52005020" type="vs">Despise not prophesyings.</frag>
+    <frag id="52005021" type="vs">Prove all things; hold fast that which is good.</frag>
+    <frag id="52005022" type="vs">Abstain from all appearance of evil.</frag>
+    <frag id="52005023" type="vs">And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.</frag>
+    <frag id="52005024" type="vs">Faithful is he that calleth you, who also will do it.</frag>
+    <frag id="52005025" type="vs">Brethren, pray for us.</frag>
+    <frag id="52005026" type="vs">Greet all the brethren with an holy kiss.</frag>
+    <frag id="52005027" type="vs">I charge you by the Lord that this epistle be read unto all the holy brethren.</frag>
+    <frag id="52005028" type="vs">The grace of our Lord Jesus Christ be with you. Amen. </frag>
+  </sec>
+</text>

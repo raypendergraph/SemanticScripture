@@ -1,333 +1,337 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="Hebrews" shortName="Heb" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="58">
-    <chapter id="58001">
-      <CAPTION vref="1">Written to the Hebrews from Italy, by Timothy.</CAPTION>
-      <block id="58001001" type="v">God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,</block>
-      <block id="58001002" type="v">Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;</block>
-      <block id="58001003" type="v">Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;</block>
-      <block id="58001004" type="v">Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.</block>
-      <block id="58001005" type="v">For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</block>
-      <block id="58001006" type="v">And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</block>
-      <block id="58001007" type="v">And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.</block>
-      <block id="58001008" type="v">But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.</block>
-      <block id="58001009" type="v">Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.</block>
-      <block id="58001010" type="v">And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:</block>
-      <block id="58001011" type="v">They shall perish; but thou remainest; and they all shall wax old as doth a garment;</block>
-      <block id="58001012" type="v">And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</block>
-      <block id="58001013" type="v">But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?</block>
-      <block id="58001014" type="v">Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?</block>
-    </chapter>
-    <chapter id="58002">
-      <block id="58002001" type="v">Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.</block>
-      <block id="58002002" type="v">For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;</block>
-      <block id="58002003" type="v">How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;</block>
-      <block id="58002004" type="v">God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?</block>
-      <block id="58002005" type="v">For unto the angels hath he not put in subjection the world to come, whereof we speak.</block>
-      <block id="58002006" type="v">But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?</block>
-      <block id="58002007" type="v">Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:</block>
-      <block id="58002008" type="v">Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.</block>
-      <block id="58002009" type="v">But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.</block>
-      <block id="58002010" type="v">For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.</block>
-      <block id="58002011" type="v">For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,</block>
-      <block id="58002012" type="v">Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.</block>
-      <block id="58002013" type="v">And again, I will put my trust in him. And again, Behold I and the children which God hath given me.</block>
-      <block id="58002014" type="v">Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;</block>
-      <block id="58002015" type="v">And deliver them who through fear of death were all their lifetime subject to bondage.</block>
-      <block id="58002016" type="v">For verily he took not on him the nature of angels; but he took on him the seed of Abraham.</block>
-      <block id="58002017" type="v">Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.</block>
-      <block id="58002018" type="v">For in that he himself hath suffered being tempted, he is able to succour them that are tempted.</block>
-    </chapter>
-    <chapter id="58003">
-      <block id="58003001" type="v">Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;</block>
-      <block id="58003002" type="v">Who was faithful to him that appointed him, as also Moses was faithful in all his house.</block>
-      <block id="58003003" type="v">For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.</block>
-      <block id="58003004" type="v">For every house is builded by some man; but he that built all things is God.</block>
-      <block id="58003005" type="v">And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;</block>
-      <block id="58003006" type="v">But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.</block>
-      <block id="58003007" type="v">Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,</block>
-      <block id="58003008" type="v">Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:</block>
-      <block id="58003009" type="v">When your fathers tempted me, proved me, and saw my works forty years.</block>
-      <block id="58003010" type="v">Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.</block>
-      <block id="58003011" type="v">So I sware in my wrath, They shall not enter into my rest.)</block>
-      <block id="58003012" type="v">Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.</block>
-      <block id="58003013" type="v">But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.</block>
-      <block id="58003014" type="v">For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;</block>
-      <block id="58003015" type="v">While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.</block>
-      <block id="58003016" type="v">For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.</block>
-      <block id="58003017" type="v">But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?</block>
-      <block id="58003018" type="v">And to whom sware he that they should not enter into his rest, but to them that believed not?</block>
-      <block id="58003019" type="v">So we see that they could not enter in because of unbelief.</block>
-    </chapter>
-    <chapter id="58004">
-      <block id="58004001" type="v">Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.</block>
-      <block id="58004002" type="v">For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.</block>
-      <block id="58004003" type="v">For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.</block>
-      <block id="58004004" type="v">For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.</block>
-      <block id="58004005" type="v">And in this place again, If they shall enter into my rest.</block>
-      <block id="58004006" type="v">Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:</block>
-      <block id="58004007" type="v">Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.</block>
-      <block id="58004008" type="v">For if Jesus had given them rest, then would he not afterward have spoken of another day.</block>
-      <block id="58004009" type="v">There remaineth therefore a rest to the people of God.</block>
-      <block id="58004010" type="v">For he that is entered into his rest, he also hath ceased from his own works, as God did from his.</block>
-      <block id="58004011" type="v">Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.</block>
-      <block id="58004012" type="v">For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.</block>
-      <block id="58004013" type="v">Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.</block>
-      <block id="58004014" type="v">Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.</block>
-      <block id="58004015" type="v">For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.</block>
-      <block id="58004016" type="v">Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.</block>
-    </chapter>
-    <chapter id="58005">
-      <block id="58005001" type="v">For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:</block>
-      <block id="58005002" type="v">Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.</block>
-      <block id="58005003" type="v">And by reason hereof he ought, as for the people, so also for himself, to offer for sins.</block>
-      <block id="58005004" type="v">And no man taketh this honour unto himself, but he that is called of God, as was Aaron.</block>
-      <block id="58005005" type="v">So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.</block>
-      <block id="58005006" type="v">As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.</block>
-      <block id="58005007" type="v">Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;</block>
-      <block id="58005008" type="v">Though he were a Son, yet learned he obedience by the things which he suffered;</block>
-      <block id="58005009" type="v">And being made perfect, he became the author of eternal salvation unto all them that obey him;</block>
-      <block id="58005010" type="v">Called of God an high priest after the order of Melchisedec.</block>
-      <block id="58005011" type="v">Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.</block>
-      <block id="58005012" type="v">For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.</block>
-      <block id="58005013" type="v">For every one that useth milk is unskilful in the word of righteousness: for he is a babe.</block>
-      <block id="58005014" type="v">But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.</block>
-    </chapter>
-    <chapter id="58006">
-      <block id="58006001" type="v">Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,</block>
-      <block id="58006002" type="v">Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.</block>
-      <block id="58006003" type="v">And this will we do, if God permit.</block>
-      <block id="58006004" type="v">For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,</block>
-      <block id="58006005" type="v">And have tasted the good word of God, and the powers of the world to come,</block>
-      <block id="58006006" type="v">If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.</block>
-      <block id="58006007" type="v">For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:</block>
-      <block id="58006008" type="v">But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned.</block>
-      <block id="58006009" type="v">But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.</block>
-      <block id="58006010" type="v">For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.</block>
-      <block id="58006011" type="v">And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:</block>
-      <block id="58006012" type="v">That ye be not slothful, but followers of them who through faith and patience inherit the promises.</block>
-      <block id="58006013" type="v">For when God made promise to Abraham, because he could swear by no greater, he sware by himself,</block>
-      <block id="58006014" type="v">Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.</block>
-      <block id="58006015" type="v">And so, after he had patiently endured, he obtained the promise.</block>
-      <block id="58006016" type="v">For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.</block>
-      <block id="58006017" type="v">Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:</block>
-      <block id="58006018" type="v">That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:</block>
-      <block id="58006019" type="v">Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;</block>
-      <block id="58006020" type="v">Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.</block>
-    </chapter>
-    <chapter id="58007">
-      <block id="58007001" type="v">For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;</block>
-      <block id="58007002" type="v">To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;</block>
-      <block id="58007003" type="v">Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.</block>
-      <block id="58007004" type="v">Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils.</block>
-      <block id="58007005" type="v">And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:</block>
-      <block id="58007006" type="v">But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.</block>
-      <block id="58007007" type="v">And without all contradiction the less is blessed of the better.</block>
-      <block id="58007008" type="v">And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.</block>
-      <block id="58007009" type="v">And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.</block>
-      <block id="58007010" type="v">For he was yet in the loins of his father, when Melchisedec met him.</block>
-      <block id="58007011" type="v">If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?</block>
-      <block id="58007012" type="v">For the priesthood being changed, there is made of necessity a change also of the law.</block>
-      <block id="58007013" type="v">For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.</block>
-      <block id="58007014" type="v">For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.</block>
-      <block id="58007015" type="v">And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,</block>
-      <block id="58007016" type="v">Who is made, not after the law of a carnal commandment, but after the power of an endless life.</block>
-      <block id="58007017" type="v">For he testifieth, Thou art a priest for ever after the order of Melchisedec.</block>
-      <block id="58007018" type="v">For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.</block>
-      <block id="58007019" type="v">For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.</block>
-      <block id="58007020" type="v">And inasmuch as not without an oath he was made priest:</block>
-      <block id="58007021" type="v">For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:)</block>
-      <block id="58007022" type="v">By so much was Jesus made a surety of a better testament.</block>
-      <block id="58007023" type="v">And they truly were many priests, because they were not suffered to continue by reason of death:</block>
-      <block id="58007024" type="v">But this man, because he continueth ever, hath an unchangeable priesthood.</block>
-      <block id="58007025" type="v">Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.</block>
-      <block id="58007026" type="v">For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;</block>
-      <block id="58007027" type="v">Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.</block>
-      <block id="58007028" type="v">For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.</block>
-    </chapter>
-    <chapter id="58008">
-      <block id="58008001" type="v">Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;</block>
-      <block id="58008002" type="v">A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.</block>
-      <block id="58008003" type="v">For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.</block>
-      <block id="58008004" type="v">For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:</block>
-      <block id="58008005" type="v">Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.</block>
-      <block id="58008006" type="v">But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.</block>
-      <block id="58008007" type="v">For if that first covenant had been faultless, then should no place have been sought for the second.</block>
-      <block id="58008008" type="v">For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:</block>
-      <block id="58008009" type="v">Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.</block>
-      <block id="58008010" type="v">For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:</block>
-      <block id="58008011" type="v">And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.</block>
-      <block id="58008012" type="v">For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.</block>
-      <block id="58008013" type="v">In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.</block>
-    </chapter>
-    <chapter id="58009">
-      <block id="58009001" type="v">Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.</block>
-      <block id="58009002" type="v">For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.</block>
-      <block id="58009003" type="v">And after the second veil, the tabernacle which is called the Holiest of all;</block>
-      <block id="58009004" type="v">Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;</block>
-      <block id="58009005" type="v">And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.</block>
-      <block id="58009006" type="v">Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.</block>
-      <block id="58009007" type="v">But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:</block>
-      <block id="58009008" type="v">The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:</block>
-      <block id="58009009" type="v">Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;</block>
-      <block id="58009010" type="v">Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.</block>
-      <block id="58009011" type="v">But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;</block>
-      <block id="58009012" type="v">Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.</block>
-      <block id="58009013" type="v">For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:</block>
-      <block id="58009014" type="v">How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?</block>
-      <block id="58009015" type="v">And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.</block>
-      <block id="58009016" type="v">For where a testament is, there must also of necessity be the death of the testator.</block>
-      <block id="58009017" type="v">For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.</block>
-      <block id="58009018" type="v">Whereupon neither the first testament was dedicated without blood.</block>
-      <block id="58009019" type="v">For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,</block>
-      <block id="58009020" type="v">Saying, This is the blood of the testament which God hath enjoined unto you.</block>
-      <block id="58009021" type="v">Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.</block>
-      <block id="58009022" type="v">And almost all things are by the law purged with blood; and without shedding of blood is no remission.</block>
-      <block id="58009023" type="v">It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.</block>
-      <block id="58009024" type="v">For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:</block>
-      <block id="58009025" type="v">Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;</block>
-      <block id="58009026" type="v">For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.</block>
-      <block id="58009027" type="v">And as it is appointed unto men once to die, but after this the judgment:</block>
-      <block id="58009028" type="v">So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.</block>
-    </chapter>
-    <chapter id="58010">
-      <block id="58010001" type="v">For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.</block>
-      <block id="58010002" type="v">For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.</block>
-      <block id="58010003" type="v">But in those sacrifices there is a remembrance again made of sins every year.</block>
-      <block id="58010004" type="v">For it is not possible that the blood of bulls and of goats should take away sins.</block>
-      <block id="58010005" type="v">Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:</block>
-      <block id="58010006" type="v">In burnt offerings and sacrifices for sin thou hast had no pleasure.</block>
-      <block id="58010007" type="v">Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.</block>
-      <block id="58010008" type="v">Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;</block>
-      <block id="58010009" type="v">Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.</block>
-      <block id="58010010" type="v">By the which will we are sanctified through the offering of the body of Jesus Christ once for all.</block>
-      <block id="58010011" type="v">And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:</block>
-      <block id="58010012" type="v">But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;</block>
-      <block id="58010013" type="v">From henceforth expecting till his enemies be made his footstool.</block>
-      <block id="58010014" type="v">For by one offering he hath perfected for ever them that are sanctified.</block>
-      <block id="58010015" type="v">Whereof the Holy Ghost also is a witness to us: for after that he had said before,</block>
-      <block id="58010016" type="v">This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;</block>
-      <block id="58010017" type="v">And their sins and iniquities will I remember no more.</block>
-      <block id="58010018" type="v">Now where remission of these is, there is no more offering for sin.</block>
-      <block id="58010019" type="v">Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,</block>
-      <block id="58010020" type="v">By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;</block>
-      <block id="58010021" type="v">And having an high priest over the house of God;</block>
-      <block id="58010022" type="v">Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.</block>
-      <block id="58010023" type="v">Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)</block>
-      <block id="58010024" type="v">And let us consider one another to provoke unto love and to good works:</block>
-      <block id="58010025" type="v">Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.</block>
-      <block id="58010026" type="v">For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,</block>
-      <block id="58010027" type="v">But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.</block>
-      <block id="58010028" type="v">He that despised Moses' law died without mercy under two or three witnesses:</block>
-      <block id="58010029" type="v">Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?</block>
-      <block id="58010030" type="v">For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.</block>
-      <block id="58010031" type="v">It is a fearful thing to fall into the hands of the living God.</block>
-      <block id="58010032" type="v">But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;</block>
-      <block id="58010033" type="v">Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.</block>
-      <block id="58010034" type="v">For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.</block>
-      <block id="58010035" type="v">Cast not away therefore your confidence, which hath great recompence of reward.</block>
-      <block id="58010036" type="v">For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.</block>
-      <block id="58010037" type="v">For yet a little while, and he that shall come will come, and will not tarry.</block>
-      <block id="58010038" type="v">Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.</block>
-      <block id="58010039" type="v">But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.</block>
-    </chapter>
-    <chapter id="58011">
-      <block id="58011001" type="v">Now faith is the substance of things hoped for, the evidence of things not seen.</block>
-      <block id="58011002" type="v">For by it the elders obtained a good report.</block>
-      <block id="58011003" type="v">Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.</block>
-      <block id="58011004" type="v">By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.</block>
-      <block id="58011005" type="v">By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.</block>
-      <block id="58011006" type="v">But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.</block>
-      <block id="58011007" type="v">By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.</block>
-      <block id="58011008" type="v">By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.</block>
-      <block id="58011009" type="v">By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:</block>
-      <block id="58011010" type="v">For he looked for a city which hath foundations, whose builder and maker is God.</block>
-      <block id="58011011" type="v">Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.</block>
-      <block id="58011012" type="v">Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.</block>
-      <block id="58011013" type="v">These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.</block>
-      <block id="58011014" type="v">For they that say such things declare plainly that they seek a country.</block>
-      <block id="58011015" type="v">And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.</block>
-      <block id="58011016" type="v">But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.</block>
-      <block id="58011017" type="v">By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,</block>
-      <block id="58011018" type="v">Of whom it was said, That in Isaac shall thy seed be called:</block>
-      <block id="58011019" type="v">Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.</block>
-      <block id="58011020" type="v">By faith Isaac blessed Jacob and Esau concerning things to come.</block>
-      <block id="58011021" type="v">By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.</block>
-      <block id="58011022" type="v">By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.</block>
-      <block id="58011023" type="v">By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king's commandment.</block>
-      <block id="58011024" type="v">By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;</block>
-      <block id="58011025" type="v">Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;</block>
-      <block id="58011026" type="v">Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.</block>
-      <block id="58011027" type="v">By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.</block>
-      <block id="58011028" type="v">Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.</block>
-      <block id="58011029" type="v">By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.</block>
-      <block id="58011030" type="v">By faith the walls of Jericho fell down, after they were compassed about seven days.</block>
-      <block id="58011031" type="v">By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.</block>
-      <block id="58011032" type="v">And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:</block>
-      <block id="58011033" type="v">Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,</block>
-      <block id="58011034" type="v">Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.</block>
-      <block id="58011035" type="v">Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:</block>
-      <block id="58011036" type="v">And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:</block>
-      <block id="58011037" type="v">They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;</block>
-      <block id="58011038" type="v">Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.</block>
-      <block id="58011039" type="v">And these all, having obtained a good report through faith, received not the promise:</block>
-      <block id="58011040" type="v">God having provided some better thing for us, that they without us should not be made perfect.</block>
-    </chapter>
-    <chapter id="58012">
-      <block id="58012001" type="v">Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,</block>
-      <block id="58012002" type="v">Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.</block>
-      <block id="58012003" type="v">For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.</block>
-      <block id="58012004" type="v">Ye have not yet resisted unto blood, striving against sin.</block>
-      <block id="58012005" type="v">And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:</block>
-      <block id="58012006" type="v">For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.</block>
-      <block id="58012007" type="v">If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?</block>
-      <block id="58012008" type="v">But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.</block>
-      <block id="58012009" type="v">Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?</block>
-      <block id="58012010" type="v">For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.</block>
-      <block id="58012011" type="v">Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.</block>
-      <block id="58012012" type="v">Wherefore lift up the hands which hang down, and the feeble knees;</block>
-      <block id="58012013" type="v">And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.</block>
-      <block id="58012014" type="v">Follow peace with all men, and holiness, without which no man shall see the Lord:</block>
-      <block id="58012015" type="v">Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;</block>
-      <block id="58012016" type="v">Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.</block>
-      <block id="58012017" type="v">For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.</block>
-      <block id="58012018" type="v">For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,</block>
-      <block id="58012019" type="v">And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:</block>
-      <block id="58012020" type="v">For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:</block>
-      <block id="58012021" type="v">And so terrible was the sight, that Moses said, I exceedingly fear and quake:)</block>
-      <block id="58012022" type="v">But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,</block>
-      <block id="58012023" type="v">To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,</block>
-      <block id="58012024" type="v">And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.</block>
-      <block id="58012025" type="v">See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:</block>
-      <block id="58012026" type="v">Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.</block>
-      <block id="58012027" type="v">And this word, Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.</block>
-      <block id="58012028" type="v">Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:</block>
-      <block id="58012029" type="v">For our God is a consuming fire.</block>
-    </chapter>
-    <chapter id="58013">
-      <block id="58013001" type="v">Let brotherly love continue.</block>
-      <block id="58013002" type="v">Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.</block>
-      <block id="58013003" type="v">Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.</block>
-      <block id="58013004" type="v">Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.</block>
-      <block id="58013005" type="v">Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.</block>
-      <block id="58013006" type="v">So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.</block>
-      <block id="58013007" type="v">Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.</block>
-      <block id="58013008" type="v">Jesus Christ the same yesterday, and to day, and for ever.</block>
-      <block id="58013009" type="v">Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.</block>
-      <block id="58013010" type="v">We have an altar, whereof they have no right to eat which serve the tabernacle.</block>
-      <block id="58013011" type="v">For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.</block>
-      <block id="58013012" type="v">Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.</block>
-      <block id="58013013" type="v">Let us go forth therefore unto him without the camp, bearing his reproach.</block>
-      <block id="58013014" type="v">For here have we no continuing city, but we seek one to come.</block>
-      <block id="58013015" type="v">By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.</block>
-      <block id="58013016" type="v">But to do good and to communicate forget not: for with such sacrifices God is well pleased.</block>
-      <block id="58013017" type="v">Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.</block>
-      <block id="58013018" type="v">Pray for us: for we trust we have a good conscience, in all things willing to live honestly.</block>
-      <block id="58013019" type="v">But I beseech you the rather to do this, that I may be restored to you the sooner.</block>
-      <block id="58013020" type="v">Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,</block>
-      <block id="58013021" type="v">Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.</block>
-      <block id="58013022" type="v">And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.</block>
-      <block id="58013023" type="v">Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.</block>
-      <block id="58013024" type="v">Salute all them that have the rule over you, and all the saints. They of Italy salute you.</block>
-      <block id="58013025" type="v">Grace be with you all. Amen. </block>
-    </chapter>
-  </book>
+<text title="Hebrews" id="58" xmlns="http://example.com/SemanticScripture"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <ante>
+    <caption>Written to the Hebrews from Italy, by Timothy.</caption>
+  </ante>
+  <sec type="ch" id="58001">
+    <frag id="58001001" type="vs">God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,</frag>
+    <frag id="58001002" type="vs">Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;</frag>
+    <frag id="58001003" type="vs">Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;</frag>
+    <frag id="58001004" type="vs">Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.</frag>
+    <frag id="58001005" type="vs">For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</frag>
+    <frag id="58001006" type="vs">And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</frag>
+    <frag id="58001007" type="vs">And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.</frag>
+    <frag id="58001008" type="vs">But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.</frag>
+    <frag id="58001009" type="vs">Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.</frag>
+    <frag id="58001010" type="vs">And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:</frag>
+    <frag id="58001011" type="vs">They shall perish; but thou remainest; and they all shall wax old as doth a garment;</frag>
+    <frag id="58001012" type="vs">And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</frag>
+    <frag id="58001013" type="vs">But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?</frag>
+    <frag id="58001014" type="vs">Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?</frag>
+  </sec>
+  <sec type="ch" id="58002">
+    <frag id="58002001" type="vs">Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.</frag>
+    <frag id="58002002" type="vs">For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;</frag>
+    <frag id="58002003" type="vs">How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;</frag>
+    <frag id="58002004" type="vs">God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?</frag>
+    <frag id="58002005" type="vs">For unto the angels hath he not put in subjection the world to come, whereof we speak.</frag>
+    <frag id="58002006" type="vs">But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?</frag>
+    <frag id="58002007" type="vs">Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:</frag>
+    <frag id="58002008" type="vs">Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.</frag>
+    <frag id="58002009" type="vs">But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.</frag>
+    <frag id="58002010" type="vs">For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.</frag>
+    <frag id="58002011" type="vs">For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,</frag>
+    <frag id="58002012" type="vs">Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.</frag>
+    <frag id="58002013" type="vs">And again, I will put my trust in him. And again, Behold I and the children which God hath given me.</frag>
+    <frag id="58002014" type="vs">Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;</frag>
+    <frag id="58002015" type="vs">And deliver them who through fear of death were all their lifetime subject to bondage.</frag>
+    <frag id="58002016" type="vs">For verily he took not on him the nature of angels; but he took on him the seed of Abraham.</frag>
+    <frag id="58002017" type="vs">Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.</frag>
+    <frag id="58002018" type="vs">For in that he himself hath suffered being tempted, he is able to succour them that are tempted.</frag>
+  </sec>
+  <sec type="ch" id="58003">
+    <frag id="58003001" type="vs">Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;</frag>
+    <frag id="58003002" type="vs">Who was faithful to him that appointed him, as also Moses was faithful in all his house.</frag>
+    <frag id="58003003" type="vs">For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.</frag>
+    <frag id="58003004" type="vs">For every house is builded by some man; but he that built all things is God.</frag>
+    <frag id="58003005" type="vs">And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;</frag>
+    <frag id="58003006" type="vs">But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.</frag>
+    <frag id="58003007" type="vs">Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,</frag>
+    <frag id="58003008" type="vs">Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:</frag>
+    <frag id="58003009" type="vs">When your fathers tempted me, proved me, and saw my works forty years.</frag>
+    <frag id="58003010" type="vs">Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.</frag>
+    <frag id="58003011" type="vs">So I sware in my wrath, They shall not enter into my rest.)</frag>
+    <frag id="58003012" type="vs">Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.</frag>
+    <frag id="58003013" type="vs">But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.</frag>
+    <frag id="58003014" type="vs">For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;</frag>
+    <frag id="58003015" type="vs">While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.</frag>
+    <frag id="58003016" type="vs">For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.</frag>
+    <frag id="58003017" type="vs">But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?</frag>
+    <frag id="58003018" type="vs">And to whom sware he that they should not enter into his rest, but to them that believed not?</frag>
+    <frag id="58003019" type="vs">So we see that they could not enter in because of unbelief.</frag>
+  </sec>
+  <sec type="ch" id="58004">
+    <frag id="58004001" type="vs">Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.</frag>
+    <frag id="58004002" type="vs">For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.</frag>
+    <frag id="58004003" type="vs">For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.</frag>
+    <frag id="58004004" type="vs">For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.</frag>
+    <frag id="58004005" type="vs">And in this place again, If they shall enter into my rest.</frag>
+    <frag id="58004006" type="vs">Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:</frag>
+    <frag id="58004007" type="vs">Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.</frag>
+    <frag id="58004008" type="vs">For if Jesus had given them rest, then would he not afterward have spoken of another day.</frag>
+    <frag id="58004009" type="vs">There remaineth therefore a rest to the people of God.</frag>
+    <frag id="58004010" type="vs">For he that is entered into his rest, he also hath ceased from his own works, as God did from his.</frag>
+    <frag id="58004011" type="vs">Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.</frag>
+    <frag id="58004012" type="vs">For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.</frag>
+    <frag id="58004013" type="vs">Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.</frag>
+    <frag id="58004014" type="vs">Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.</frag>
+    <frag id="58004015" type="vs">For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.</frag>
+    <frag id="58004016" type="vs">Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.</frag>
+  </sec>
+  <sec type="ch" id="58005">
+    <frag id="58005001" type="vs">For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:</frag>
+    <frag id="58005002" type="vs">Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.</frag>
+    <frag id="58005003" type="vs">And by reason hereof he ought, as for the people, so also for himself, to offer for sins.</frag>
+    <frag id="58005004" type="vs">And no man taketh this honour unto himself, but he that is called of God, as was Aaron.</frag>
+    <frag id="58005005" type="vs">So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.</frag>
+    <frag id="58005006" type="vs">As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.</frag>
+    <frag id="58005007" type="vs">Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;</frag>
+    <frag id="58005008" type="vs">Though he were a Son, yet learned he obedience by the things which he suffered;</frag>
+    <frag id="58005009" type="vs">And being made perfect, he became the author of eternal salvation unto all them that obey him;</frag>
+    <frag id="58005010" type="vs">Called of God an high priest after the order of Melchisedec.</frag>
+    <frag id="58005011" type="vs">Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.</frag>
+    <frag id="58005012" type="vs">For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.</frag>
+    <frag id="58005013" type="vs">For every one that useth milk is unskilful in the word of righteousness: for he is a babe.</frag>
+    <frag id="58005014" type="vs">But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.</frag>
+  </sec>
+  <sec type="ch" id="58006">
+    <frag id="58006001" type="vs">Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,</frag>
+    <frag id="58006002" type="vs">Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.</frag>
+    <frag id="58006003" type="vs">And this will we do, if God permit.</frag>
+    <frag id="58006004" type="vs">For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,</frag>
+    <frag id="58006005" type="vs">And have tasted the good word of God, and the powers of the world to come,</frag>
+    <frag id="58006006" type="vs">If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.</frag>
+    <frag id="58006007" type="vs">For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:</frag>
+    <frag id="58006008" type="vs">But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned.</frag>
+    <frag id="58006009" type="vs">But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.</frag>
+    <frag id="58006010" type="vs">For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.</frag>
+    <frag id="58006011" type="vs">And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:</frag>
+    <frag id="58006012" type="vs">That ye be not slothful, but followers of them who through faith and patience inherit the promises.</frag>
+    <frag id="58006013" type="vs">For when God made promise to Abraham, because he could swear by no greater, he sware by himself,</frag>
+    <frag id="58006014" type="vs">Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.</frag>
+    <frag id="58006015" type="vs">And so, after he had patiently endured, he obtained the promise.</frag>
+    <frag id="58006016" type="vs">For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.</frag>
+    <frag id="58006017" type="vs">Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:</frag>
+    <frag id="58006018" type="vs">That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:</frag>
+    <frag id="58006019" type="vs">Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;</frag>
+    <frag id="58006020" type="vs">Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.</frag>
+  </sec>
+  <sec type="ch" id="58007">
+    <frag id="58007001" type="vs">For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;</frag>
+    <frag id="58007002" type="vs">To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;</frag>
+    <frag id="58007003" type="vs">Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.</frag>
+    <frag id="58007004" type="vs">Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils.</frag>
+    <frag id="58007005" type="vs">And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:</frag>
+    <frag id="58007006" type="vs">But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.</frag>
+    <frag id="58007007" type="vs">And without all contradiction the less is blessed of the better.</frag>
+    <frag id="58007008" type="vs">And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.</frag>
+    <frag id="58007009" type="vs">And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.</frag>
+    <frag id="58007010" type="vs">For he was yet in the loins of his father, when Melchisedec met him.</frag>
+    <frag id="58007011" type="vs">If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?</frag>
+    <frag id="58007012" type="vs">For the priesthood being changed, there is made of necessity a change also of the law.</frag>
+    <frag id="58007013" type="vs">For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.</frag>
+    <frag id="58007014" type="vs">For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.</frag>
+    <frag id="58007015" type="vs">And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,</frag>
+    <frag id="58007016" type="vs">Who is made, not after the law of a carnal commandment, but after the power of an endless life.</frag>
+    <frag id="58007017" type="vs">For he testifieth, Thou art a priest for ever after the order of Melchisedec.</frag>
+    <frag id="58007018" type="vs">For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.</frag>
+    <frag id="58007019" type="vs">For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.</frag>
+    <frag id="58007020" type="vs">And inasmuch as not without an oath he was made priest:</frag>
+    <frag id="58007021" type="vs">For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:)</frag>
+    <frag id="58007022" type="vs">By so much was Jesus made a surety of a better testament.</frag>
+    <frag id="58007023" type="vs">And they truly were many priests, because they were not suffered to continue by reason of death:</frag>
+    <frag id="58007024" type="vs">But this man, because he continueth ever, hath an unchangeable priesthood.</frag>
+    <frag id="58007025" type="vs">Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.</frag>
+    <frag id="58007026" type="vs">For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;</frag>
+    <frag id="58007027" type="vs">Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.</frag>
+    <frag id="58007028" type="vs">For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.</frag>
+  </sec>
+  <sec type="ch" id="58008">
+    <frag id="58008001" type="vs">Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;</frag>
+    <frag id="58008002" type="vs">A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.</frag>
+    <frag id="58008003" type="vs">For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.</frag>
+    <frag id="58008004" type="vs">For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:</frag>
+    <frag id="58008005" type="vs">Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.</frag>
+    <frag id="58008006" type="vs">But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.</frag>
+    <frag id="58008007" type="vs">For if that first covenant had been faultless, then should no place have been sought for the second.</frag>
+    <frag id="58008008" type="vs">For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:</frag>
+    <frag id="58008009" type="vs">Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.</frag>
+    <frag id="58008010" type="vs">For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:</frag>
+    <frag id="58008011" type="vs">And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.</frag>
+    <frag id="58008012" type="vs">For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.</frag>
+    <frag id="58008013" type="vs">In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.</frag>
+  </sec>
+  <sec type="ch" id="58009">
+    <frag id="58009001" type="vs">Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.</frag>
+    <frag id="58009002" type="vs">For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.</frag>
+    <frag id="58009003" type="vs">And after the second veil, the tabernacle which is called the Holiest of all;</frag>
+    <frag id="58009004" type="vs">Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;</frag>
+    <frag id="58009005" type="vs">And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.</frag>
+    <frag id="58009006" type="vs">Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.</frag>
+    <frag id="58009007" type="vs">But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:</frag>
+    <frag id="58009008" type="vs">The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:</frag>
+    <frag id="58009009" type="vs">Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;</frag>
+    <frag id="58009010" type="vs">Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.</frag>
+    <frag id="58009011" type="vs">But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;</frag>
+    <frag id="58009012" type="vs">Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.</frag>
+    <frag id="58009013" type="vs">For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:</frag>
+    <frag id="58009014" type="vs">How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?</frag>
+    <frag id="58009015" type="vs">And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.</frag>
+    <frag id="58009016" type="vs">For where a testament is, there must also of necessity be the death of the testator.</frag>
+    <frag id="58009017" type="vs">For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.</frag>
+    <frag id="58009018" type="vs">Whereupon neither the first testament was dedicated without blood.</frag>
+    <frag id="58009019" type="vs">For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,</frag>
+    <frag id="58009020" type="vs">Saying, This is the blood of the testament which God hath enjoined unto you.</frag>
+    <frag id="58009021" type="vs">Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.</frag>
+    <frag id="58009022" type="vs">And almost all things are by the law purged with blood; and without shedding of blood is no remission.</frag>
+    <frag id="58009023" type="vs">It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.</frag>
+    <frag id="58009024" type="vs">For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:</frag>
+    <frag id="58009025" type="vs">Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;</frag>
+    <frag id="58009026" type="vs">For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.</frag>
+    <frag id="58009027" type="vs">And as it is appointed unto men once to die, but after this the judgment:</frag>
+    <frag id="58009028" type="vs">So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.</frag>
+  </sec>
+  <sec type="ch" id="58010">
+    <frag id="58010001" type="vs">For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.</frag>
+    <frag id="58010002" type="vs">For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.</frag>
+    <frag id="58010003" type="vs">But in those sacrifices there is a remembrance again made of sins every year.</frag>
+    <frag id="58010004" type="vs">For it is not possible that the blood of bulls and of goats should take away sins.</frag>
+    <frag id="58010005" type="vs">Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:</frag>
+    <frag id="58010006" type="vs">In burnt offerings and sacrifices for sin thou hast had no pleasure.</frag>
+    <frag id="58010007" type="vs">Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.</frag>
+    <frag id="58010008" type="vs">Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;</frag>
+    <frag id="58010009" type="vs">Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.</frag>
+    <frag id="58010010" type="vs">By the which will we are sanctified through the offering of the body of Jesus Christ once for all.</frag>
+    <frag id="58010011" type="vs">And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:</frag>
+    <frag id="58010012" type="vs">But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;</frag>
+    <frag id="58010013" type="vs">From henceforth expecting till his enemies be made his footstool.</frag>
+    <frag id="58010014" type="vs">For by one offering he hath perfected for ever them that are sanctified.</frag>
+    <frag id="58010015" type="vs">Whereof the Holy Ghost also is a witness to us: for after that he had said before,</frag>
+    <frag id="58010016" type="vs">This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;</frag>
+    <frag id="58010017" type="vs">And their sins and iniquities will I remember no more.</frag>
+    <frag id="58010018" type="vs">Now where remission of these is, there is no more offering for sin.</frag>
+    <frag id="58010019" type="vs">Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,</frag>
+    <frag id="58010020" type="vs">By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;</frag>
+    <frag id="58010021" type="vs">And having an high priest over the house of God;</frag>
+    <frag id="58010022" type="vs">Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.</frag>
+    <frag id="58010023" type="vs">Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)</frag>
+    <frag id="58010024" type="vs">And let us consider one another to provoke unto love and to good works:</frag>
+    <frag id="58010025" type="vs">Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.</frag>
+    <frag id="58010026" type="vs">For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,</frag>
+    <frag id="58010027" type="vs">But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.</frag>
+    <frag id="58010028" type="vs">He that despised Moses' law died without mercy under two or three witnesses:</frag>
+    <frag id="58010029" type="vs">Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?</frag>
+    <frag id="58010030" type="vs">For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.</frag>
+    <frag id="58010031" type="vs">It is a fearful thing to fall into the hands of the living God.</frag>
+    <frag id="58010032" type="vs">But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;</frag>
+    <frag id="58010033" type="vs">Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.</frag>
+    <frag id="58010034" type="vs">For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.</frag>
+    <frag id="58010035" type="vs">Cast not away therefore your confidence, which hath great recompence of reward.</frag>
+    <frag id="58010036" type="vs">For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.</frag>
+    <frag id="58010037" type="vs">For yet a little while, and he that shall come will come, and will not tarry.</frag>
+    <frag id="58010038" type="vs">Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.</frag>
+    <frag id="58010039" type="vs">But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.</frag>
+  </sec>
+  <sec type="ch" id="58011">
+    <frag id="58011001" type="vs">Now faith is the substance of things hoped for, the evidence of things not seen.</frag>
+    <frag id="58011002" type="vs">For by it the elders obtained a good report.</frag>
+    <frag id="58011003" type="vs">Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.</frag>
+    <frag id="58011004" type="vs">By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.</frag>
+    <frag id="58011005" type="vs">By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.</frag>
+    <frag id="58011006" type="vs">But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.</frag>
+    <frag id="58011007" type="vs">By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.</frag>
+    <frag id="58011008" type="vs">By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.</frag>
+    <frag id="58011009" type="vs">By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:</frag>
+    <frag id="58011010" type="vs">For he looked for a city which hath foundations, whose builder and maker is God.</frag>
+    <frag id="58011011" type="vs">Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.</frag>
+    <frag id="58011012" type="vs">Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.</frag>
+    <frag id="58011013" type="vs">These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.</frag>
+    <frag id="58011014" type="vs">For they that say such things declare plainly that they seek a country.</frag>
+    <frag id="58011015" type="vs">And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.</frag>
+    <frag id="58011016" type="vs">But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.</frag>
+    <frag id="58011017" type="vs">By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,</frag>
+    <frag id="58011018" type="vs">Of whom it was said, That in Isaac shall thy seed be called:</frag>
+    <frag id="58011019" type="vs">Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.</frag>
+    <frag id="58011020" type="vs">By faith Isaac blessed Jacob and Esau concerning things to come.</frag>
+    <frag id="58011021" type="vs">By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.</frag>
+    <frag id="58011022" type="vs">By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.</frag>
+    <frag id="58011023" type="vs">By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king's commandment.</frag>
+    <frag id="58011024" type="vs">By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;</frag>
+    <frag id="58011025" type="vs">Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;</frag>
+    <frag id="58011026" type="vs">Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.</frag>
+    <frag id="58011027" type="vs">By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.</frag>
+    <frag id="58011028" type="vs">Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.</frag>
+    <frag id="58011029" type="vs">By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.</frag>
+    <frag id="58011030" type="vs">By faith the walls of Jericho fell down, after they were compassed about seven days.</frag>
+    <frag id="58011031" type="vs">By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.</frag>
+    <frag id="58011032" type="vs">And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:</frag>
+    <frag id="58011033" type="vs">Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,</frag>
+    <frag id="58011034" type="vs">Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.</frag>
+    <frag id="58011035" type="vs">Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:</frag>
+    <frag id="58011036" type="vs">And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:</frag>
+    <frag id="58011037" type="vs">They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;</frag>
+    <frag id="58011038" type="vs">Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.</frag>
+    <frag id="58011039" type="vs">And these all, having obtained a good report through faith, received not the promise:</frag>
+    <frag id="58011040" type="vs">God having provided some better thing for us, that they without us should not be made perfect.</frag>
+  </sec>
+  <sec type="ch" id="58012">
+    <frag id="58012001" type="vs">Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,</frag>
+    <frag id="58012002" type="vs">Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.</frag>
+    <frag id="58012003" type="vs">For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.</frag>
+    <frag id="58012004" type="vs">Ye have not yet resisted unto blood, striving against sin.</frag>
+    <frag id="58012005" type="vs">And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:</frag>
+    <frag id="58012006" type="vs">For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.</frag>
+    <frag id="58012007" type="vs">If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?</frag>
+    <frag id="58012008" type="vs">But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.</frag>
+    <frag id="58012009" type="vs">Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?</frag>
+    <frag id="58012010" type="vs">For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.</frag>
+    <frag id="58012011" type="vs">Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.</frag>
+    <frag id="58012012" type="vs">Wherefore lift up the hands which hang down, and the feeble knees;</frag>
+    <frag id="58012013" type="vs">And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.</frag>
+    <frag id="58012014" type="vs">Follow peace with all men, and holiness, without which no man shall see the Lord:</frag>
+    <frag id="58012015" type="vs">Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;</frag>
+    <frag id="58012016" type="vs">Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.</frag>
+    <frag id="58012017" type="vs">For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.</frag>
+    <frag id="58012018" type="vs">For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,</frag>
+    <frag id="58012019" type="vs">And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:</frag>
+    <frag id="58012020" type="vs">For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:</frag>
+    <frag id="58012021" type="vs">And so terrible was the sight, that Moses said, I exceedingly fear and quake:)</frag>
+    <frag id="58012022" type="vs">But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,</frag>
+    <frag id="58012023" type="vs">To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,</frag>
+    <frag id="58012024" type="vs">And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.</frag>
+    <frag id="58012025" type="vs">See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:</frag>
+    <frag id="58012026" type="vs">Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.</frag>
+    <frag id="58012027" type="vs">And this word, Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.</frag>
+    <frag id="58012028" type="vs">Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:</frag>
+    <frag id="58012029" type="vs">For our God is a consuming fire.</frag>
+  </sec>
+  <sec type="ch" id="58013">
+    <frag id="58013001" type="vs">Let brotherly love continue.</frag>
+    <frag id="58013002" type="vs">Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.</frag>
+    <frag id="58013003" type="vs">Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.</frag>
+    <frag id="58013004" type="vs">Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.</frag>
+    <frag id="58013005" type="vs">Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.</frag>
+    <frag id="58013006" type="vs">So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.</frag>
+    <frag id="58013007" type="vs">Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.</frag>
+    <frag id="58013008" type="vs">Jesus Christ the same yesterday, and to day, and for ever.</frag>
+    <frag id="58013009" type="vs">Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.</frag>
+    <frag id="58013010" type="vs">We have an altar, whereof they have no right to eat which serve the tabernacle.</frag>
+    <frag id="58013011" type="vs">For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.</frag>
+    <frag id="58013012" type="vs">Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.</frag>
+    <frag id="58013013" type="vs">Let us go forth therefore unto him without the camp, bearing his reproach.</frag>
+    <frag id="58013014" type="vs">For here have we no continuing city, but we seek one to come.</frag>
+    <frag id="58013015" type="vs">By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.</frag>
+    <frag id="58013016" type="vs">But to do good and to communicate forget not: for with such sacrifices God is well pleased.</frag>
+    <frag id="58013017" type="vs">Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.</frag>
+    <frag id="58013018" type="vs">Pray for us: for we trust we have a good conscience, in all things willing to live honestly.</frag>
+    <frag id="58013019" type="vs">But I beseech you the rather to do this, that I may be restored to you the sooner.</frag>
+    <frag id="58013020" type="vs">Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,</frag>
+    <frag id="58013021" type="vs">Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.</frag>
+    <frag id="58013022" type="vs">And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.</frag>
+    <frag id="58013023" type="vs">Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.</frag>
+    <frag id="58013024" type="vs">Salute all them that have the rule over you, and all the saints. They of Italy salute you.</frag>
+    <frag id="58013025" type="vs">Grace be with you all. Amen. </frag>
+  </sec>
+</text>

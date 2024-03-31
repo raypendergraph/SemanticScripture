@@ -1,56 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="Titus" shortName="Titus" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="56">
-    <chapter id="56001">
-      <CAPTION vref="1">It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.</CAPTION>
-      <block id="56001001" type="verse">Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;</block>
-      <block id="56001002" type="verse">In hope of eternal life, which God, that cannot lie, promised before the world began;</block>
-      <block id="56001003" type="verse">But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;</block>
-      <block id="56001004" type="verse">To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.</block>
-      <block id="56001005" type="verse">For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:</block>
-      <block id="56001006" type="verse">If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.</block>
-      <block id="56001007" type="verse">For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;</block>
-      <block id="56001008" type="verse">But a lover of hospitality, a lover of good men, sober, just, holy, temperate;</block>
-      <block id="56001009" type="verse">Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.</block>
-      <block id="56001010" type="verse">For there are many unruly and vain talkers and deceivers, specially they of the circumcision:</block>
-      <block id="56001011" type="verse">Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.</block>
-      <block id="56001012" type="verse">One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.</block>
-      <block id="56001013" type="verse">This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;</block>
-      <block id="56001014" type="verse">Not giving heed to Jewish fables, and commandments of men, that turn from the truth.</block>
-      <block id="56001015" type="verse">Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.</block>
-      <block id="56001016" type="verse">They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.</block>
-    </chapter>
-    <chapter id="56002">
-      <block id="56002001" type="verse">But speak thou the things which become sound doctrine:</block>
-      <block id="56002002" type="verse">That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.</block>
-      <block id="56002003" type="verse">The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;</block>
-      <block id="56002004" type="verse">That they may teach the young women to be sober, to love their husbands, to love their children,</block>
-      <block id="56002005" type="verse">To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.</block>
-      <block id="56002006" type="verse">Young men likewise exhort to be sober minded.</block>
-      <block id="56002007" type="verse">In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,</block>
-      <block id="56002008" type="verse">Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.</block>
-      <block id="56002009" type="verse">Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;</block>
-      <block id="56002010" type="verse">Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.</block>
-      <block id="56002011" type="verse">For the grace of God that bringeth salvation hath appeared to all men,</block>
-      <block id="56002012" type="verse">Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;</block>
-      <block id="56002013" type="verse">Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;</block>
-      <block id="56002014" type="verse">Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.</block>
-      <block id="56002015" type="verse">These things speak, and exhort, and rebuke with all authority. Let no man despise thee.</block>
-    </chapter>
-    <chapter id="56003">
-      <block id="56003001" type="verse">Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,</block>
-      <block id="56003002" type="verse">To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.</block>
-      <block id="56003003" type="verse">For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.</block>
-      <block id="56003004" type="verse">But after that the kindness and love of God our Saviour toward man appeared,</block>
-      <block id="56003005" type="verse">Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;</block>
-      <block id="56003006" type="verse">Which he shed on us abundantly through Jesus Christ our Saviour;</block>
-      <block id="56003007" type="verse">That being justified by his grace, we should be made heirs according to the hope of eternal life.</block>
-      <block id="56003008" type="verse">This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.</block>
-      <block id="56003009" type="verse">But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.</block>
-      <block id="56003010" type="verse">A man that is an heretick after the first and second admonition reject;</block>
-      <block id="56003011" type="verse">Knowing that he that is such is subverted, and sinneth, being condemned of himself.</block>
-      <block id="56003012" type="verse">When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.</block>
-      <block id="56003013" type="verse">Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.</block>
-      <block id="56003014" type="verse">And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.</block>
-      <block id="56003015" type="verse">All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen. </block>
-    </chapter>
-  </book>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  title="Titus"  id="56" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+    <ante>
+      <caption>It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.</caption>
+    </ante>
+    <sec type="ch" id="56001">
+      <frag id="56001001" type="vs">Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;</frag>
+      <frag id="56001002" type="vs">In hope of eternal life, which God, that cannot lie, promised before the world began;</frag>
+      <frag id="56001003" type="vs">But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;</frag>
+      <frag id="56001004" type="vs">To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.</frag>
+      <frag id="56001005" type="vs">For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:</frag>
+      <frag id="56001006" type="vs">If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.</frag>
+      <frag id="56001007" type="vs">For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;</frag>
+      <frag id="56001008" type="vs">But a lover of hospitality, a lover of good men, sober, just, holy, temperate;</frag>
+      <frag id="56001009" type="vs">Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.</frag>
+      <frag id="56001010" type="vs">For there are many unruly and vain talkers and deceivers, specially they of the circumcision:</frag>
+      <frag id="56001011" type="vs">Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.</frag>
+      <frag id="56001012" type="vs">One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.</frag>
+      <frag id="56001013" type="vs">This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;</frag>
+      <frag id="56001014" type="vs">Not giving heed to Jewish fables, and commandments of men, that turn from the truth.</frag>
+      <frag id="56001015" type="vs">Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.</frag>
+      <frag id="56001016" type="vs">They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.</frag>
+    </sec>
+    <sec type="ch" id="56002">
+      <frag id="56002001" type="vs">But speak thou the things which become sound doctrine:</frag>
+      <frag id="56002002" type="vs">That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.</frag>
+      <frag id="56002003" type="vs">The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;</frag>
+      <frag id="56002004" type="vs">That they may teach the young women to be sober, to love their husbands, to love their children,</frag>
+      <frag id="56002005" type="vs">To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.</frag>
+      <frag id="56002006" type="vs">Young men likewise exhort to be sober minded.</frag>
+      <frag id="56002007" type="vs">In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,</frag>
+      <frag id="56002008" type="vs">Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.</frag>
+      <frag id="56002009" type="vs">Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;</frag>
+      <frag id="56002010" type="vs">Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.</frag>
+      <frag id="56002011" type="vs">For the grace of God that bringeth salvation hath appeared to all men,</frag>
+      <frag id="56002012" type="vs">Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;</frag>
+      <frag id="56002013" type="vs">Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;</frag>
+      <frag id="56002014" type="vs">Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.</frag>
+      <frag id="56002015" type="vs">These things speak, and exhort, and rebuke with all authority. Let no man despise thee.</frag>
+    </sec>
+    <sec type="ch" id="56003">
+      <frag id="56003001" type="vs">Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,</frag>
+      <frag id="56003002" type="vs">To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.</frag>
+      <frag id="56003003" type="vs">For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.</frag>
+      <frag id="56003004" type="vs">But after that the kindness and love of God our Saviour toward man appeared,</frag>
+      <frag id="56003005" type="vs">Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;</frag>
+      <frag id="56003006" type="vs">Which he shed on us abundantly through Jesus Christ our Saviour;</frag>
+      <frag id="56003007" type="vs">That being justified by his grace, we should be made heirs according to the hope of eternal life.</frag>
+      <frag id="56003008" type="vs">This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.</frag>
+      <frag id="56003009" type="vs">But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.</frag>
+      <frag id="56003010" type="vs">A man that is an heretick after the first and second admonition reject;</frag>
+      <frag id="56003011" type="vs">Knowing that he that is such is subverted, and sinneth, being condemned of himself.</frag>
+      <frag id="56003012" type="vs">When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.</frag>
+      <frag id="56003013" type="vs">Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.</frag>
+      <frag id="56003014" type="vs">And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.</frag>
+      <frag id="56003015" type="vs">All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen. </frag>
+    </sec>
+  </text>

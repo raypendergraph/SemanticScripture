@@ -1,57 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="2 Thessalonians" shortName="2Thess" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="53">
-    <chapter id="53001">
-      <CAPTION vref="1">The second epistle to the Thessalonians was written from Athens.</CAPTION>
-      <block id="53001001" type="v">Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:</block>
-      <block id="53001002" type="v">Grace unto you, and peace, from God our Father and the Lord Jesus Christ.</block>
-      <block id="53001003" type="v">We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;</block>
-      <block id="53001004" type="v">So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:</block>
-      <block id="53001005" type="v">Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:</block>
-      <block id="53001006" type="v">Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;</block>
-      <block id="53001007" type="v">And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,</block>
-      <block id="53001008" type="v">In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:</block>
-      <block id="53001009" type="v">Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;</block>
-      <block id="53001010" type="v">When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.</block>
-      <block id="53001011" type="v">Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:</block>
-      <block id="53001012" type="v">That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.</block>
-    </chapter>
-    <chapter id="53002">
-      <block id="53002001" type="v">Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,</block>
-      <block id="53002002" type="v">That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.</block>
-      <block id="53002003" type="v">Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;</block>
-      <block id="53002004" type="v">Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.</block>
-      <block id="53002005" type="v">Remember ye not, that, when I was yet with you, I told you these things?</block>
-      <block id="53002006" type="v">And now ye know what withholdeth that he might be revealed in his time.</block>
-      <block id="53002007" type="v">For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.</block>
-      <block id="53002008" type="v">And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:</block>
-      <block id="53002009" type="v">Even him, whose coming is after the working of Satan with all power and signs and lying wonders,</block>
-      <block id="53002010" type="v">And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.</block>
-      <block id="53002011" type="v">And for this cause God shall send them strong delusion, that they should believe a lie:</block>
-      <block id="53002012" type="v">That they all might be damned who believed not the truth, but had pleasure in unrighteousness.</block>
-      <block id="53002013" type="v">But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:</block>
-      <block id="53002014" type="v">Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.</block>
-      <block id="53002015" type="v">Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.</block>
-      <block id="53002016" type="v">Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,</block>
-      <block id="53002017" type="v">Comfort your hearts, and stablish you in every good word and work.</block>
-    </chapter>
-    <chapter id="53003">
-      <block id="53003001" type="v">Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:</block>
-      <block id="53003002" type="v">And that we may be delivered from unreasonable and wicked men: for all men have not faith.</block>
-      <block id="53003003" type="v">But the Lord is faithful, who shall stablish you, and keep you from evil.</block>
-      <block id="53003004" type="v">And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.</block>
-      <block id="53003005" type="v">And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.</block>
-      <block id="53003006" type="v">Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.</block>
-      <block id="53003007" type="v">For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;</block>
-      <block id="53003008" type="v">Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:</block>
-      <block id="53003009" type="v">Not because we have not power, but to make ourselves an ensample unto you to follow us.</block>
-      <block id="53003010" type="v">For even when we were with you, this we commanded you, that if any would not work, neither should he eat.</block>
-      <block id="53003011" type="v">For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.</block>
-      <block id="53003012" type="v">Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.</block>
-      <block id="53003013" type="v">But ye, brethren, be not weary in well doing.</block>
-      <block id="53003014" type="v">And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.</block>
-      <block id="53003015" type="v">Yet count him not as an enemy, but admonish him as a brother.</block>
-      <block id="53003016" type="v">Now the Lord of peace himself give you peace always by all means. The Lord be with you all.</block>
-      <block id="53003017" type="v">The salutation of Paul with mine own hand, which is the token in every epistle: so I write.</block>
-      <block id="53003018" type="v">The grace of our Lord Jesus Christ be with you all. Amen. </block>
-    </chapter>
-  </book>
+<text  title="2 Thessalonians"   id="53" xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+    <ante>
+      <caption>The second epistle to the Thessalonians was written from Athens.</caption>
+    </ante>
+    <sec type="ch" id="53001">
+      <frag id="53001001" type="vs">Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:</frag>
+      <frag id="53001002" type="vs">Grace unto you, and peace, from God our Father and the Lord Jesus Christ.</frag>
+      <frag id="53001003" type="vs">We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;</frag>
+      <frag id="53001004" type="vs">So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:</frag>
+      <frag id="53001005" type="vs">Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:</frag>
+      <frag id="53001006" type="vs">Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;</frag>
+      <frag id="53001007" type="vs">And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,</frag>
+      <frag id="53001008" type="vs">In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:</frag>
+      <frag id="53001009" type="vs">Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;</frag>
+      <frag id="53001010" type="vs">When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.</frag>
+      <frag id="53001011" type="vs">Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:</frag>
+      <frag id="53001012" type="vs">That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.</frag>
+    </sec>
+    <sec type="ch" id="53002">
+      <frag id="53002001" type="vs">Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,</frag>
+      <frag id="53002002" type="vs">That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.</frag>
+      <frag id="53002003" type="vs">Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;</frag>
+      <frag id="53002004" type="vs">Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.</frag>
+      <frag id="53002005" type="vs">Remember ye not, that, when I was yet with you, I told you these things?</frag>
+      <frag id="53002006" type="vs">And now ye know what withholdeth that he might be revealed in his time.</frag>
+      <frag id="53002007" type="vs">For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.</frag>
+      <frag id="53002008" type="vs">And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:</frag>
+      <frag id="53002009" type="vs">Even him, whose coming is after the working of Satan with all power and signs and lying wonders,</frag>
+      <frag id="53002010" type="vs">And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.</frag>
+      <frag id="53002011" type="vs">And for this cause God shall send them strong delusion, that they should believe a lie:</frag>
+      <frag id="53002012" type="vs">That they all might be damned who believed not the truth, but had pleasure in unrighteousness.</frag>
+      <frag id="53002013" type="vs">But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:</frag>
+      <frag id="53002014" type="vs">Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.</frag>
+      <frag id="53002015" type="vs">Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.</frag>
+      <frag id="53002016" type="vs">Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,</frag>
+      <frag id="53002017" type="vs">Comfort your hearts, and stablish you in every good word and work.</frag>
+    </sec>
+    <sec type="ch" id="53003">
+      <frag id="53003001" type="vs">Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:</frag>
+      <frag id="53003002" type="vs">And that we may be delivered from unreasonable and wicked men: for all men have not faith.</frag>
+      <frag id="53003003" type="vs">But the Lord is faithful, who shall stablish you, and keep you from evil.</frag>
+      <frag id="53003004" type="vs">And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.</frag>
+      <frag id="53003005" type="vs">And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.</frag>
+      <frag id="53003006" type="vs">Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.</frag>
+      <frag id="53003007" type="vs">For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;</frag>
+      <frag id="53003008" type="vs">Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:</frag>
+      <frag id="53003009" type="vs">Not because we have not power, but to make ourselves an ensample unto you to follow us.</frag>
+      <frag id="53003010" type="vs">For even when we were with you, this we commanded you, that if any would not work, neither should he eat.</frag>
+      <frag id="53003011" type="vs">For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.</frag>
+      <frag id="53003012" type="vs">Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.</frag>
+      <frag id="53003013" type="vs">But ye, brethren, be not weary in well doing.</frag>
+      <frag id="53003014" type="vs">And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.</frag>
+      <frag id="53003015" type="vs">Yet count him not as an enemy, but admonish him as a brother.</frag>
+      <frag id="53003016" type="vs">Now the Lord of peace himself give you peace always by all means. The Lord be with you all.</frag>
+      <frag id="53003017" type="vs">The salutation of Paul with mine own hand, which is the token in every epistle: so I write.</frag>
+      <frag id="53003018" type="vs">The grace of our Lord Jesus Christ be with you all. Amen. </frag>
+    </sec>
+  </text>

@@ -1,171 +1,173 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="Ephesians" shortName="Eph" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="49">
-    <chapter id="49001">
-      <CAPTION vref="1">To the Ephesians written from Rome, by Tychicus.</CAPTION>
-      <block id="49001001" type="v">Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:</block>
-      <block id="49001002" type="v">Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.</block>
-      <block id="49001003" type="v">Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:</block>
-      <block id="49001004" type="v">According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:</block>
-      <block id="49001005" type="v">Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,</block>
-      <block id="49001006" type="v">To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.</block>
-      <block id="49001007" type="v">In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;</block>
-      <block id="49001008" type="v">Wherein he hath abounded toward us in all wisdom and prudence;</block>
-      <block id="49001009" type="v">Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:</block>
-      <block id="49001010" type="v">That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:</block>
-      <block id="49001011" type="v">In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:</block>
-      <block id="49001012" type="v">That we should be to the praise of his glory, who first trusted in Christ.</block>
-      <block id="49001013" type="v">In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,</block>
-      <block id="49001014" type="v">Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.</block>
-      <block id="49001015" type="v">Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,</block>
-      <block id="49001016" type="v">Cease not to give thanks for you, making mention of you in my prayers;</block>
-      <block id="49001017" type="v">That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:</block>
-      <block id="49001018" type="v">The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,</block>
-      <block id="49001019" type="v">And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,</block>
-      <block id="49001020" type="v">Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,</block>
-      <block id="49001021" type="v">Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:</block>
-      <block id="49001022" type="v">And hath put all things under his feet, and gave him to be the head over all things to the church,</block>
-      <block id="49001023" type="v">Which is his body, the fulness of him that filleth all in all.</block>
-    </chapter>
-    <chapter id="49002">
-      <block id="49002001" type="v">And you hath he quickened, who were dead in trespasses and sins;</block>
-      <block id="49002002" type="v">Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</block>
-      <block id="49002003" type="v">Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.</block>
-      <block id="49002004" type="v">But God, who is rich in mercy, for his great love wherewith he loved us,</block>
-      <block id="49002005" type="v">Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)</block>
-      <block id="49002006" type="v">And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:</block>
-      <block id="49002007" type="v">That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.</block>
-      <block id="49002008" type="v">For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:</block>
-      <block id="49002009" type="v">Not of works, lest any man should boast.</block>
-      <block id="49002010" type="v">For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.</block>
-      <block id="49002011" type="v">Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;</block>
-      <block id="49002012" type="v">That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:</block>
-      <block id="49002013" type="v">But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.</block>
-      <block id="49002014" type="v">For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;</block>
-      <block id="49002015" type="v">Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;</block>
-      <block id="49002016" type="v">And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:</block>
-      <block id="49002017" type="v">And came and preached peace to you which were afar off, and to them that were nigh.</block>
-      <block id="49002018" type="v">For through him we both have access by one Spirit unto the Father.</block>
-      <block id="49002019" type="v">Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;</block>
-      <block id="49002020" type="v">And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;</block>
-      <block id="49002021" type="v">In whom all the building fitly framed together groweth unto an holy temple in the Lord:</block>
-      <block id="49002022" type="v">In whom ye also are builded together for an habitation of God through the Spirit.</block>
-    </chapter>
-    <chapter id="49003">
-      <block id="49003001" type="v">For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,</block>
-      <block id="49003002" type="v">If ye have heard of the dispensation of the grace of God which is given me to you-ward:</block>
-      <block id="49003003" type="v">How that by revelation he made known unto me the mystery; (as I wrote afore in few words,</block>
-      <block id="49003004" type="v">Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)</block>
-      <block id="49003005" type="v">Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;</block>
-      <block id="49003006" type="v">That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:</block>
-      <block id="49003007" type="v">Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.</block>
-      <block id="49003008" type="v">Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;</block>
-      <block id="49003009" type="v">And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:</block>
-      <block id="49003010" type="v">To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,</block>
-      <block id="49003011" type="v">According to the eternal purpose which he purposed in Christ Jesus our Lord:</block>
-      <block id="49003012" type="v">In whom we have boldness and access with confidence by the faith of him.</block>
-      <block id="49003013" type="v">Wherefore I desire that ye faint not at my tribulations for you, which is your glory.</block>
-      <block id="49003014" type="v">For this cause I bow my knees unto the Father of our Lord Jesus Christ,</block>
-      <block id="49003015" type="v">Of whom the whole family in heaven and earth is named,</block>
-      <block id="49003016" type="v">That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;</block>
-      <block id="49003017" type="v">That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,</block>
-      <block id="49003018" type="v">May be able to comprehend with all saints what is the breadth, and length, and depth, and height;</block>
-      <block id="49003019" type="v">And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.</block>
-      <block id="49003020" type="v">Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,</block>
-      <block id="49003021" type="v">Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.</block>
-    </chapter>
-    <chapter id="49004">
-      <block id="49004001" type="v">I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,</block>
-      <block id="49004002" type="v">With all lowliness and meekness, with longsuffering, forbearing one another in love;</block>
-      <block id="49004003" type="v">Endeavouring to keep the unity of the Spirit in the bond of peace.</block>
-      <block id="49004004" type="v">There is one body, and one Spirit, even as ye are called in one hope of your calling;</block>
-      <block id="49004005" type="v">One Lord, one faith, one baptism,</block>
-      <block id="49004006" type="v">One God and Father of all, who is above all, and through all, and in you all.</block>
-      <block id="49004007" type="v">But unto every one of us is given grace according to the measure of the gift of Christ.</block>
-      <block id="49004008" type="v">Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.</block>
-      <block id="49004009" type="v">Now that he ascended, what is it but that he also descended first into the lower parts of the earth?</block>
-      <block id="49004010" type="v">He that descended is the same also that ascended up far above all heavens, that he might fill all things.)</block>
-      <block id="49004011" type="v">And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;</block>
-      <block id="49004012" type="v">For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:</block>
-      <block id="49004013" type="v">Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:</block>
-      <block id="49004014" type="v">That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;</block>
-      <block id="49004015" type="v">But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:</block>
-      <block id="49004016" type="v">From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.</block>
-      <block id="49004017" type="v">This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,</block>
-      <block id="49004018" type="v">Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:</block>
-      <block id="49004019" type="v">Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.</block>
-      <block id="49004020" type="v">But ye have not so learned Christ;</block>
-      <block id="49004021" type="v">If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:</block>
-      <block id="49004022" type="v">That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;</block>
-      <block id="49004023" type="v">And be renewed in the spirit of your mind;</block>
-      <block id="49004024" type="v">And that ye put on the new man, which after God is created in righteousness and true holiness.</block>
-      <block id="49004025" type="v">Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.</block>
-      <block id="49004026" type="v">Be ye angry, and sin not: let not the sun go down upon your wrath:</block>
-      <block id="49004027" type="v">Neither give place to the devil.</block>
-      <block id="49004028" type="v">Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.</block>
-      <block id="49004029" type="v">Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</block>
-      <block id="49004030" type="v">And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.</block>
-      <block id="49004031" type="v">Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:</block>
-      <block id="49004032" type="v">And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.</block>
-    </chapter>
-    <chapter id="49005">
-      <block id="49005001" type="v">Be ye therefore followers of God, as dear children;</block>
-      <block id="49005002" type="v">And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.</block>
-      <block id="49005003" type="v">But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;</block>
-      <block id="49005004" type="v">Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.</block>
-      <block id="49005005" type="v">For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.</block>
-      <block id="49005006" type="v">Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.</block>
-      <block id="49005007" type="v">Be not ye therefore partakers with them.</block>
-      <block id="49005008" type="v">For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:</block>
-      <block id="49005009" type="v">For the fruit of the Spirit is in all goodness and righteousness and truth;)</block>
-      <block id="49005010" type="v">Proving what is acceptable unto the Lord.</block>
-      <block id="49005011" type="v">And have no fellowship with the unfruitful works of darkness, but rather reprove them.</block>
-      <block id="49005012" type="v">For it is a shame even to speak of those things which are done of them in secret.</block>
-      <block id="49005013" type="v">But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.</block>
-      <block id="49005014" type="v">Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.</block>
-      <block id="49005015" type="v">See then that ye walk circumspectly, not as fools, but as wise,</block>
-      <block id="49005016" type="v">Redeeming the time, because the days are evil.</block>
-      <block id="49005017" type="v">Wherefore be ye not unwise, but understanding what the will of the Lord is.</block>
-      <block id="49005018" type="v">And be not drunk with wine, wherein is excess; but be filled with the Spirit;</block>
-      <block id="49005019" type="v">Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;</block>
-      <block id="49005020" type="v">Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;</block>
-      <block id="49005021" type="v">Submitting yourselves one to another in the fear of God.</block>
-      <block id="49005022" type="v">Wives, submit yourselves unto your own husbands, as unto the Lord.</block>
-      <block id="49005023" type="v">For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.</block>
-      <block id="49005024" type="v">Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.</block>
-      <block id="49005025" type="v">Husbands, love your wives, even as Christ also loved the church, and gave himself for it;</block>
-      <block id="49005026" type="v">That he might sanctify and cleanse it with the washing of water by the word,</block>
-      <block id="49005027" type="v">That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.</block>
-      <block id="49005028" type="v">So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.</block>
-      <block id="49005029" type="v">For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:</block>
-      <block id="49005030" type="v">For we are members of his body, of his flesh, and of his bones.</block>
-      <block id="49005031" type="v">For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.</block>
-      <block id="49005032" type="v">This is a great mystery: but I speak concerning Christ and the church.</block>
-      <block id="49005033" type="v">Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.</block>
-    </chapter>
-    <chapter id="49006">
-      <block id="49006001" type="v">Children, obey your parents in the Lord: for this is right.</block>
-      <block id="49006002" type="v">Honour thy father and mother; (which is the first commandment with promise;)</block>
-      <block id="49006003" type="v">That it may be well with thee, and thou mayest live long on the earth.</block>
-      <block id="49006004" type="v">And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.</block>
-      <block id="49006005" type="v">Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;</block>
-      <block id="49006006" type="v">Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;</block>
-      <block id="49006007" type="v">With good will doing service, as to the Lord, and not to men:</block>
-      <block id="49006008" type="v">Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.</block>
-      <block id="49006009" type="v">And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.</block>
-      <block id="49006010" type="v">Finally, my brethren, be strong in the Lord, and in the power of his might.</block>
-      <block id="49006011" type="v">Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.</block>
-      <block id="49006012" type="v">For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.</block>
-      <block id="49006013" type="v">Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.</block>
-      <block id="49006014" type="v">Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;</block>
-      <block id="49006015" type="v">And your feet shod with the preparation of the gospel of peace;</block>
-      <block id="49006016" type="v">Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.</block>
-      <block id="49006017" type="v">And take the helmet of salvation, and the sword of the Spirit, which is the word of God:</block>
-      <block id="49006018" type="v">Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;</block>
-      <block id="49006019" type="v">And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,</block>
-      <block id="49006020" type="v">For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.</block>
-      <block id="49006021" type="v">But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:</block>
-      <block id="49006022" type="v">Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.</block>
-      <block id="49006023" type="v">Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.</block>
-      <block id="49006024" type="v">Grace be with all them that love our Lord Jesus Christ in sincerity. Amen. </block>
-    </chapter>
-  </book>
+<text  title="Ephesians"   id="49" xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+    <ante>
+      <caption>To the Ephesians written from Rome, by Tychicus.</caption>
+    </ante>
+    <sec type="ch" id="49001">
+      <frag id="49001001" type="vs">Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:</frag>
+      <frag id="49001002" type="vs">Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.</frag>
+      <frag id="49001003" type="vs">Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:</frag>
+      <frag id="49001004" type="vs">According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:</frag>
+      <frag id="49001005" type="vs">Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,</frag>
+      <frag id="49001006" type="vs">To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.</frag>
+      <frag id="49001007" type="vs">In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;</frag>
+      <frag id="49001008" type="vs">Wherein he hath abounded toward us in all wisdom and prudence;</frag>
+      <frag id="49001009" type="vs">Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:</frag>
+      <frag id="49001010" type="vs">That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:</frag>
+      <frag id="49001011" type="vs">In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:</frag>
+      <frag id="49001012" type="vs">That we should be to the praise of his glory, who first trusted in Christ.</frag>
+      <frag id="49001013" type="vs">In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,</frag>
+      <frag id="49001014" type="vs">Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.</frag>
+      <frag id="49001015" type="vs">Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,</frag>
+      <frag id="49001016" type="vs">Cease not to give thanks for you, making mention of you in my prayers;</frag>
+      <frag id="49001017" type="vs">That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:</frag>
+      <frag id="49001018" type="vs">The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,</frag>
+      <frag id="49001019" type="vs">And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,</frag>
+      <frag id="49001020" type="vs">Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,</frag>
+      <frag id="49001021" type="vs">Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:</frag>
+      <frag id="49001022" type="vs">And hath put all things under his feet, and gave him to be the head over all things to the church,</frag>
+      <frag id="49001023" type="vs">Which is his body, the fulness of him that filleth all in all.</frag>
+    </sec>
+    <sec type="ch" id="49002">
+      <frag id="49002001" type="vs">And you hath he quickened, who were dead in trespasses and sins;</frag>
+      <frag id="49002002" type="vs">Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</frag>
+      <frag id="49002003" type="vs">Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.</frag>
+      <frag id="49002004" type="vs">But God, who is rich in mercy, for his great love wherewith he loved us,</frag>
+      <frag id="49002005" type="vs">Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)</frag>
+      <frag id="49002006" type="vs">And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:</frag>
+      <frag id="49002007" type="vs">That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.</frag>
+      <frag id="49002008" type="vs">For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:</frag>
+      <frag id="49002009" type="vs">Not of works, lest any man should boast.</frag>
+      <frag id="49002010" type="vs">For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.</frag>
+      <frag id="49002011" type="vs">Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;</frag>
+      <frag id="49002012" type="vs">That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:</frag>
+      <frag id="49002013" type="vs">But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.</frag>
+      <frag id="49002014" type="vs">For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;</frag>
+      <frag id="49002015" type="vs">Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;</frag>
+      <frag id="49002016" type="vs">And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:</frag>
+      <frag id="49002017" type="vs">And came and preached peace to you which were afar off, and to them that were nigh.</frag>
+      <frag id="49002018" type="vs">For through him we both have access by one Spirit unto the Father.</frag>
+      <frag id="49002019" type="vs">Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;</frag>
+      <frag id="49002020" type="vs">And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;</frag>
+      <frag id="49002021" type="vs">In whom all the building fitly framed together groweth unto an holy temple in the Lord:</frag>
+      <frag id="49002022" type="vs">In whom ye also are builded together for an habitation of God through the Spirit.</frag>
+    </sec>
+    <sec type="ch" id="49003">
+      <frag id="49003001" type="vs">For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,</frag>
+      <frag id="49003002" type="vs">If ye have heard of the dispensation of the grace of God which is given me to you-ward:</frag>
+      <frag id="49003003" type="vs">How that by revelation he made known unto me the mystery; (as I wrote afore in few words,</frag>
+      <frag id="49003004" type="vs">Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)</frag>
+      <frag id="49003005" type="vs">Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;</frag>
+      <frag id="49003006" type="vs">That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:</frag>
+      <frag id="49003007" type="vs">Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.</frag>
+      <frag id="49003008" type="vs">Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;</frag>
+      <frag id="49003009" type="vs">And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:</frag>
+      <frag id="49003010" type="vs">To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,</frag>
+      <frag id="49003011" type="vs">According to the eternal purpose which he purposed in Christ Jesus our Lord:</frag>
+      <frag id="49003012" type="vs">In whom we have boldness and access with confidence by the faith of him.</frag>
+      <frag id="49003013" type="vs">Wherefore I desire that ye faint not at my tribulations for you, which is your glory.</frag>
+      <frag id="49003014" type="vs">For this cause I bow my knees unto the Father of our Lord Jesus Christ,</frag>
+      <frag id="49003015" type="vs">Of whom the whole family in heaven and earth is named,</frag>
+      <frag id="49003016" type="vs">That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;</frag>
+      <frag id="49003017" type="vs">That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,</frag>
+      <frag id="49003018" type="vs">May be able to comprehend with all saints what is the breadth, and length, and depth, and height;</frag>
+      <frag id="49003019" type="vs">And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.</frag>
+      <frag id="49003020" type="vs">Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,</frag>
+      <frag id="49003021" type="vs">Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.</frag>
+    </sec>
+    <sec type="ch" id="49004">
+      <frag id="49004001" type="vs">I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,</frag>
+      <frag id="49004002" type="vs">With all lowliness and meekness, with longsuffering, forbearing one another in love;</frag>
+      <frag id="49004003" type="vs">Endeavouring to keep the unity of the Spirit in the bond of peace.</frag>
+      <frag id="49004004" type="vs">There is one body, and one Spirit, even as ye are called in one hope of your calling;</frag>
+      <frag id="49004005" type="vs">One Lord, one faith, one baptism,</frag>
+      <frag id="49004006" type="vs">One God and Father of all, who is above all, and through all, and in you all.</frag>
+      <frag id="49004007" type="vs">But unto every one of us is given grace according to the measure of the gift of Christ.</frag>
+      <frag id="49004008" type="vs">Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.</frag>
+      <frag id="49004009" type="vs">Now that he ascended, what is it but that he also descended first into the lower parts of the earth?</frag>
+      <frag id="49004010" type="vs">He that descended is the same also that ascended up far above all heavens, that he might fill all things.)</frag>
+      <frag id="49004011" type="vs">And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;</frag>
+      <frag id="49004012" type="vs">For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:</frag>
+      <frag id="49004013" type="vs">Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:</frag>
+      <frag id="49004014" type="vs">That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;</frag>
+      <frag id="49004015" type="vs">But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:</frag>
+      <frag id="49004016" type="vs">From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.</frag>
+      <frag id="49004017" type="vs">This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,</frag>
+      <frag id="49004018" type="vs">Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:</frag>
+      <frag id="49004019" type="vs">Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.</frag>
+      <frag id="49004020" type="vs">But ye have not so learned Christ;</frag>
+      <frag id="49004021" type="vs">If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:</frag>
+      <frag id="49004022" type="vs">That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;</frag>
+      <frag id="49004023" type="vs">And be renewed in the spirit of your mind;</frag>
+      <frag id="49004024" type="vs">And that ye put on the new man, which after God is created in righteousness and true holiness.</frag>
+      <frag id="49004025" type="vs">Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.</frag>
+      <frag id="49004026" type="vs">Be ye angry, and sin not: let not the sun go down upon your wrath:</frag>
+      <frag id="49004027" type="vs">Neither give place to the devil.</frag>
+      <frag id="49004028" type="vs">Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.</frag>
+      <frag id="49004029" type="vs">Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</frag>
+      <frag id="49004030" type="vs">And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.</frag>
+      <frag id="49004031" type="vs">Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:</frag>
+      <frag id="49004032" type="vs">And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.</frag>
+    </sec>
+    <sec type="ch" id="49005">
+      <frag id="49005001" type="vs">Be ye therefore followers of God, as dear children;</frag>
+      <frag id="49005002" type="vs">And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.</frag>
+      <frag id="49005003" type="vs">But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;</frag>
+      <frag id="49005004" type="vs">Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.</frag>
+      <frag id="49005005" type="vs">For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.</frag>
+      <frag id="49005006" type="vs">Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.</frag>
+      <frag id="49005007" type="vs">Be not ye therefore partakers with them.</frag>
+      <frag id="49005008" type="vs">For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:</frag>
+      <frag id="49005009" type="vs">For the fruit of the Spirit is in all goodness and righteousness and truth;)</frag>
+      <frag id="49005010" type="vs">Proving what is acceptable unto the Lord.</frag>
+      <frag id="49005011" type="vs">And have no fellowship with the unfruitful works of darkness, but rather reprove them.</frag>
+      <frag id="49005012" type="vs">For it is a shame even to speak of those things which are done of them in secret.</frag>
+      <frag id="49005013" type="vs">But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.</frag>
+      <frag id="49005014" type="vs">Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.</frag>
+      <frag id="49005015" type="vs">See then that ye walk circumspectly, not as fools, but as wise,</frag>
+      <frag id="49005016" type="vs">Redeeming the time, because the days are evil.</frag>
+      <frag id="49005017" type="vs">Wherefore be ye not unwise, but understanding what the will of the Lord is.</frag>
+      <frag id="49005018" type="vs">And be not drunk with wine, wherein is excess; but be filled with the Spirit;</frag>
+      <frag id="49005019" type="vs">Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;</frag>
+      <frag id="49005020" type="vs">Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;</frag>
+      <frag id="49005021" type="vs">Submitting yourselves one to another in the fear of God.</frag>
+      <frag id="49005022" type="vs">Wives, submit yourselves unto your own husbands, as unto the Lord.</frag>
+      <frag id="49005023" type="vs">For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.</frag>
+      <frag id="49005024" type="vs">Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.</frag>
+      <frag id="49005025" type="vs">Husbands, love your wives, even as Christ also loved the church, and gave himself for it;</frag>
+      <frag id="49005026" type="vs">That he might sanctify and cleanse it with the washing of water by the word,</frag>
+      <frag id="49005027" type="vs">That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.</frag>
+      <frag id="49005028" type="vs">So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.</frag>
+      <frag id="49005029" type="vs">For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:</frag>
+      <frag id="49005030" type="vs">For we are members of his body, of his flesh, and of his bones.</frag>
+      <frag id="49005031" type="vs">For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.</frag>
+      <frag id="49005032" type="vs">This is a great mystery: but I speak concerning Christ and the church.</frag>
+      <frag id="49005033" type="vs">Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.</frag>
+    </sec>
+    <sec type="ch" id="49006">
+      <frag id="49006001" type="vs">Children, obey your parents in the Lord: for this is right.</frag>
+      <frag id="49006002" type="vs">Honour thy father and mother; (which is the first commandment with promise;)</frag>
+      <frag id="49006003" type="vs">That it may be well with thee, and thou mayest live long on the earth.</frag>
+      <frag id="49006004" type="vs">And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.</frag>
+      <frag id="49006005" type="vs">Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;</frag>
+      <frag id="49006006" type="vs">Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;</frag>
+      <frag id="49006007" type="vs">With good will doing service, as to the Lord, and not to men:</frag>
+      <frag id="49006008" type="vs">Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.</frag>
+      <frag id="49006009" type="vs">And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.</frag>
+      <frag id="49006010" type="vs">Finally, my brethren, be strong in the Lord, and in the power of his might.</frag>
+      <frag id="49006011" type="vs">Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.</frag>
+      <frag id="49006012" type="vs">For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.</frag>
+      <frag id="49006013" type="vs">Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.</frag>
+      <frag id="49006014" type="vs">Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;</frag>
+      <frag id="49006015" type="vs">And your feet shod with the preparation of the gospel of peace;</frag>
+      <frag id="49006016" type="vs">Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.</frag>
+      <frag id="49006017" type="vs">And take the helmet of salvation, and the sword of the Spirit, which is the word of God:</frag>
+      <frag id="49006018" type="vs">Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;</frag>
+      <frag id="49006019" type="vs">And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,</frag>
+      <frag id="49006020" type="vs">For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.</frag>
+      <frag id="49006021" type="vs">But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:</frag>
+      <frag id="49006022" type="vs">Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.</frag>
+      <frag id="49006023" type="vs">Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.</frag>
+      <frag id="49006024" type="vs">Grace be with all them that love our Lord Jesus Christ in sincerity. Amen. </frag>
+    </sec>
+  </text>

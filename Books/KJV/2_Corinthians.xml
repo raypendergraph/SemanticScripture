@@ -1,287 +1,289 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="2 Corinthians" shortName="2Cor" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="47">
-    <chapter id="47001">
-      <CAPTION vref="1">The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas.</CAPTION>
-      <block id="47001001" type="v">Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:</block>
-      <block id="47001002" type="v">Grace be to you and peace from God our Father, and from the Lord Jesus Christ.</block>
-      <block id="47001003" type="v">Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;</block>
-      <block id="47001004" type="v">Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.</block>
-      <block id="47001005" type="v">For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.</block>
-      <block id="47001006" type="v">And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.</block>
-      <block id="47001007" type="v">And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.</block>
-      <block id="47001008" type="v">For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:</block>
-      <block id="47001009" type="v">But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:</block>
-      <block id="47001010" type="v">Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;</block>
-      <block id="47001011" type="v">Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.</block>
-      <block id="47001012" type="v">For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.</block>
-      <block id="47001013" type="v">For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;</block>
-      <block id="47001014" type="v">As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.</block>
-      <block id="47001015" type="v">And in this confidence I was minded to come unto you before, that ye might have a second benefit;</block>
-      <block id="47001016" type="v">And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.</block>
-      <block id="47001017" type="v">When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?</block>
-      <block id="47001018" type="v">But as God is true, our word toward you was not yea and nay.</block>
-      <block id="47001019" type="v">For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.</block>
-      <block id="47001020" type="v">For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.</block>
-      <block id="47001021" type="v">Now he which stablisheth us with you in Christ, and hath anointed us, is God;</block>
-      <block id="47001022" type="v">Who hath also sealed us, and given the earnest of the Spirit in our hearts.</block>
-      <block id="47001023" type="v">Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.</block>
-      <block id="47001024" type="v">Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.</block>
-    </chapter>
-    <chapter id="47002">
-      <block id="47002001" type="v">But I determined this with myself, that I would not come again to you in heaviness.</block>
-      <block id="47002002" type="v">For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?</block>
-      <block id="47002003" type="v">And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.</block>
-      <block id="47002004" type="v">For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.</block>
-      <block id="47002005" type="v">But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.</block>
-      <block id="47002006" type="v">Sufficient to such a man is this punishment, which was inflicted of many.</block>
-      <block id="47002007" type="v">So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.</block>
-      <block id="47002008" type="v">Wherefore I beseech you that ye would confirm your love toward him.</block>
-      <block id="47002009" type="v">For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.</block>
-      <block id="47002010" type="v">To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;</block>
-      <block id="47002011" type="v">Lest Satan should get an advantage of us: for we are not ignorant of his devices.</block>
-      <block id="47002012" type="v">Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,</block>
-      <block id="47002013" type="v">I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.</block>
-      <block id="47002014" type="v">Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.</block>
-      <block id="47002015" type="v">For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:</block>
-      <block id="47002016" type="v">To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?</block>
-      <block id="47002017" type="v">For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.</block>
-    </chapter>
-    <chapter id="47003">
-      <block id="47003001" type="v">Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?</block>
-      <block id="47003002" type="v">Ye are our epistle written in our hearts, known and read of all men:</block>
-      <block id="47003003" type="v">Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.</block>
-      <block id="47003004" type="v">And such trust have we through Christ to God-ward:</block>
-      <block id="47003005" type="v">Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;</block>
-      <block id="47003006" type="v">Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.</block>
-      <block id="47003007" type="v">But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:</block>
-      <block id="47003008" type="v">How shall not the ministration of the spirit be rather glorious?</block>
-      <block id="47003009" type="v">For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.</block>
-      <block id="47003010" type="v">For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.</block>
-      <block id="47003011" type="v">For if that which is done away was glorious, much more that which remaineth is glorious.</block>
-      <block id="47003012" type="v">Seeing then that we have such hope, we use great plainness of speech:</block>
-      <block id="47003013" type="v">And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:</block>
-      <block id="47003014" type="v">But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.</block>
-      <block id="47003015" type="v">But even unto this day, when Moses is read, the vail is upon their heart.</block>
-      <block id="47003016" type="v">Nevertheless when it shall turn to the Lord, the vail shall be taken away.</block>
-      <block id="47003017" type="v">Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.</block>
-      <block id="47003018" type="v">But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.</block>
-    </chapter>
-    <chapter id="47004">
-      <block id="47004001" type="v">Therefore seeing we have this ministry, as we have received mercy, we faint not;</block>
-      <block id="47004002" type="v">But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.</block>
-      <block id="47004003" type="v">But if our gospel be hid, it is hid to them that are lost:</block>
-      <block id="47004004" type="v">In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.</block>
-      <block id="47004005" type="v">For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.</block>
-      <block id="47004006" type="v">For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.</block>
-      <block id="47004007" type="v">But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.</block>
-      <block id="47004008" type="v">We are troubled on every side, yet not distressed; we are perplexed, but not in despair;</block>
-      <block id="47004009" type="v">Persecuted, but not forsaken; cast down, but not destroyed;</block>
-      <block id="47004010" type="v">Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.</block>
-      <block id="47004011" type="v">For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.</block>
-      <block id="47004012" type="v">So then death worketh in us, but life in you.</block>
-      <block id="47004013" type="v">We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;</block>
-      <block id="47004014" type="v">Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.</block>
-      <block id="47004015" type="v">For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.</block>
-      <block id="47004016" type="v">For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.</block>
-      <block id="47004017" type="v">For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;</block>
-      <block id="47004018" type="v">While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.</block>
-    </chapter>
-    <chapter id="47005">
-      <block id="47005001" type="v">For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.</block>
-      <block id="47005002" type="v">For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:</block>
-      <block id="47005003" type="v">If so be that being clothed we shall not be found naked.</block>
-      <block id="47005004" type="v">For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.</block>
-      <block id="47005005" type="v">Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.</block>
-      <block id="47005006" type="v">Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:</block>
-      <block id="47005007" type="v">For we walk by faith, not by sight:)</block>
-      <block id="47005008" type="v">We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.</block>
-      <block id="47005009" type="v">Wherefore we labour, that, whether present or absent, we may be accepted of him.</block>
-      <block id="47005010" type="v">For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.</block>
-      <block id="47005011" type="v">Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.</block>
-      <block id="47005012" type="v">For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to answer them which glory in appearance, and not in heart.</block>
-      <block id="47005013" type="v">For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.</block>
-      <block id="47005014" type="v">For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:</block>
-      <block id="47005015" type="v">And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.</block>
-      <block id="47005016" type="v">Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.</block>
-      <block id="47005017" type="v">Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.</block>
-      <block id="47005018" type="v">And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;</block>
-      <block id="47005019" type="v">To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.</block>
-      <block id="47005020" type="v">Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.</block>
-      <block id="47005021" type="v">For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.</block>
-    </chapter>
-    <chapter id="47006">
-      <block id="47006001" type="v">We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.</block>
-      <block id="47006002" type="v">For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)</block>
-      <block id="47006003" type="v">Giving no offence in any thing, that the ministry be not blamed:</block>
-      <block id="47006004" type="v">But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,</block>
-      <block id="47006005" type="v">In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;</block>
-      <block id="47006006" type="v">By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,</block>
-      <block id="47006007" type="v">By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,</block>
-      <block id="47006008" type="v">By honour and dishonour, by evil report and good report: as deceivers, and yet true;</block>
-      <block id="47006009" type="v">As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;</block>
-      <block id="47006010" type="v">As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.</block>
-      <block id="47006011" type="v">O ye Corinthians, our mouth is open unto you, our heart is enlarged.</block>
-      <block id="47006012" type="v">Ye are not straitened in us, but ye are straitened in your own bowels.</block>
-      <block id="47006013" type="v">Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.</block>
-      <block id="47006014" type="v">Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?</block>
-      <block id="47006015" type="v">And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?</block>
-      <block id="47006016" type="v">And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.</block>
-      <block id="47006017" type="v">Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,</block>
-      <block id="47006018" type="v">And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.</block>
-    </chapter>
-    <chapter id="47007">
-      <block id="47007001" type="v">Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.</block>
-      <block id="47007002" type="v">Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.</block>
-      <block id="47007003" type="v">I speak not this to condemn you: for I have said before, that ye are in our hearts to die and live with you.</block>
-      <block id="47007004" type="v">Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.</block>
-      <block id="47007005" type="v">For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.</block>
-      <block id="47007006" type="v">Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;</block>
-      <block id="47007007" type="v">And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.</block>
-      <block id="47007008" type="v">For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.</block>
-      <block id="47007009" type="v">Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.</block>
-      <block id="47007010" type="v">For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.</block>
-      <block id="47007011" type="v">For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.</block>
-      <block id="47007012" type="v">Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.</block>
-      <block id="47007013" type="v">Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.</block>
-      <block id="47007014" type="v">For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.</block>
-      <block id="47007015" type="v">And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.</block>
-      <block id="47007016" type="v">I rejoice therefore that I have confidence in you in all things.</block>
-    </chapter>
-    <chapter id="47008">
-      <block id="47008001" type="v">Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;</block>
-      <block id="47008002" type="v">How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.</block>
-      <block id="47008003" type="v">For to their power, I bear record, yea, and beyond their power they were willing of themselves;</block>
-      <block id="47008004" type="v">Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.</block>
-      <block id="47008005" type="v">And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.</block>
-      <block id="47008006" type="v">Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.</block>
-      <block id="47008007" type="v">Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.</block>
-      <block id="47008008" type="v">I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.</block>
-      <block id="47008009" type="v">For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.</block>
-      <block id="47008010" type="v">And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.</block>
-      <block id="47008011" type="v">Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.</block>
-      <block id="47008012" type="v">For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.</block>
-      <block id="47008013" type="v">For I mean not that other men be eased, and ye burdened:</block>
-      <block id="47008014" type="v">But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:</block>
-      <block id="47008015" type="v">As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.</block>
-      <block id="47008016" type="v">But thanks be to God, which put the same earnest care into the heart of Titus for you.</block>
-      <block id="47008017" type="v">For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.</block>
-      <block id="47008018" type="v">And we have sent with him the brother, whose praise is in the gospel throughout all the churches;</block>
-      <block id="47008019" type="v">And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:</block>
-      <block id="47008020" type="v">Avoiding this, that no man should blame us in this abundance which is administered by us:</block>
-      <block id="47008021" type="v">Providing for honest things, not only in the sight of the Lord, but also in the sight of men.</block>
-      <block id="47008022" type="v">And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.</block>
-      <block id="47008023" type="v">Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.</block>
-      <block id="47008024" type="v">Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.</block>
-    </chapter>
-    <chapter id="47009">
-      <block id="47009001" type="v">For as touching the ministering to the saints, it is superfluous for me to write to you:</block>
-      <block id="47009002" type="v">For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.</block>
-      <block id="47009003" type="v">Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:</block>
-      <block id="47009004" type="v">Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.</block>
-      <block id="47009005" type="v">Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.</block>
-      <block id="47009006" type="v">But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.</block>
-      <block id="47009007" type="v">Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.</block>
-      <block id="47009008" type="v">And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:</block>
-      <block id="47009009" type="v">As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.</block>
-      <block id="47009010" type="v">Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)</block>
-      <block id="47009011" type="v">Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.</block>
-      <block id="47009012" type="v">For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;</block>
-      <block id="47009013" type="v">Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;</block>
-      <block id="47009014" type="v">And by their prayer for you, which long after you for the exceeding grace of God in you.</block>
-      <block id="47009015" type="v">Thanks be unto God for his unspeakable gift.</block>
-    </chapter>
-    <chapter id="47010">
-      <block id="47010001" type="v">Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:</block>
-      <block id="47010002" type="v">But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.</block>
-      <block id="47010003" type="v">For though we walk in the flesh, we do not war after the flesh:</block>
-      <block id="47010004" type="v">For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)</block>
-      <block id="47010005" type="v">Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;</block>
-      <block id="47010006" type="v">And having in a readiness to revenge all disobedience, when your obedience is fulfilled.</block>
-      <block id="47010007" type="v">Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.</block>
-      <block id="47010008" type="v">For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:</block>
-      <block id="47010009" type="v">That I may not seem as if I would terrify you by letters.</block>
-      <block id="47010010" type="v">For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.</block>
-      <block id="47010011" type="v">Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.</block>
-      <block id="47010012" type="v">For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.</block>
-      <block id="47010013" type="v">But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.</block>
-      <block id="47010014" type="v">For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:</block>
-      <block id="47010015" type="v">Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,</block>
-      <block id="47010016" type="v">To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.</block>
-      <block id="47010017" type="v">But he that glorieth, let him glory in the Lord.</block>
-      <block id="47010018" type="v">For not he that commendeth himself is approved, but whom the Lord commendeth.</block>
-    </chapter>
-    <chapter id="47011">
-      <block id="47011001" type="v">Would to God ye could bear with me a little in my folly: and indeed bear with me.</block>
-      <block id="47011002" type="v">For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.</block>
-      <block id="47011003" type="v">But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.</block>
-      <block id="47011004" type="v">For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.</block>
-      <block id="47011005" type="v">For I suppose I was not a whit behind the very chiefest apostles.</block>
-      <block id="47011006" type="v">But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.</block>
-      <block id="47011007" type="v">Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?</block>
-      <block id="47011008" type="v">I robbed other churches, taking wages of them, to do you service.</block>
-      <block id="47011009" type="v">And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.</block>
-      <block id="47011010" type="v">As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.</block>
-      <block id="47011011" type="v">Wherefore? because I love you not? God knoweth.</block>
-      <block id="47011012" type="v">But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.</block>
-      <block id="47011013" type="v">For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.</block>
-      <block id="47011014" type="v">And no marvel; for Satan himself is transformed into an angel of light.</block>
-      <block id="47011015" type="v">Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.</block>
-      <block id="47011016" type="v">I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.</block>
-      <block id="47011017" type="v">That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.</block>
-      <block id="47011018" type="v">Seeing that many glory after the flesh, I will glory also.</block>
-      <block id="47011019" type="v">For ye suffer fools gladly, seeing ye yourselves are wise.</block>
-      <block id="47011020" type="v">For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.</block>
-      <block id="47011021" type="v">I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.</block>
-      <block id="47011022" type="v">Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.</block>
-      <block id="47011023" type="v">Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.</block>
-      <block id="47011024" type="v">Of the Jews five times received I forty stripes save one.</block>
-      <block id="47011025" type="v">Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;</block>
-      <block id="47011026" type="v">In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;</block>
-      <block id="47011027" type="v">In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.</block>
-      <block id="47011028" type="v">Beside those things that are without, that which cometh upon me daily, the care of all the churches.</block>
-      <block id="47011029" type="v">Who is weak, and I am not weak? who is offended, and I burn not?</block>
-      <block id="47011030" type="v">If I must needs glory, I will glory of the things which concern mine infirmities.</block>
-      <block id="47011031" type="v">The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.</block>
-      <block id="47011032" type="v">In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:</block>
-      <block id="47011033" type="v">And through a window in a basket was I let down by the wall, and escaped his hands.</block>
-    </chapter>
-    <chapter id="47012">
-      <block id="47012001" type="v">It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.</block>
-      <block id="47012002" type="v">I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.</block>
-      <block id="47012003" type="v">And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)</block>
-      <block id="47012004" type="v">How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.</block>
-      <block id="47012005" type="v">Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.</block>
-      <block id="47012006" type="v">For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.</block>
-      <block id="47012007" type="v">And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.</block>
-      <block id="47012008" type="v">For this thing I besought the Lord thrice, that it might depart from me.</block>
-      <block id="47012009" type="v">And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.</block>
-      <block id="47012010" type="v">Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.</block>
-      <block id="47012011" type="v">I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.</block>
-      <block id="47012012" type="v">Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.</block>
-      <block id="47012013" type="v">For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.</block>
-      <block id="47012014" type="v">Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.</block>
-      <block id="47012015" type="v">And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.</block>
-      <block id="47012016" type="v">But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.</block>
-      <block id="47012017" type="v">Did I make a gain of you by any of them whom I sent unto you?</block>
-      <block id="47012018" type="v">I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?</block>
-      <block id="47012019" type="v">Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.</block>
-      <block id="47012020" type="v">For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:</block>
-      <block id="47012021" type="v">And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.</block>
-    </chapter>
-    <chapter id="47013">
-      <block id="47013001" type="v">This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.</block>
-      <block id="47013002" type="v">I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:</block>
-      <block id="47013003" type="v">Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.</block>
-      <block id="47013004" type="v">For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.</block>
-      <block id="47013005" type="v">Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?</block>
-      <block id="47013006" type="v">But I trust that ye shall know that we are not reprobates.</block>
-      <block id="47013007" type="v">Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.</block>
-      <block id="47013008" type="v">For we can do nothing against the truth, but for the truth.</block>
-      <block id="47013009" type="v">For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.</block>
-      <block id="47013010" type="v">Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.</block>
-      <block id="47013011" type="v">Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.</block>
-      <block id="47013012" type="v">Greet one another with an holy kiss.</block>
-      <block id="47013013" type="v">All the saints salute you.</block>
-      <block id="47013014" type="v">The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.</block>
-    </chapter>
-  </book>
+<text title="2 Corinthians" id="47" xmlns="http://example.com/SemanticScripture"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sec type="ch" id="47001">
+    <caption>The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas.</caption>
+    <frag id="47001001" type="vs">Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:</frag>
+    <frag id="47001002" type="vs">Grace be to you and peace from God our Father, and from the Lord Jesus Christ.</frag>
+    <frag id="47001003" type="vs">Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;</frag>
+    <frag id="47001004" type="vs">Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.</frag>
+    <frag id="47001005" type="vs">For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.</frag>
+    <frag id="47001006" type="vs">And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.</frag>
+    <frag id="47001007" type="vs">And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.</frag>
+    <frag id="47001008" type="vs">For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:</frag>
+    <frag id="47001009" type="vs">But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:</frag>
+    <frag id="47001010" type="vs">Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;</frag>
+    <frag id="47001011" type="vs">Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.</frag>
+    <frag id="47001012" type="vs">For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.</frag>
+    <frag id="47001013" type="vs">For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;</frag>
+    <frag id="47001014" type="vs">As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.</frag>
+    <frag id="47001015" type="vs">And in this confidence I was minded to come unto you before, that ye might have a second benefit;</frag>
+    <frag id="47001016" type="vs">And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.</frag>
+    <frag id="47001017" type="vs">When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?</frag>
+    <frag id="47001018" type="vs">But as God is true, our word toward you was not yea and nay.</frag>
+    <frag id="47001019" type="vs">For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.</frag>
+    <frag id="47001020" type="vs">For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.</frag>
+    <frag id="47001021" type="vs">Now he which stablisheth us with you in Christ, and hath anointed us, is God;</frag>
+    <frag id="47001022" type="vs">Who hath also sealed us, and given the earnest of the Spirit in our hearts.</frag>
+    <frag id="47001023" type="vs">Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.</frag>
+    <frag id="47001024" type="vs">Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.</frag>
+  </sec>
+  <sec type="ch" id="47002">
+    <frag id="47002001" type="vs">But I determined this with myself, that I would not come again to you in heaviness.</frag>
+    <frag id="47002002" type="vs">For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?</frag>
+    <frag id="47002003" type="vs">And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.</frag>
+    <frag id="47002004" type="vs">For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.</frag>
+    <frag id="47002005" type="vs">But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.</frag>
+    <frag id="47002006" type="vs">Sufficient to such a man is this punishment, which was inflicted of many.</frag>
+    <frag id="47002007" type="vs">So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.</frag>
+    <frag id="47002008" type="vs">Wherefore I beseech you that ye would confirm your love toward him.</frag>
+    <frag id="47002009" type="vs">For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.</frag>
+    <frag id="47002010" type="vs">To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;</frag>
+    <frag id="47002011" type="vs">Lest Satan should get an advantage of us: for we are not ignorant of his devices.</frag>
+    <frag id="47002012" type="vs">Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,</frag>
+    <frag id="47002013" type="vs">I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.</frag>
+    <frag id="47002014" type="vs">Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.</frag>
+    <frag id="47002015" type="vs">For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:</frag>
+    <frag id="47002016" type="vs">To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?</frag>
+    <frag id="47002017" type="vs">For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.</frag>
+  </sec>
+  <sec type="ch" id="47003">
+    <frag id="47003001" type="vs">Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?</frag>
+    <frag id="47003002" type="vs">Ye are our epistle written in our hearts, known and read of all men:</frag>
+    <frag id="47003003" type="vs">Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.</frag>
+    <frag id="47003004" type="vs">And such trust have we through Christ to God-ward:</frag>
+    <frag id="47003005" type="vs">Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;</frag>
+    <frag id="47003006" type="vs">Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.</frag>
+    <frag id="47003007" type="vs">But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:</frag>
+    <frag id="47003008" type="vs">How shall not the ministration of the spirit be rather glorious?</frag>
+    <frag id="47003009" type="vs">For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.</frag>
+    <frag id="47003010" type="vs">For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.</frag>
+    <frag id="47003011" type="vs">For if that which is done away was glorious, much more that which remaineth is glorious.</frag>
+    <frag id="47003012" type="vs">Seeing then that we have such hope, we use great plainness of speech:</frag>
+    <frag id="47003013" type="vs">And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:</frag>
+    <frag id="47003014" type="vs">But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.</frag>
+    <frag id="47003015" type="vs">But even unto this day, when Moses is read, the vail is upon their heart.</frag>
+    <frag id="47003016" type="vs">Nevertheless when it shall turn to the Lord, the vail shall be taken away.</frag>
+    <frag id="47003017" type="vs">Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.</frag>
+    <frag id="47003018" type="vs">But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.</frag>
+  </sec>
+  <sec type="ch" id="47004">
+    <frag id="47004001" type="vs">Therefore seeing we have this ministry, as we have received mercy, we faint not;</frag>
+    <frag id="47004002" type="vs">But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.</frag>
+    <frag id="47004003" type="vs">But if our gospel be hid, it is hid to them that are lost:</frag>
+    <frag id="47004004" type="vs">In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.</frag>
+    <frag id="47004005" type="vs">For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.</frag>
+    <frag id="47004006" type="vs">For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.</frag>
+    <frag id="47004007" type="vs">But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.</frag>
+    <frag id="47004008" type="vs">We are troubled on every side, yet not distressed; we are perplexed, but not in despair;</frag>
+    <frag id="47004009" type="vs">Persecuted, but not forsaken; cast down, but not destroyed;</frag>
+    <frag id="47004010" type="vs">Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.</frag>
+    <frag id="47004011" type="vs">For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.</frag>
+    <frag id="47004012" type="vs">So then death worketh in us, but life in you.</frag>
+    <frag id="47004013" type="vs">We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;</frag>
+    <frag id="47004014" type="vs">Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.</frag>
+    <frag id="47004015" type="vs">For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.</frag>
+    <frag id="47004016" type="vs">For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.</frag>
+    <frag id="47004017" type="vs">For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;</frag>
+    <frag id="47004018" type="vs">While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.</frag>
+  </sec>
+  <sec type="ch" id="47005">
+    <frag id="47005001" type="vs">For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.</frag>
+    <frag id="47005002" type="vs">For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:</frag>
+    <frag id="47005003" type="vs">If so be that being clothed we shall not be found naked.</frag>
+    <frag id="47005004" type="vs">For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.</frag>
+    <frag id="47005005" type="vs">Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.</frag>
+    <frag id="47005006" type="vs">Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:</frag>
+    <frag id="47005007" type="vs">For we walk by faith, not by sight:)</frag>
+    <frag id="47005008" type="vs">We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.</frag>
+    <frag id="47005009" type="vs">Wherefore we labour, that, whether present or absent, we may be accepted of him.</frag>
+    <frag id="47005010" type="vs">For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.</frag>
+    <frag id="47005011" type="vs">Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.</frag>
+    <frag id="47005012" type="vs">For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to answer them which glory in appearance, and not in heart.</frag>
+    <frag id="47005013" type="vs">For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.</frag>
+    <frag id="47005014" type="vs">For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:</frag>
+    <frag id="47005015" type="vs">And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.</frag>
+    <frag id="47005016" type="vs">Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.</frag>
+    <frag id="47005017" type="vs">Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.</frag>
+    <frag id="47005018" type="vs">And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;</frag>
+    <frag id="47005019" type="vs">To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.</frag>
+    <frag id="47005020" type="vs">Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.</frag>
+    <frag id="47005021" type="vs">For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.</frag>
+  </sec>
+  <sec type="ch" id="47006">
+    <frag id="47006001" type="vs">We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.</frag>
+    <frag id="47006002" type="vs">For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)</frag>
+    <frag id="47006003" type="vs">Giving no offence in any thing, that the ministry be not blamed:</frag>
+    <frag id="47006004" type="vs">But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,</frag>
+    <frag id="47006005" type="vs">In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;</frag>
+    <frag id="47006006" type="vs">By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,</frag>
+    <frag id="47006007" type="vs">By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,</frag>
+    <frag id="47006008" type="vs">By honour and dishonour, by evil report and good report: as deceivers, and yet true;</frag>
+    <frag id="47006009" type="vs">As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;</frag>
+    <frag id="47006010" type="vs">As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.</frag>
+    <frag id="47006011" type="vs">O ye Corinthians, our mouth is open unto you, our heart is enlarged.</frag>
+    <frag id="47006012" type="vs">Ye are not straitened in us, but ye are straitened in your own bowels.</frag>
+    <frag id="47006013" type="vs">Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.</frag>
+    <frag id="47006014" type="vs">Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?</frag>
+    <frag id="47006015" type="vs">And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?</frag>
+    <frag id="47006016" type="vs">And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.</frag>
+    <frag id="47006017" type="vs">Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,</frag>
+    <frag id="47006018" type="vs">And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.</frag>
+  </sec>
+  <sec type="ch" id="47007">
+    <frag id="47007001" type="vs">Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.</frag>
+    <frag id="47007002" type="vs">Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.</frag>
+    <frag id="47007003" type="vs">I speak not this to condemn you: for I have said before, that ye are in our hearts to die and live with you.</frag>
+    <frag id="47007004" type="vs">Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.</frag>
+    <frag id="47007005" type="vs">For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.</frag>
+    <frag id="47007006" type="vs">Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;</frag>
+    <frag id="47007007" type="vs">And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.</frag>
+    <frag id="47007008" type="vs">For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.</frag>
+    <frag id="47007009" type="vs">Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.</frag>
+    <frag id="47007010" type="vs">For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.</frag>
+    <frag id="47007011" type="vs">For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.</frag>
+    <frag id="47007012" type="vs">Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.</frag>
+    <frag id="47007013" type="vs">Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.</frag>
+    <frag id="47007014" type="vs">For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.</frag>
+    <frag id="47007015" type="vs">And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.</frag>
+    <frag id="47007016" type="vs">I rejoice therefore that I have confidence in you in all things.</frag>
+  </sec>
+  <sec type="ch" id="47008">
+    <frag id="47008001" type="vs">Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;</frag>
+    <frag id="47008002" type="vs">How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.</frag>
+    <frag id="47008003" type="vs">For to their power, I bear record, yea, and beyond their power they were willing of themselves;</frag>
+    <frag id="47008004" type="vs">Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.</frag>
+    <frag id="47008005" type="vs">And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.</frag>
+    <frag id="47008006" type="vs">Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.</frag>
+    <frag id="47008007" type="vs">Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.</frag>
+    <frag id="47008008" type="vs">I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.</frag>
+    <frag id="47008009" type="vs">For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.</frag>
+    <frag id="47008010" type="vs">And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.</frag>
+    <frag id="47008011" type="vs">Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.</frag>
+    <frag id="47008012" type="vs">For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.</frag>
+    <frag id="47008013" type="vs">For I mean not that other men be eased, and ye burdened:</frag>
+    <frag id="47008014" type="vs">But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:</frag>
+    <frag id="47008015" type="vs">As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.</frag>
+    <frag id="47008016" type="vs">But thanks be to God, which put the same earnest care into the heart of Titus for you.</frag>
+    <frag id="47008017" type="vs">For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.</frag>
+    <frag id="47008018" type="vs">And we have sent with him the brother, whose praise is in the gospel throughout all the churches;</frag>
+    <frag id="47008019" type="vs">And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:</frag>
+    <frag id="47008020" type="vs">Avoiding this, that no man should blame us in this abundance which is administered by us:</frag>
+    <frag id="47008021" type="vs">Providing for honest things, not only in the sight of the Lord, but also in the sight of men.</frag>
+    <frag id="47008022" type="vs">And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.</frag>
+    <frag id="47008023" type="vs">Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.</frag>
+    <frag id="47008024" type="vs">Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.</frag>
+  </sec>
+  <sec type="ch" id="47009">
+    <frag id="47009001" type="vs">For as touching the ministering to the saints, it is superfluous for me to write to you:</frag>
+    <frag id="47009002" type="vs">For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.</frag>
+    <frag id="47009003" type="vs">Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:</frag>
+    <frag id="47009004" type="vs">Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.</frag>
+    <frag id="47009005" type="vs">Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.</frag>
+    <frag id="47009006" type="vs">But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.</frag>
+    <frag id="47009007" type="vs">Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.</frag>
+    <frag id="47009008" type="vs">And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:</frag>
+    <frag id="47009009" type="vs">As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.</frag>
+    <frag id="47009010" type="vs">Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)</frag>
+    <frag id="47009011" type="vs">Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.</frag>
+    <frag id="47009012" type="vs">For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;</frag>
+    <frag id="47009013" type="vs">Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;</frag>
+    <frag id="47009014" type="vs">And by their prayer for you, which long after you for the exceeding grace of God in you.</frag>
+    <frag id="47009015" type="vs">Thanks be unto God for his unspeakable gift.</frag>
+  </sec>
+  <sec type="ch" id="47010">
+    <frag id="47010001" type="vs">Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:</frag>
+    <frag id="47010002" type="vs">But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.</frag>
+    <frag id="47010003" type="vs">For though we walk in the flesh, we do not war after the flesh:</frag>
+    <frag id="47010004" type="vs">For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)</frag>
+    <frag id="47010005" type="vs">Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;</frag>
+    <frag id="47010006" type="vs">And having in a readiness to revenge all disobedience, when your obedience is fulfilled.</frag>
+    <frag id="47010007" type="vs">Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.</frag>
+    <frag id="47010008" type="vs">For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:</frag>
+    <frag id="47010009" type="vs">That I may not seem as if I would terrify you by letters.</frag>
+    <frag id="47010010" type="vs">For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.</frag>
+    <frag id="47010011" type="vs">Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.</frag>
+    <frag id="47010012" type="vs">For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.</frag>
+    <frag id="47010013" type="vs">But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.</frag>
+    <frag id="47010014" type="vs">For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:</frag>
+    <frag id="47010015" type="vs">Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,</frag>
+    <frag id="47010016" type="vs">To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.</frag>
+    <frag id="47010017" type="vs">But he that glorieth, let him glory in the Lord.</frag>
+    <frag id="47010018" type="vs">For not he that commendeth himself is approved, but whom the Lord commendeth.</frag>
+  </sec>
+  <sec type="ch" id="47011">
+    <frag id="47011001" type="vs">Would to God ye could bear with me a little in my folly: and indeed bear with me.</frag>
+    <frag id="47011002" type="vs">For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.</frag>
+    <frag id="47011003" type="vs">But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.</frag>
+    <frag id="47011004" type="vs">For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.</frag>
+    <frag id="47011005" type="vs">For I suppose I was not a whit behind the very chiefest apostles.</frag>
+    <frag id="47011006" type="vs">But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.</frag>
+    <frag id="47011007" type="vs">Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?</frag>
+    <frag id="47011008" type="vs">I robbed other churches, taking wages of them, to do you service.</frag>
+    <frag id="47011009" type="vs">And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.</frag>
+    <frag id="47011010" type="vs">As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.</frag>
+    <frag id="47011011" type="vs">Wherefore? because I love you not? God knoweth.</frag>
+    <frag id="47011012" type="vs">But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.</frag>
+    <frag id="47011013" type="vs">For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.</frag>
+    <frag id="47011014" type="vs">And no marvel; for Satan himself is transformed into an angel of light.</frag>
+    <frag id="47011015" type="vs">Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.</frag>
+    <frag id="47011016" type="vs">I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.</frag>
+    <frag id="47011017" type="vs">That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.</frag>
+    <frag id="47011018" type="vs">Seeing that many glory after the flesh, I will glory also.</frag>
+    <frag id="47011019" type="vs">For ye suffer fools gladly, seeing ye yourselves are wise.</frag>
+    <frag id="47011020" type="vs">For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.</frag>
+    <frag id="47011021" type="vs">I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.</frag>
+    <frag id="47011022" type="vs">Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.</frag>
+    <frag id="47011023" type="vs">Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.</frag>
+    <frag id="47011024" type="vs">Of the Jews five times received I forty stripes save one.</frag>
+    <frag id="47011025" type="vs">Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;</frag>
+    <frag id="47011026" type="vs">In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;</frag>
+    <frag id="47011027" type="vs">In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.</frag>
+    <frag id="47011028" type="vs">Beside those things that are without, that which cometh upon me daily, the care of all the churches.</frag>
+    <frag id="47011029" type="vs">Who is weak, and I am not weak? who is offended, and I burn not?</frag>
+    <frag id="47011030" type="vs">If I must needs glory, I will glory of the things which concern mine infirmities.</frag>
+    <frag id="47011031" type="vs">The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.</frag>
+    <frag id="47011032" type="vs">In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:</frag>
+    <frag id="47011033" type="vs">And through a window in a basket was I let down by the wall, and escaped his hands.</frag>
+  </sec>
+  <sec type="ch" id="47012">
+    <frag id="47012001" type="vs">It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.</frag>
+    <frag id="47012002" type="vs">I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.</frag>
+    <frag id="47012003" type="vs">And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)</frag>
+    <frag id="47012004" type="vs">How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.</frag>
+    <frag id="47012005" type="vs">Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.</frag>
+    <frag id="47012006" type="vs">For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.</frag>
+    <frag id="47012007" type="vs">And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.</frag>
+    <frag id="47012008" type="vs">For this thing I besought the Lord thrice, that it might depart from me.</frag>
+    <frag id="47012009" type="vs">And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.</frag>
+    <frag id="47012010" type="vs">Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.</frag>
+    <frag id="47012011" type="vs">I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.</frag>
+    <frag id="47012012" type="vs">Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.</frag>
+    <frag id="47012013" type="vs">For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.</frag>
+    <frag id="47012014" type="vs">Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.</frag>
+    <frag id="47012015" type="vs">And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.</frag>
+    <frag id="47012016" type="vs">But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.</frag>
+    <frag id="47012017" type="vs">Did I make a gain of you by any of them whom I sent unto you?</frag>
+    <frag id="47012018" type="vs">I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?</frag>
+    <frag id="47012019" type="vs">Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.</frag>
+    <frag id="47012020" type="vs">For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:</frag>
+    <frag id="47012021" type="vs">And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.</frag>
+  </sec>
+  <sec type="ch" id="47013">
+    <frag id="47013001" type="vs">This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.</frag>
+    <frag id="47013002" type="vs">I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:</frag>
+    <frag id="47013003" type="vs">Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.</frag>
+    <frag id="47013004" type="vs">For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.</frag>
+    <frag id="47013005" type="vs">Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?</frag>
+    <frag id="47013006" type="vs">But I trust that ye shall know that we are not reprobates.</frag>
+    <frag id="47013007" type="vs">Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.</frag>
+    <frag id="47013008" type="vs">For we can do nothing against the truth, but for the truth.</frag>
+    <frag id="47013009" type="vs">For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.</frag>
+    <frag id="47013010" type="vs">Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.</frag>
+    <frag id="47013011" type="vs">Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.</frag>
+    <frag id="47013012" type="vs">Greet one another with an holy kiss.</frag>
+    <frag id="47013013" type="vs">All the saints salute you.</frag>
+    <frag id="47013014" type="vs">The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.</frag>
+  </sec>
+</text>

@@ -1,122 +1,124 @@
 <?xml version='1.0' encoding='utf-8'?>
-<book xmlns="http://example.com/SemanticScripture" title="Micah" shortName="Mic" xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://example.com/SemanticScripture SemanticScripture.xsd" id="33">
-    <chapter id="33001">
-      <block id="33001001" type="v">The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.</block>
-      <block id="33001002" type="v">Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple.</block>
-      <block id="33001003" type="v">For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.</block>
-      <block id="33001004" type="v">And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, and as the waters that are poured down a steep place.</block>
-      <block id="33001005" type="v">For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?</block>
-      <block id="33001006" type="v">Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.</block>
-      <block id="33001007" type="v">And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.</block>
-      <block id="33001008" type="v">Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.</block>
-      <block id="33001009" type="v">For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem.</block>
-      <block id="33001010" type="v">Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.</block>
-      <block id="33001011" type="v">Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing.</block>
-      <block id="33001012" type="v">For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem.</block>
-      <block id="33001013" type="v">O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.</block>
-      <block id="33001014" type="v">Therefore shalt thou give presents to Moreshethgath: the houses of Achzib shall be a lie to the kings of Israel.</block>
-      <block id="33001015" type="v">Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.</block>
-      <block id="33001016" type="v">Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.</block>
-    </chapter>
-    <chapter id="33002">
-      <block id="33002001" type="v">Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.</block>
-      <block id="33002002" type="v">And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.</block>
-      <block id="33002003" type="v">Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil.</block>
-      <block id="33002004" type="v">In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.</block>
-      <block id="33002005" type="v">Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.</block>
-      <block id="33002006" type="v">Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.</block>
-      <block id="33002007" type="v">O thou that art named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walketh uprightly?</block>
-      <block id="33002008" type="v">Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.</block>
-      <block id="33002009" type="v">The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.</block>
-      <block id="33002010" type="v">Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.</block>
-      <block id="33002011" type="v">If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.</block>
-      <block id="33002012" type="v">I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.</block>
-      <block id="33002013" type="v">The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.</block>
-    </chapter>
-    <chapter id="33003">
-      <block id="33003001" type="v">And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?</block>
-      <block id="33003002" type="v">Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;</block>
-      <block id="33003003" type="v">Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.</block>
-      <block id="33003004" type="v">Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.</block>
-      <block id="33003005" type="v">Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.</block>
-      <block id="33003006" type="v">Therefore night shall be unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine; and the sun shall go down over the prophets, and the day shall be dark over them.</block>
-      <block id="33003007" type="v">Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God.</block>
-      <block id="33003008" type="v">But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.</block>
-      <block id="33003009" type="v">Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.</block>
-      <block id="33003010" type="v">They build up Zion with blood, and Jerusalem with iniquity.</block>
-      <block id="33003011" type="v">The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us.</block>
-      <block id="33003012" type="v">Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.</block>
-    </chapter>
-    <chapter id="33004">
-      <block id="33004001" type="v">But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.</block>
-      <block id="33004002" type="v">And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem.</block>
-      <block id="33004003" type="v">And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.</block>
-      <block id="33004004" type="v">But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it.</block>
-      <block id="33004005" type="v">For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.</block>
-      <block id="33004006" type="v">In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;</block>
-      <block id="33004007" type="v">And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.</block>
-      <block id="33004008" type="v">And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.</block>
-      <block id="33004009" type="v">Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.</block>
-      <block id="33004010" type="v">Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.</block>
-      <block id="33004011" type="v">Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.</block>
-      <block id="33004012" type="v">But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.</block>
-      <block id="33004013" type="v">Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.</block>
-    </chapter>
-    <chapter id="33005">
-      <block id="33005001" type="v">Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.</block>
-      <block id="33005002" type="v">But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.</block>
-      <block id="33005003" type="v">Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.</block>
-      <block id="33005004" type="v">And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth.</block>
-      <block id="33005005" type="v">And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.</block>
-      <block id="33005006" type="v">And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.</block>
-      <block id="33005007" type="v">And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.</block>
-      <block id="33005008" type="v">And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.</block>
-      <block id="33005009" type="v">Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.</block>
-      <block id="33005010" type="v">And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:</block>
-      <block id="33005011" type="v">And I will cut off the cities of thy land, and throw down all thy strong holds:</block>
-      <block id="33005012" type="v">And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:</block>
-      <block id="33005013" type="v">Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.</block>
-      <block id="33005014" type="v">And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.</block>
-      <block id="33005015" type="v">And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.</block>
-    </chapter>
-    <chapter id="33006">
-      <block id="33006001" type="v">Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.</block>
-      <block id="33006002" type="v">Hear ye, O mountains, the LORD'S controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.</block>
-      <block id="33006003" type="v">O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.</block>
-      <block id="33006004" type="v">For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.</block>
-      <block id="33006005" type="v">O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.</block>
-      <block id="33006006" type="v">Wherewith shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?</block>
-      <block id="33006007" type="v">Will the LORD be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?</block>
-      <block id="33006008" type="v">He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?</block>
-      <block id="33006009" type="v">The LORD'S voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it.</block>
-      <block id="33006010" type="v">Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?</block>
-      <block id="33006011" type="v">Shall I count them pure with the wicked balances, and with the bag of deceitful weights?</block>
-      <block id="33006012" type="v">For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.</block>
-      <block id="33006013" type="v">Therefore also will I make thee sick in smiting thee, in making thee desolate because of thy sins.</block>
-      <block id="33006014" type="v">Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword.</block>
-      <block id="33006015" type="v">Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.</block>
-      <block id="33006016" type="v">For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.</block>
-    </chapter>
-    <chapter id="33007">
-      <block id="33007001" type="v">Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.</block>
-      <block id="33007002" type="v">The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.</block>
-      <block id="33007003" type="v">That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.</block>
-      <block id="33007004" type="v">The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.</block>
-      <block id="33007005" type="v">Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.</block>
-      <block id="33007006" type="v">For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.</block>
-      <block id="33007007" type="v">Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.</block>
-      <block id="33007008" type="v">Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me.</block>
-      <block id="33007009" type="v">I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.</block>
-      <block id="33007010" type="v">Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.</block>
-      <block id="33007011" type="v">In the day that thy walls are to be built, in that day shall the decree be far removed.</block>
-      <block id="33007012" type="v">In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain.</block>
-      <block id="33007013" type="v">Notwithstanding the land shall be desolate because of them that dwell therein, for the fruit of their doings.</block>
-      <block id="33007014" type="v">Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.</block>
-      <block id="33007015" type="v">According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.</block>
-      <block id="33007016" type="v">The nations shall see and be confounded at all their might: they shall lay their hand upon their mouth, their ears shall be deaf.</block>
-      <block id="33007017" type="v">They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.</block>
-      <block id="33007018" type="v">Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.</block>
-      <block id="33007019" type="v">He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.</block>
-      <block id="33007020" type="v">Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.</block>
-    </chapter>
-  </book>
+<text title="Micah" id="33" xmlns="http://example.com/SemanticScripture"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sec type="ch" id="33001">
+    <frag id="33001001" type="vs">The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.</frag>
+    <frag id="33001002" type="vs">Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple.</frag>
+    <frag id="33001003" type="vs">For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.</frag>
+    <frag id="33001004" type="vs">And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, and as the waters that are poured down a steep place.</frag>
+    <frag id="33001005" type="vs">For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?</frag>
+    <frag id="33001006" type="vs">Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.</frag>
+    <frag id="33001007" type="vs">And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.</frag>
+    <frag id="33001008" type="vs">Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.</frag>
+    <frag id="33001009" type="vs">For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem.</frag>
+    <frag id="33001010" type="vs">Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.</frag>
+    <frag id="33001011" type="vs">Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing.</frag>
+    <frag id="33001012" type="vs">For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem.</frag>
+    <frag id="33001013" type="vs">O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.</frag>
+    <frag id="33001014" type="vs">Therefore shalt thou give presents to Moreshethgath: the houses of Achzib shall be a lie to the kings of Israel.</frag>
+    <frag id="33001015" type="vs">Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.</frag>
+    <frag id="33001016" type="vs">Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.</frag>
+  </sec>
+  <sec type="ch" id="33002">
+    <frag id="33002001" type="vs">Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.</frag>
+    <frag id="33002002" type="vs">And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.</frag>
+    <frag id="33002003" type="vs">Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil.</frag>
+    <frag id="33002004" type="vs">In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.</frag>
+    <frag id="33002005" type="vs">Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.</frag>
+    <frag id="33002006" type="vs">Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.</frag>
+    <frag id="33002007" type="vs">O thou that art named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walketh uprightly?</frag>
+    <frag id="33002008" type="vs">Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.</frag>
+    <frag id="33002009" type="vs">The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.</frag>
+    <frag id="33002010" type="vs">Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.</frag>
+    <frag id="33002011" type="vs">If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.</frag>
+    <frag id="33002012" type="vs">I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.</frag>
+    <frag id="33002013" type="vs">The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.</frag>
+  </sec>
+  <sec type="ch" id="33003">
+    <frag id="33003001" type="vs">And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?</frag>
+    <frag id="33003002" type="vs">Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;</frag>
+    <frag id="33003003" type="vs">Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.</frag>
+    <frag id="33003004" type="vs">Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.</frag>
+    <frag id="33003005" type="vs">Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.</frag>
+    <frag id="33003006" type="vs">Therefore night shall be unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine; and the sun shall go down over the prophets, and the day shall be dark over them.</frag>
+    <frag id="33003007" type="vs">Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God.</frag>
+    <frag id="33003008" type="vs">But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.</frag>
+    <frag id="33003009" type="vs">Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.</frag>
+    <frag id="33003010" type="vs">They build up Zion with blood, and Jerusalem with iniquity.</frag>
+    <frag id="33003011" type="vs">The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us.</frag>
+    <frag id="33003012" type="vs">Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.</frag>
+  </sec>
+  <sec type="ch" id="33004">
+    <frag id="33004001" type="vs">But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.</frag>
+    <frag id="33004002" type="vs">And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem.</frag>
+    <frag id="33004003" type="vs">And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.</frag>
+    <frag id="33004004" type="vs">But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it.</frag>
+    <frag id="33004005" type="vs">For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.</frag>
+    <frag id="33004006" type="vs">In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;</frag>
+    <frag id="33004007" type="vs">And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.</frag>
+    <frag id="33004008" type="vs">And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.</frag>
+    <frag id="33004009" type="vs">Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.</frag>
+    <frag id="33004010" type="vs">Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.</frag>
+    <frag id="33004011" type="vs">Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.</frag>
+    <frag id="33004012" type="vs">But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.</frag>
+    <frag id="33004013" type="vs">Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.</frag>
+  </sec>
+  <sec type="ch" id="33005">
+    <frag id="33005001" type="vs">Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.</frag>
+    <frag id="33005002" type="vs">But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.</frag>
+    <frag id="33005003" type="vs">Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.</frag>
+    <frag id="33005004" type="vs">And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth.</frag>
+    <frag id="33005005" type="vs">And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.</frag>
+    <frag id="33005006" type="vs">And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.</frag>
+    <frag id="33005007" type="vs">And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.</frag>
+    <frag id="33005008" type="vs">And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.</frag>
+    <frag id="33005009" type="vs">Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.</frag>
+    <frag id="33005010" type="vs">And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:</frag>
+    <frag id="33005011" type="vs">And I will cut off the cities of thy land, and throw down all thy strong holds:</frag>
+    <frag id="33005012" type="vs">And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:</frag>
+    <frag id="33005013" type="vs">Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.</frag>
+    <frag id="33005014" type="vs">And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.</frag>
+    <frag id="33005015" type="vs">And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.</frag>
+  </sec>
+  <sec type="ch" id="33006">
+    <frag id="33006001" type="vs">Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.</frag>
+    <frag id="33006002" type="vs">Hear ye, O mountains, the LORD'S controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.</frag>
+    <frag id="33006003" type="vs">O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.</frag>
+    <frag id="33006004" type="vs">For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.</frag>
+    <frag id="33006005" type="vs">O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.</frag>
+    <frag id="33006006" type="vs">Wherewith shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?</frag>
+    <frag id="33006007" type="vs">Will the LORD be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?</frag>
+    <frag id="33006008" type="vs">He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?</frag>
+    <frag id="33006009" type="vs">The LORD'S voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it.</frag>
+    <frag id="33006010" type="vs">Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?</frag>
+    <frag id="33006011" type="vs">Shall I count them pure with the wicked balances, and with the bag of deceitful weights?</frag>
+    <frag id="33006012" type="vs">For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.</frag>
+    <frag id="33006013" type="vs">Therefore also will I make thee sick in smiting thee, in making thee desolate because of thy sins.</frag>
+    <frag id="33006014" type="vs">Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword.</frag>
+    <frag id="33006015" type="vs">Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.</frag>
+    <frag id="33006016" type="vs">For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.</frag>
+  </sec>
+  <sec type="ch" id="33007">
+    <frag id="33007001" type="vs">Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.</frag>
+    <frag id="33007002" type="vs">The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.</frag>
+    <frag id="33007003" type="vs">That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.</frag>
+    <frag id="33007004" type="vs">The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.</frag>
+    <frag id="33007005" type="vs">Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.</frag>
+    <frag id="33007006" type="vs">For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.</frag>
+    <frag id="33007007" type="vs">Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.</frag>
+    <frag id="33007008" type="vs">Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me.</frag>
+    <frag id="33007009" type="vs">I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.</frag>
+    <frag id="33007010" type="vs">Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.</frag>
+    <frag id="33007011" type="vs">In the day that thy walls are to be built, in that day shall the decree be far removed.</frag>
+    <frag id="33007012" type="vs">In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain.</frag>
+    <frag id="33007013" type="vs">Notwithstanding the land shall be desolate because of them that dwell therein, for the fruit of their doings.</frag>
+    <frag id="33007014" type="vs">Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.</frag>
+    <frag id="33007015" type="vs">According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.</frag>
+    <frag id="33007016" type="vs">The nations shall see and be confounded at all their might: they shall lay their hand upon their mouth, their ears shall be deaf.</frag>
+    <frag id="33007017" type="vs">They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.</frag>
+    <frag id="33007018" type="vs">Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.</frag>
+    <frag id="33007019" type="vs">He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.</frag>
+    <frag id="33007020" type="vs">Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.</frag>
+  </sec>
+</text>
