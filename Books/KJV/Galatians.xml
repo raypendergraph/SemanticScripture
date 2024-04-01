@@ -1,167 +1,181 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  title="Galatians"  id="48" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-    <ante>
-      <caption>To the Galatians written from Rome.</caption>
-    </ante>
-    <sec type="ch" id="48001">
-      <frag id="48001001" type="vs">Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)</frag>
-      <frag id="48001002" type="vs">And all the brethren which are with me, unto the churches of Galatia:</frag>
-      <frag id="48001003" type="vs">Grace be to you and peace from God the Father, and from our Lord Jesus Christ,</frag>
-      <frag id="48001004" type="vs">Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:</frag>
-      <frag id="48001005" type="vs">To whom be glory for ever and ever. Amen.</frag>
-      <frag id="48001006" type="vs">I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:</frag>
-      <frag id="48001007" type="vs">Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.</frag>
-      <frag id="48001008" type="vs">But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.</frag>
-      <frag id="48001009" type="vs">As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.</frag>
-      <frag id="48001010" type="vs">For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.</frag>
-      <frag id="48001011" type="vs">But I certify you, brethren, that the gospel which was preached of me is not after man.</frag>
-      <frag id="48001012" type="vs">For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.</frag>
-      <frag id="48001013" type="vs">For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:</frag>
-      <frag id="48001014" type="vs">And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.</frag>
-      <frag id="48001015" type="vs">But when it pleased God, who separated me from my mother's womb, and called me by his grace,</frag>
-      <frag id="48001016" type="vs">To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:</frag>
-      <frag id="48001017" type="vs">Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.</frag>
-      <frag id="48001018" type="vs">Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.</frag>
-      <frag id="48001019" type="vs">But other of the apostles saw I none, save James the Lord's brother.</frag>
-      <frag id="48001020" type="vs">Now the things which I write unto you, behold, before God, I lie not.</frag>
-      <frag id="48001021" type="vs">Afterwards I came into the regions of Syria and Cilicia;</frag>
-      <frag id="48001022" type="vs">And was unknown by face unto the churches of Judaea which were in Christ:</frag>
-      <frag id="48001023" type="vs">But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.</frag>
-      <frag id="48001024" type="vs">And they glorified God in me.</frag>
-    </sec>
-    <sec type="ch" id="48002">
-      <frag id="48002001" type="vs">Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.</frag>
-      <frag id="48002002" type="vs">And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.</frag>
-      <frag id="48002003" type="vs">But neither Titus, who was with me, being a Greek, was compelled to be circumcised:</frag>
-      <frag id="48002004" type="vs">And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:</frag>
-      <frag id="48002005" type="vs">To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.</frag>
-      <frag id="48002006" type="vs">But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:</frag>
-      <frag id="48002007" type="vs">But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;</frag>
-      <frag id="48002008" type="vs">For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)</frag>
-      <frag id="48002009" type="vs">And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.</frag>
-      <frag id="48002010" type="vs">Only they would that we should remember the poor; the same which I also was forward to do.</frag>
-      <frag id="48002011" type="vs">But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.</frag>
-      <frag id="48002012" type="vs">For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.</frag>
-      <frag id="48002013" type="vs">And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.</frag>
-      <frag id="48002014" type="vs">But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?</frag>
-      <frag id="48002015" type="vs">We who are Jews by nature, and not sinners of the Gentiles,</frag>
-      <frag id="48002016" type="vs">Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.</frag>
-      <frag id="48002017" type="vs">But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.</frag>
-      <frag id="48002018" type="vs">For if I build again the things which I destroyed, I make myself a transgressor.</frag>
-      <frag id="48002019" type="vs">For I through the law am dead to the law, that I might live unto God.</frag>
-      <frag id="48002020" type="vs">I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.</frag>
-      <frag id="48002021" type="vs">I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.</frag>
-    </sec>
-    <sec type="ch" id="48003">
-      <frag id="48003001" type="vs">O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?</frag>
-      <frag id="48003002" type="vs">This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?</frag>
-      <frag id="48003003" type="vs">Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?</frag>
-      <frag id="48003004" type="vs">Have ye suffered so many things in vain? if it be yet in vain.</frag>
-      <frag id="48003005" type="vs">He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?</frag>
-      <frag id="48003006" type="vs">Even as Abraham believed God, and it was accounted to him for righteousness.</frag>
-      <frag id="48003007" type="vs">Know ye therefore that they which are of faith, the same are the children of Abraham.</frag>
-      <frag id="48003008" type="vs">And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.</frag>
-      <frag id="48003009" type="vs">So then they which be of faith are blessed with faithful Abraham.</frag>
-      <frag id="48003010" type="vs">For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.</frag>
-      <frag id="48003011" type="vs">But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.</frag>
-      <frag id="48003012" type="vs">And the law is not of faith: but, The man that doeth them shall live in them.</frag>
-      <frag id="48003013" type="vs">Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:</frag>
-      <frag id="48003014" type="vs">That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.</frag>
-      <frag id="48003015" type="vs">Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.</frag>
-      <frag id="48003016" type="vs">Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.</frag>
-      <frag id="48003017" type="vs">And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.</frag>
-      <frag id="48003018" type="vs">For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.</frag>
-      <frag id="48003019" type="vs">Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.</frag>
-      <frag id="48003020" type="vs">Now a mediator is not a mediator of one, but God is one.</frag>
-      <frag id="48003021" type="vs">Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.</frag>
-      <frag id="48003022" type="vs">But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.</frag>
-      <frag id="48003023" type="vs">But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.</frag>
-      <frag id="48003024" type="vs">Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.</frag>
-      <frag id="48003025" type="vs">But after that faith is come, we are no longer under a schoolmaster.</frag>
-      <frag id="48003026" type="vs">For ye are all the children of God by faith in Christ Jesus.</frag>
-      <frag id="48003027" type="vs">For as many of you as have been baptized into Christ have put on Christ.</frag>
-      <frag id="48003028" type="vs">There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.</frag>
-      <frag id="48003029" type="vs">And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.</frag>
-    </sec>
-    <sec type="ch" id="48004">
-      <frag id="48004001" type="vs">Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;</frag>
-      <frag id="48004002" type="vs">But is under tutors and governors until the time appointed of the father.</frag>
-      <frag id="48004003" type="vs">Even so we, when we were children, were in bondage under the elements of the world:</frag>
-      <frag id="48004004" type="vs">But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,</frag>
-      <frag id="48004005" type="vs">To redeem them that were under the law, that we might receive the adoption of sons.</frag>
-      <frag id="48004006" type="vs">And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.</frag>
-      <frag id="48004007" type="vs">Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.</frag>
-      <frag id="48004008" type="vs">Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.</frag>
-      <frag id="48004009" type="vs">But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?</frag>
-      <frag id="48004010" type="vs">Ye observe days, and months, and times, and years.</frag>
-      <frag id="48004011" type="vs">I am afraid of you, lest I have bestowed upon you labour in vain.</frag>
-      <frag id="48004012" type="vs">Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.</frag>
-      <frag id="48004013" type="vs">Ye know how through infirmity of the flesh I preached the gospel unto you at the first.</frag>
-      <frag id="48004014" type="vs">And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.</frag>
-      <frag id="48004015" type="vs">Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.</frag>
-      <frag id="48004016" type="vs">Am I therefore become your enemy, because I tell you the truth?</frag>
-      <frag id="48004017" type="vs">They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.</frag>
-      <frag id="48004018" type="vs">But it is good to be zealously affected always in a good thing, and not only when I am present with you.</frag>
-      <frag id="48004019" type="vs">My little children, of whom I travail in birth again until Christ be formed in you,</frag>
-      <frag id="48004020" type="vs">I desire to be present with you now, and to change my voice; for I stand in doubt of you.</frag>
-      <frag id="48004021" type="vs">Tell me, ye that desire to be under the law, do ye not hear the law?</frag>
-      <frag id="48004022" type="vs">For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.</frag>
-      <frag id="48004023" type="vs">But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.</frag>
-      <frag id="48004024" type="vs">Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.</frag>
-      <frag id="48004025" type="vs">For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.</frag>
-      <frag id="48004026" type="vs">But Jerusalem which is above is free, which is the mother of us all.</frag>
-      <frag id="48004027" type="vs">For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.</frag>
-      <frag id="48004028" type="vs">Now we, brethren, as Isaac was, are the children of promise.</frag>
-      <frag id="48004029" type="vs">But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.</frag>
-      <frag id="48004030" type="vs">Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.</frag>
-      <frag id="48004031" type="vs">So then, brethren, we are not children of the bondwoman, but of the free.</frag>
-    </sec>
-    <sec type="ch" id="48005">
-      <frag id="48005001" type="vs">Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.</frag>
-      <frag id="48005002" type="vs">Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.</frag>
-      <frag id="48005003" type="vs">For I testify again to every man that is circumcised, that he is a debtor to do the whole law.</frag>
-      <frag id="48005004" type="vs">Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.</frag>
-      <frag id="48005005" type="vs">For we through the Spirit wait for the hope of righteousness by faith.</frag>
-      <frag id="48005006" type="vs">For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.</frag>
-      <frag id="48005007" type="vs">Ye did run well; who did hinder you that ye should not obey the truth?</frag>
-      <frag id="48005008" type="vs">This persuasion cometh not of him that calleth you.</frag>
-      <frag id="48005009" type="vs">A little leaven leaveneth the whole lump.</frag>
-      <frag id="48005010" type="vs">I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.</frag>
-      <frag id="48005011" type="vs">And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.</frag>
-      <frag id="48005012" type="vs">I would they were even cut off which trouble you.</frag>
-      <frag id="48005013" type="vs">For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.</frag>
-      <frag id="48005014" type="vs">For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.</frag>
-      <frag id="48005015" type="vs">But if ye bite and devour one another, take heed that ye be not consumed one of another.</frag>
-      <frag id="48005016" type="vs">This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.</frag>
-      <frag id="48005017" type="vs">For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.</frag>
-      <frag id="48005018" type="vs">But if ye be led of the Spirit, ye are not under the law.</frag>
-      <frag id="48005019" type="vs">Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,</frag>
-      <frag id="48005020" type="vs">Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,</frag>
-      <frag id="48005021" type="vs">Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.</frag>
-      <frag id="48005022" type="vs">But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,</frag>
-      <frag id="48005023" type="vs">Meekness, temperance: against such there is no law.</frag>
-      <frag id="48005024" type="vs">And they that are Christ's have crucified the flesh with the affections and lusts.</frag>
-      <frag id="48005025" type="vs">If we live in the Spirit, let us also walk in the Spirit.</frag>
-      <frag id="48005026" type="vs">Let us not be desirous of vain glory, provoking one another, envying one another.</frag>
-    </sec>
-    <sec type="ch" id="48006">
-      <frag id="48006001" type="vs">Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.</frag>
-      <frag id="48006002" type="vs">Bear ye one another's burdens, and so fulfil the law of Christ.</frag>
-      <frag id="48006003" type="vs">For if a man think himself to be something, when he is nothing, he deceiveth himself.</frag>
-      <frag id="48006004" type="vs">But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.</frag>
-      <frag id="48006005" type="vs">For every man shall bear his own burden.</frag>
-      <frag id="48006006" type="vs">Let him that is taught in the word communicate unto him that teacheth in all good things.</frag>
-      <frag id="48006007" type="vs">Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.</frag>
-      <frag id="48006008" type="vs">For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.</frag>
-      <frag id="48006009" type="vs">And let us not be weary in well doing: for in due season we shall reap, if we faint not.</frag>
-      <frag id="48006010" type="vs">As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.</frag>
-      <frag id="48006011" type="vs">Ye see how large a letter I have written unto you with mine own hand.</frag>
-      <frag id="48006012" type="vs">As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.</frag>
-      <frag id="48006013" type="vs">For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.</frag>
-      <frag id="48006014" type="vs">But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.</frag>
-      <frag id="48006015" type="vs">For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.</frag>
-      <frag id="48006016" type="vs">And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.</frag>
-      <frag id="48006017" type="vs">From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.</frag>
-      <frag id="48006018" type="vs">Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. </frag>
-    </sec>
-  </text>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Galatians" id="48" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <ante>
+    <caption>To the Galatians written from Rome.</caption>
+  </ante>
+  <sections>
+    <section kind="ch" id="48001">
+      <fragments>
+        <fragment id="48001001" kind="vs">Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)</fragment>
+        <fragment id="48001002" kind="vs">And all the brethren which are with me, unto the churches of Galatia:</fragment>
+        <fragment id="48001003" kind="vs">Grace be to you and peace from God the Father, and from our Lord Jesus Christ,</fragment>
+        <fragment id="48001004" kind="vs">Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:</fragment>
+        <fragment id="48001005" kind="vs">To whom be glory for ever and ever. Amen.</fragment>
+        <fragment id="48001006" kind="vs">I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:</fragment>
+        <fragment id="48001007" kind="vs">Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.</fragment>
+        <fragment id="48001008" kind="vs">But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.</fragment>
+        <fragment id="48001009" kind="vs">As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.</fragment>
+        <fragment id="48001010" kind="vs">For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.</fragment>
+        <fragment id="48001011" kind="vs">But I certify you, brethren, that the gospel which was preached of me is not after man.</fragment>
+        <fragment id="48001012" kind="vs">For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.</fragment>
+        <fragment id="48001013" kind="vs">For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:</fragment>
+        <fragment id="48001014" kind="vs">And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.</fragment>
+        <fragment id="48001015" kind="vs">But when it pleased God, who separated me from my mother's womb, and called me by his grace,</fragment>
+        <fragment id="48001016" kind="vs">To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:</fragment>
+        <fragment id="48001017" kind="vs">Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.</fragment>
+        <fragment id="48001018" kind="vs">Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.</fragment>
+        <fragment id="48001019" kind="vs">But other of the apostles saw I none, save James the Lord's brother.</fragment>
+        <fragment id="48001020" kind="vs">Now the things which I write unto you, behold, before God, I lie not.</fragment>
+        <fragment id="48001021" kind="vs">Afterwards I came into the regions of Syria and Cilicia;</fragment>
+        <fragment id="48001022" kind="vs">And was unknown by face unto the churches of Judaea which were in Christ:</fragment>
+        <fragment id="48001023" kind="vs">But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.</fragment>
+        <fragment id="48001024" kind="vs">And they glorified God in me.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="48002">
+      <fragments>
+        <fragment id="48002001" kind="vs">Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.</fragment>
+        <fragment id="48002002" kind="vs">And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.</fragment>
+        <fragment id="48002003" kind="vs">But neither Titus, who was with me, being a Greek, was compelled to be circumcised:</fragment>
+        <fragment id="48002004" kind="vs">And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:</fragment>
+        <fragment id="48002005" kind="vs">To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.</fragment>
+        <fragment id="48002006" kind="vs">But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:</fragment>
+        <fragment id="48002007" kind="vs">But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;</fragment>
+        <fragment id="48002008" kind="vs">For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)</fragment>
+        <fragment id="48002009" kind="vs">And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.</fragment>
+        <fragment id="48002010" kind="vs">Only they would that we should remember the poor; the same which I also was forward to do.</fragment>
+        <fragment id="48002011" kind="vs">But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.</fragment>
+        <fragment id="48002012" kind="vs">For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.</fragment>
+        <fragment id="48002013" kind="vs">And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.</fragment>
+        <fragment id="48002014" kind="vs">But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?</fragment>
+        <fragment id="48002015" kind="vs">We who are Jews by nature, and not sinners of the Gentiles,</fragment>
+        <fragment id="48002016" kind="vs">Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.</fragment>
+        <fragment id="48002017" kind="vs">But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.</fragment>
+        <fragment id="48002018" kind="vs">For if I build again the things which I destroyed, I make myself a transgressor.</fragment>
+        <fragment id="48002019" kind="vs">For I through the law am dead to the law, that I might live unto God.</fragment>
+        <fragment id="48002020" kind="vs">I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.</fragment>
+        <fragment id="48002021" kind="vs">I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="48003">
+      <fragments>
+        <fragment id="48003001" kind="vs">O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?</fragment>
+        <fragment id="48003002" kind="vs">This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?</fragment>
+        <fragment id="48003003" kind="vs">Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?</fragment>
+        <fragment id="48003004" kind="vs">Have ye suffered so many things in vain? if it be yet in vain.</fragment>
+        <fragment id="48003005" kind="vs">He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?</fragment>
+        <fragment id="48003006" kind="vs">Even as Abraham believed God, and it was accounted to him for righteousness.</fragment>
+        <fragment id="48003007" kind="vs">Know ye therefore that they which are of faith, the same are the children of Abraham.</fragment>
+        <fragment id="48003008" kind="vs">And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.</fragment>
+        <fragment id="48003009" kind="vs">So then they which be of faith are blessed with faithful Abraham.</fragment>
+        <fragment id="48003010" kind="vs">For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.</fragment>
+        <fragment id="48003011" kind="vs">But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.</fragment>
+        <fragment id="48003012" kind="vs">And the law is not of faith: but, The man that doeth them shall live in them.</fragment>
+        <fragment id="48003013" kind="vs">Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:</fragment>
+        <fragment id="48003014" kind="vs">That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.</fragment>
+        <fragment id="48003015" kind="vs">Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.</fragment>
+        <fragment id="48003016" kind="vs">Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.</fragment>
+        <fragment id="48003017" kind="vs">And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.</fragment>
+        <fragment id="48003018" kind="vs">For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.</fragment>
+        <fragment id="48003019" kind="vs">Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.</fragment>
+        <fragment id="48003020" kind="vs">Now a mediator is not a mediator of one, but God is one.</fragment>
+        <fragment id="48003021" kind="vs">Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.</fragment>
+        <fragment id="48003022" kind="vs">But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.</fragment>
+        <fragment id="48003023" kind="vs">But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.</fragment>
+        <fragment id="48003024" kind="vs">Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.</fragment>
+        <fragment id="48003025" kind="vs">But after that faith is come, we are no longer under a schoolmaster.</fragment>
+        <fragment id="48003026" kind="vs">For ye are all the children of God by faith in Christ Jesus.</fragment>
+        <fragment id="48003027" kind="vs">For as many of you as have been baptized into Christ have put on Christ.</fragment>
+        <fragment id="48003028" kind="vs">There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.</fragment>
+        <fragment id="48003029" kind="vs">And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="48004">
+      <fragments>
+        <fragment id="48004001" kind="vs">Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;</fragment>
+        <fragment id="48004002" kind="vs">But is under tutors and governors until the time appointed of the father.</fragment>
+        <fragment id="48004003" kind="vs">Even so we, when we were children, were in bondage under the elements of the world:</fragment>
+        <fragment id="48004004" kind="vs">But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,</fragment>
+        <fragment id="48004005" kind="vs">To redeem them that were under the law, that we might receive the adoption of sons.</fragment>
+        <fragment id="48004006" kind="vs">And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.</fragment>
+        <fragment id="48004007" kind="vs">Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.</fragment>
+        <fragment id="48004008" kind="vs">Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.</fragment>
+        <fragment id="48004009" kind="vs">But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?</fragment>
+        <fragment id="48004010" kind="vs">Ye observe days, and months, and times, and years.</fragment>
+        <fragment id="48004011" kind="vs">I am afraid of you, lest I have bestowed upon you labour in vain.</fragment>
+        <fragment id="48004012" kind="vs">Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.</fragment>
+        <fragment id="48004013" kind="vs">Ye know how through infirmity of the flesh I preached the gospel unto you at the first.</fragment>
+        <fragment id="48004014" kind="vs">And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.</fragment>
+        <fragment id="48004015" kind="vs">Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.</fragment>
+        <fragment id="48004016" kind="vs">Am I therefore become your enemy, because I tell you the truth?</fragment>
+        <fragment id="48004017" kind="vs">They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.</fragment>
+        <fragment id="48004018" kind="vs">But it is good to be zealously affected always in a good thing, and not only when I am present with you.</fragment>
+        <fragment id="48004019" kind="vs">My little children, of whom I travail in birth again until Christ be formed in you,</fragment>
+        <fragment id="48004020" kind="vs">I desire to be present with you now, and to change my voice; for I stand in doubt of you.</fragment>
+        <fragment id="48004021" kind="vs">Tell me, ye that desire to be under the law, do ye not hear the law?</fragment>
+        <fragment id="48004022" kind="vs">For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.</fragment>
+        <fragment id="48004023" kind="vs">But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.</fragment>
+        <fragment id="48004024" kind="vs">Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.</fragment>
+        <fragment id="48004025" kind="vs">For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.</fragment>
+        <fragment id="48004026" kind="vs">But Jerusalem which is above is free, which is the mother of us all.</fragment>
+        <fragment id="48004027" kind="vs">For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.</fragment>
+        <fragment id="48004028" kind="vs">Now we, brethren, as Isaac was, are the children of promise.</fragment>
+        <fragment id="48004029" kind="vs">But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.</fragment>
+        <fragment id="48004030" kind="vs">Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.</fragment>
+        <fragment id="48004031" kind="vs">So then, brethren, we are not children of the bondwoman, but of the free.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="48005">
+      <fragments>
+        <fragment id="48005001" kind="vs">Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.</fragment>
+        <fragment id="48005002" kind="vs">Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.</fragment>
+        <fragment id="48005003" kind="vs">For I testify again to every man that is circumcised, that he is a debtor to do the whole law.</fragment>
+        <fragment id="48005004" kind="vs">Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.</fragment>
+        <fragment id="48005005" kind="vs">For we through the Spirit wait for the hope of righteousness by faith.</fragment>
+        <fragment id="48005006" kind="vs">For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.</fragment>
+        <fragment id="48005007" kind="vs">Ye did run well; who did hinder you that ye should not obey the truth?</fragment>
+        <fragment id="48005008" kind="vs">This persuasion cometh not of him that calleth you.</fragment>
+        <fragment id="48005009" kind="vs">A little leaven leaveneth the whole lump.</fragment>
+        <fragment id="48005010" kind="vs">I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.</fragment>
+        <fragment id="48005011" kind="vs">And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.</fragment>
+        <fragment id="48005012" kind="vs">I would they were even cut off which trouble you.</fragment>
+        <fragment id="48005013" kind="vs">For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.</fragment>
+        <fragment id="48005014" kind="vs">For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.</fragment>
+        <fragment id="48005015" kind="vs">But if ye bite and devour one another, take heed that ye be not consumed one of another.</fragment>
+        <fragment id="48005016" kind="vs">This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.</fragment>
+        <fragment id="48005017" kind="vs">For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.</fragment>
+        <fragment id="48005018" kind="vs">But if ye be led of the Spirit, ye are not under the law.</fragment>
+        <fragment id="48005019" kind="vs">Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,</fragment>
+        <fragment id="48005020" kind="vs">Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,</fragment>
+        <fragment id="48005021" kind="vs">Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.</fragment>
+        <fragment id="48005022" kind="vs">But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,</fragment>
+        <fragment id="48005023" kind="vs">Meekness, temperance: against such there is no law.</fragment>
+        <fragment id="48005024" kind="vs">And they that are Christ's have crucified the flesh with the affections and lusts.</fragment>
+        <fragment id="48005025" kind="vs">If we live in the Spirit, let us also walk in the Spirit.</fragment>
+        <fragment id="48005026" kind="vs">Let us not be desirous of vain glory, provoking one another, envying one another.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="48006">
+      <fragments>
+        <fragment id="48006001" kind="vs">Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.</fragment>
+        <fragment id="48006002" kind="vs">Bear ye one another's burdens, and so fulfil the law of Christ.</fragment>
+        <fragment id="48006003" kind="vs">For if a man think himself to be something, when he is nothing, he deceiveth himself.</fragment>
+        <fragment id="48006004" kind="vs">But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.</fragment>
+        <fragment id="48006005" kind="vs">For every man shall bear his own burden.</fragment>
+        <fragment id="48006006" kind="vs">Let him that is taught in the word communicate unto him that teacheth in all good things.</fragment>
+        <fragment id="48006007" kind="vs">Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.</fragment>
+        <fragment id="48006008" kind="vs">For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.</fragment>
+        <fragment id="48006009" kind="vs">And let us not be weary in well doing: for in due season we shall reap, if we faint not.</fragment>
+        <fragment id="48006010" kind="vs">As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.</fragment>
+        <fragment id="48006011" kind="vs">Ye see how large a letter I have written unto you with mine own hand.</fragment>
+        <fragment id="48006012" kind="vs">As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.</fragment>
+        <fragment id="48006013" kind="vs">For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.</fragment>
+        <fragment id="48006014" kind="vs">But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.</fragment>
+        <fragment id="48006015" kind="vs">For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.</fragment>
+        <fragment id="48006016" kind="vs">And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.</fragment>
+        <fragment id="48006017" kind="vs">From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.</fragment>
+        <fragment id="48006018" kind="vs">Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. </fragment>
+      </fragments>
+    </section>
+  </sections>
+</text>

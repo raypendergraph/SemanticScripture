@@ -1,148 +1,153 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text title="Zephaniah"
-  id="36" xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec id="36001" type="ch">
-    <frag id="36001001" type="vs">The word of the LORD which came unto Zephaniah the son of
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Zephaniah" id="36" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section id="36001" kind="ch">
+      <fragments>
+        <fragment id="36001001" kind="vs">The word of the LORD which came unto Zephaniah the son of
       Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the
-      son of Amon, king of Judah.</frag>
-    <frag id="36001002" type="vs">I will utterly consume all things from off the land, saith the
-      LORD.</frag>
-    <frag id="36001003" type="vs">I will consume man and beast; I will consume the fowls of the
+      son of Amon, king of Judah.</fragment>
+        <fragment id="36001002" kind="vs">I will utterly consume all things from off the land, saith the
+      LORD.</fragment>
+        <fragment id="36001003" kind="vs">I will consume man and beast; I will consume the fowls of the
       heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off
-      man from off the land, saith the LORD.</frag>
-    <frag id="36001004" type="vs">I will also stretch out mine hand upon Judah, and upon all the
+      man from off the land, saith the LORD.</fragment>
+        <fragment id="36001004" kind="vs">I will also stretch out mine hand upon Judah, and upon all the
       inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name
-      of the Chemarims with the priests;</frag>
-    <frag id="36001005" type="vs">And them that worship the host of heaven upon the housetops;
-      and them that worship and that swear by the LORD, and that swear by Malcham;</frag>
-    <frag id="36001006" type="vs">And them that are turned back from the LORD; and those that
-      have not sought the LORD, nor enquired for him.</frag>
-    <frag id="36001007" type="vs">Hold thy peace at the presence of the Lord GOD: for the day of
-      the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.</frag>
-    <frag id="36001008" type="vs">And it shall come to pass in the day of the LORD'S sacrifice,
+      of the Chemarims with the priests;</fragment>
+        <fragment id="36001005" kind="vs">And them that worship the host of heaven upon the housetops;
+      and them that worship and that swear by the LORD, and that swear by Malcham;</fragment>
+        <fragment id="36001006" kind="vs">And them that are turned back from the LORD; and those that
+      have not sought the LORD, nor enquired for him.</fragment>
+        <fragment id="36001007" kind="vs">Hold thy peace at the presence of the Lord GOD: for the day of
+      the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.</fragment>
+        <fragment id="36001008" kind="vs">And it shall come to pass in the day of the LORD'S sacrifice,
       that I will punish the princes, and the king's children, and all such as are clothed with
-      strange apparel.</frag>
-    <frag id="36001009" type="vs">In the same day also will I punish all those that leap on the
-      threshold, which fill their masters' houses with violence and deceit.</frag>
-    <frag id="36001010" type="vs">And it shall come to pass in that day, saith the LORD, that
+      strange apparel.</fragment>
+        <fragment id="36001009" kind="vs">In the same day also will I punish all those that leap on the
+      threshold, which fill their masters' houses with violence and deceit.</fragment>
+        <fragment id="36001010" kind="vs">And it shall come to pass in that day, saith the LORD, that
       there shall be the noise of a cry from the fish gate, and an howling from the second, and a
-      great crashing from the hills.</frag>
-    <frag id="36001011" type="vs">Howl, ye inhabitants of Maktesh, for all the merchant people
-      are cut down; all they that bear silver are cut off.</frag>
-    <frag id="36001012" type="vs">And it shall come to pass at that time, that I will search
+      great crashing from the hills.</fragment>
+        <fragment id="36001011" kind="vs">Howl, ye inhabitants of Maktesh, for all the merchant people
+      are cut down; all they that bear silver are cut off.</fragment>
+        <fragment id="36001012" kind="vs">And it shall come to pass at that time, that I will search
       Jerusalem with candles, and punish the men that are settled on their lees: that say in their
-      heart, The LORD will not do good, neither will he do evil.</frag>
-    <frag id="36001013" type="vs">Therefore their goods shall become a booty, and their houses a
+      heart, The LORD will not do good, neither will he do evil.</fragment>
+        <fragment id="36001013" kind="vs">Therefore their goods shall become a booty, and their houses a
       desolation: they shall also build houses, but not inhabit them; and they shall plant
-      vineyards, but not drink the wine thereof.</frag>
-    <frag id="36001014" type="vs">The great day of the LORD is near, it is near, and hasteth
-      greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.</frag>
-    <frag id="36001015" type="vs">That day is a day of wrath, a day of trouble and distress, a
+      vineyards, but not drink the wine thereof.</fragment>
+        <fragment id="36001014" kind="vs">The great day of the LORD is near, it is near, and hasteth
+      greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.</fragment>
+        <fragment id="36001015" kind="vs">That day is a day of wrath, a day of trouble and distress, a
       day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick
-      darkness,</frag>
-    <frag id="36001016" type="vs">A day of the trumpet and alarm against the fenced cities, and
-      against the high towers.</frag>
-    <frag id="36001017" type="vs">And I will bring distress upon men, that they shall walk like
+      darkness,</fragment>
+        <fragment id="36001016" kind="vs">A day of the trumpet and alarm against the fenced cities, and
+      against the high towers.</fragment>
+        <fragment id="36001017" kind="vs">And I will bring distress upon men, that they shall walk like
       blind men, because they have sinned against the LORD: and their blood shall be poured out as
-      dust, and their flesh as the dung.</frag>
-    <frag id="36001018" type="vs">Neither their silver nor their gold shall be able to deliver
+      dust, and their flesh as the dung.</fragment>
+        <fragment id="36001018" kind="vs">Neither their silver nor their gold shall be able to deliver
       them in the day of the LORD'S wrath; but the whole land shall be devoured by the fire of his
-      jealousy: for he shall make even a speedy riddance of all them that dwell in the land.</frag>
-  </sec>
-  <sec id="36002" type="ch">
-    <frag id="36002001" type="vs">Gather yourselves together, yea, gather together, O nation not
-      desired;</frag>
-    <frag id="36002002" type="vs">Before the decree bring forth, before the day pass as the
+      jealousy: for he shall make even a speedy riddance of all them that dwell in the land.</fragment>
+      </fragments>
+    </section>
+    <section id="36002" kind="ch">
+      <fragments>
+        <fragment id="36002001" kind="vs">Gather yourselves together, yea, gather together, O nation not
+      desired;</fragment>
+        <fragment id="36002002" kind="vs">Before the decree bring forth, before the day pass as the
       chaff, before the fierce anger of the LORD come upon you, before the day of the LORD'S anger
-      come upon you.</frag>
-    <frag id="36002003" type="vs">Seek ye the LORD, all ye meek of the earth, which have wrought
+      come upon you.</fragment>
+        <fragment id="36002003" kind="vs">Seek ye the LORD, all ye meek of the earth, which have wrought
       his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the
-      LORD'S anger.</frag>
-    <frag id="36002004" type="vs">For Gaza shall be forsaken, and Ashkelon a desolation: they
-      shall drive out Ashdod at the noon day, and Ekron shall be rooted up.</frag>
-    <frag id="36002005" type="vs">Woe unto the inhabitants of the sea coast, the nation of the
+      LORD'S anger.</fragment>
+        <fragment id="36002004" kind="vs">For Gaza shall be forsaken, and Ashkelon a desolation: they
+      shall drive out Ashdod at the noon day, and Ekron shall be rooted up.</fragment>
+        <fragment id="36002005" kind="vs">Woe unto the inhabitants of the sea coast, the nation of the
       Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I
-      will even destroy thee, that there shall be no inhabitant.</frag>
-    <frag id="36002006" type="vs">And the sea coast shall be dwellings and cottages for
-      shepherds, and folds for flocks.</frag>
-    <frag id="36002007" type="vs">And the coast shall be for the remnant of the house of Judah;
+      will even destroy thee, that there shall be no inhabitant.</fragment>
+        <fragment id="36002006" kind="vs">And the sea coast shall be dwellings and cottages for
+      shepherds, and folds for flocks.</fragment>
+        <fragment id="36002007" kind="vs">And the coast shall be for the remnant of the house of Judah;
       they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for
-      the LORD their God shall visit them, and turn away their captivity.</frag>
-    <frag id="36002008" type="vs">I have heard the reproach of Moab, and the revilings of the
+      the LORD their God shall visit them, and turn away their captivity.</fragment>
+        <fragment id="36002008" kind="vs">I have heard the reproach of Moab, and the revilings of the
       children of Ammon, whereby they have reproached my people, and magnified themselves against
-      their border.</frag>
-    <frag id="36002009" type="vs">Therefore as I live, saith the LORD of hosts, the God of
+      their border.</fragment>
+        <fragment id="36002009" kind="vs">Therefore as I live, saith the LORD of hosts, the God of
       Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the
       breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall
-      spoil them, and the remnant of my people shall possess them.</frag>
-    <frag id="36002010" type="vs">This shall they have for their pride, because they have
-      reproached and magnified themselves against the people of the LORD of hosts.</frag>
-    <frag id="36002011" type="vs">The LORD will be terrible unto them: for he will famish all the
+      spoil them, and the remnant of my people shall possess them.</fragment>
+        <fragment id="36002010" kind="vs">This shall they have for their pride, because they have
+      reproached and magnified themselves against the people of the LORD of hosts.</fragment>
+        <fragment id="36002011" kind="vs">The LORD will be terrible unto them: for he will famish all the
       gods of the earth; and men shall worship him, every one from his place, even all the isles of
-      the heathen.</frag>
-    <frag id="36002012" type="vs">Ye Ethiopians also, ye shall be slain by my sword.</frag>
-    <frag id="36002013" type="vs">And he will stretch out his hand against the north, and destroy
-      Assyria; and will make Nineveh a desolation, and dry like a wilderness.</frag>
-    <frag id="36002014" type="vs">And flocks shall lie down in the midst of her, all the beasts
+      the heathen.</fragment>
+        <fragment id="36002012" kind="vs">Ye Ethiopians also, ye shall be slain by my sword.</fragment>
+        <fragment id="36002013" kind="vs">And he will stretch out his hand against the north, and destroy
+      Assyria; and will make Nineveh a desolation, and dry like a wilderness.</fragment>
+        <fragment id="36002014" kind="vs">And flocks shall lie down in the midst of her, all the beasts
       of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it;
       their voice shall sing in the windows; desolation shall be in the thresholds: for he shall
-      uncover the cedar work.</frag>
-    <frag id="36002015" type="vs">This is the rejoicing city that dwelt carelessly, that said in
+      uncover the cedar work.</fragment>
+        <fragment id="36002015" kind="vs">This is the rejoicing city that dwelt carelessly, that said in
       her heart, I am, and there is none beside me: how is she become a desolation, a place for
-      beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.</frag>
-  </sec>
-  <sec id="36003" type="ch">
-    <frag id="36003001" type="vs">Woe to her that is filthy and polluted, to the oppressing city!</frag>
-    <frag id="36003002" type="vs">She obeyed not the voice; she received not correction; she
-      trusted not in the LORD; she drew not near to her God.</frag>
-    <frag id="36003003" type="vs">Her princes within her are roaring lions; her judges are
-      evening wolves; they gnaw not the bones till the morrow.</frag>
-    <frag id="36003004" type="vs">Her prophets are light and treacherous persons: her priests
-      have polluted the sanctuary, they have done violence to the law.</frag>
-    <frag id="36003005" type="vs">The just LORD is in the midst thereof; he will not do iniquity:
+      beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.</fragment>
+      </fragments>
+    </section>
+    <section id="36003" kind="ch">
+      <fragments>
+        <fragment id="36003001" kind="vs">Woe to her that is filthy and polluted, to the oppressing city!</fragment>
+        <fragment id="36003002" kind="vs">She obeyed not the voice; she received not correction; she
+      trusted not in the LORD; she drew not near to her God.</fragment>
+        <fragment id="36003003" kind="vs">Her princes within her are roaring lions; her judges are
+      evening wolves; they gnaw not the bones till the morrow.</fragment>
+        <fragment id="36003004" kind="vs">Her prophets are light and treacherous persons: her priests
+      have polluted the sanctuary, they have done violence to the law.</fragment>
+        <fragment id="36003005" kind="vs">The just LORD is in the midst thereof; he will not do iniquity:
       every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no
-      shame.</frag>
-    <frag id="36003006" type="vs">I have cut off the nations: their towers are desolate; I made
+      shame.</fragment>
+        <fragment id="36003006" kind="vs">I have cut off the nations: their towers are desolate; I made
       their streets waste, that none passeth by: their cities are destroyed, so that there is no
-      man, that there is none inhabitant.</frag>
-    <frag id="36003007" type="vs">I said, Surely thou wilt fear me, thou wilt receive
+      man, that there is none inhabitant.</fragment>
+        <fragment id="36003007" kind="vs">I said, Surely thou wilt fear me, thou wilt receive
       instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose
-      early, and corrupted all their doings.</frag>
-    <frag id="36003008" type="vs">Therefore wait ye upon me, saith the LORD, until the day that I
+      early, and corrupted all their doings.</fragment>
+        <fragment id="36003008" kind="vs">Therefore wait ye upon me, saith the LORD, until the day that I
       rise up to the prey: for my determination is to gather the nations, that I may assemble the
       kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth
-      shall be devoured with the fire of my jealousy.</frag>
-    <frag id="36003009" type="vs">For then will I turn to the people a pure language, that they
-      may all call upon the name of the LORD, to serve him with one consent.</frag>
-    <frag id="36003010" type="vs">From beyond the rivers of Ethiopia my suppliants, even the
-      daughter of my dispersed, shall bring mine offering.</frag>
-    <frag id="36003011" type="vs">In that day shalt thou not be ashamed for all thy doings,
+      shall be devoured with the fire of my jealousy.</fragment>
+        <fragment id="36003009" kind="vs">For then will I turn to the people a pure language, that they
+      may all call upon the name of the LORD, to serve him with one consent.</fragment>
+        <fragment id="36003010" kind="vs">From beyond the rivers of Ethiopia my suppliants, even the
+      daughter of my dispersed, shall bring mine offering.</fragment>
+        <fragment id="36003011" kind="vs">In that day shalt thou not be ashamed for all thy doings,
       wherein thou hast transgressed against me: for then I will take away out of the midst of thee
-      them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.</frag>
-    <frag id="36003012" type="vs">I will also leave in the midst of thee an afflicted and poor
-      people, and they shall trust in the name of the LORD.</frag>
-    <frag id="36003013" type="vs">The remnant of Israel shall not do iniquity, nor speak lies;
+      them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.</fragment>
+        <fragment id="36003012" kind="vs">I will also leave in the midst of thee an afflicted and poor
+      people, and they shall trust in the name of the LORD.</fragment>
+        <fragment id="36003013" kind="vs">The remnant of Israel shall not do iniquity, nor speak lies;
       neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down,
-      and none shall make them afraid.</frag>
-    <frag id="36003014" type="vs">Sing, O daughter of Zion; shout, O Israel; be glad and rejoice
-      with all the heart, O daughter of Jerusalem.</frag>
-    <frag id="36003015" type="vs">The LORD hath taken away thy judgments, he hath cast out thine
+      and none shall make them afraid.</fragment>
+        <fragment id="36003014" kind="vs">Sing, O daughter of Zion; shout, O Israel; be glad and rejoice
+      with all the heart, O daughter of Jerusalem.</fragment>
+        <fragment id="36003015" kind="vs">The LORD hath taken away thy judgments, he hath cast out thine
       enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any
-      more.</frag>
-    <frag id="36003016" type="vs">In that day it shall be said to Jerusalem, Fear thou not: and
-      to Zion, Let not thine hands be slack.</frag>
-    <frag id="36003017" type="vs">The LORD thy God in the midst of thee is mighty; he will save,
+      more.</fragment>
+        <fragment id="36003016" kind="vs">In that day it shall be said to Jerusalem, Fear thou not: and
+      to Zion, Let not thine hands be slack.</fragment>
+        <fragment id="36003017" kind="vs">The LORD thy God in the midst of thee is mighty; he will save,
       he will rejoice over thee with joy; he will rest in his love, he will joy over thee with
-      singing.</frag>
-    <frag id="36003018" type="vs">I will gather them that are sorrowful for the solemn assembly,
-      who are of thee, to whom the reproach of it was a burden.</frag>
-    <frag id="36003019" type="vs">Behold, at that time I will undo all that afflict thee: and I
+      singing.</fragment>
+        <fragment id="36003018" kind="vs">I will gather them that are sorrowful for the solemn assembly,
+      who are of thee, to whom the reproach of it was a burden.</fragment>
+        <fragment id="36003019" kind="vs">Behold, at that time I will undo all that afflict thee: and I
       will save her that halteth, and gather her that was driven out; and I will get them praise and
-      fame in every land where they have been put to shame.</frag>
-    <frag id="36003020" type="vs">At that time will I bring you again, even in the time that I
+      fame in every land where they have been put to shame.</fragment>
+        <fragment id="36003020" kind="vs">At that time will I bring you again, even in the time that I
       gather you: for I will make you a name and a praise among all people of the earth, when I turn
-      back your captivity before your eyes, saith the LORD.</frag>
-  </sec>
+      back your captivity before your eyes, saith the LORD.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

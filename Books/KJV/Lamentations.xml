@@ -1,169 +1,179 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text title="Lamentations" id="25" xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="25001">
-    <frag id="25001001" type="vs">How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!</frag>
-    <frag id="25001002" type="vs">She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.</frag>
-    <frag id="25001003" type="vs">Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.</frag>
-    <frag id="25001004" type="vs">The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.</frag>
-    <frag id="25001005" type="vs">Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.</frag>
-    <frag id="25001006" type="vs">And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.</frag>
-    <frag id="25001007" type="vs">Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.</frag>
-    <frag id="25001008" type="vs">Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.</frag>
-    <frag id="25001009" type="vs">Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.</frag>
-    <frag id="25001010" type="vs">The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.</frag>
-    <frag id="25001011" type="vs">All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.</frag>
-    <frag id="25001012" type="vs">Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.</frag>
-    <frag id="25001013" type="vs">From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.</frag>
-    <frag id="25001014" type="vs">The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up.</frag>
-    <frag id="25001015" type="vs">The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a winepress.</frag>
-    <frag id="25001016" type="vs">For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.</frag>
-    <frag id="25001017" type="vs">Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.</frag>
-    <frag id="25001018" type="vs">The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.</frag>
-    <frag id="25001019" type="vs">I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.</frag>
-    <frag id="25001020" type="vs">Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.</frag>
-    <frag id="25001021" type="vs">They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.</frag>
-    <frag id="25001022" type="vs">Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.</frag>
-  </sec>
-  <sec type="ch" id="25002">
-    <frag id="25002001" type="vs">How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!</frag>
-    <frag id="25002002" type="vs">The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.</frag>
-    <frag id="25002003" type="vs">He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.</frag>
-    <frag id="25002004" type="vs">He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.</frag>
-    <frag id="25002005" type="vs">The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.</frag>
-    <frag id="25002006" type="vs">And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.</frag>
-    <frag id="25002007" type="vs">The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.</frag>
-    <frag id="25002008" type="vs">The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.</frag>
-    <frag id="25002009" type="vs">Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD.</frag>
-    <frag id="25002010" type="vs">The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.</frag>
-    <frag id="25002011" type="vs">Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.</frag>
-    <frag id="25002012" type="vs">They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.</frag>
-    <frag id="25002013" type="vs">What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?</frag>
-    <frag id="25002014" type="vs">Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.</frag>
-    <frag id="25002015" type="vs">All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?</frag>
-    <frag id="25002016" type="vs">All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.</frag>
-    <frag id="25002017" type="vs">The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries.</frag>
-    <frag id="25002018" type="vs">Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.</frag>
-    <frag id="25002019" type="vs">Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.</frag>
-    <frag id="25002020" type="vs">Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?</frag>
-    <frag id="25002021" type="vs">The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.</frag>
-    <frag id="25002022" type="vs">Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.</frag>
-  </sec>
-  <sec type="ch" id="25003">
-    <frag id="25003001" type="vs">I am the man that hath seen affliction by the rod of his wrath.</frag>
-    <frag id="25003002" type="vs">He hath led me, and brought me into darkness, but not into light.</frag>
-    <frag id="25003003" type="vs">Surely against me is he turned; he turneth his hand against me all the day.</frag>
-    <frag id="25003004" type="vs">My flesh and my skin hath he made old; he hath broken my bones.</frag>
-    <frag id="25003005" type="vs">He hath builded against me, and compassed me with gall and travail.</frag>
-    <frag id="25003006" type="vs">He hath set me in dark places, as they that be dead of old.</frag>
-    <frag id="25003007" type="vs">He hath hedged me about, that I cannot get out: he hath made my chain heavy.</frag>
-    <frag id="25003008" type="vs">Also when I cry and shout, he shutteth out my prayer.</frag>
-    <frag id="25003009" type="vs">He hath inclosed my ways with hewn stone, he hath made my paths crooked.</frag>
-    <frag id="25003010" type="vs">He was unto me as a bear lying in wait, and as a lion in secret places.</frag>
-    <frag id="25003011" type="vs">He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.</frag>
-    <frag id="25003012" type="vs">He hath bent his bow, and set me as a mark for the arrow.</frag>
-    <frag id="25003013" type="vs">He hath caused the arrows of his quiver to enter into my reins.</frag>
-    <frag id="25003014" type="vs">I was a derision to all my people; and their song all the day.</frag>
-    <frag id="25003015" type="vs">He hath filled me with bitterness, he hath made me drunken with wormwood.</frag>
-    <frag id="25003016" type="vs">He hath also broken my teeth with gravel stones, he hath covered me with ashes.</frag>
-    <frag id="25003017" type="vs">And thou hast removed my soul far off from peace: I forgat prosperity.</frag>
-    <frag id="25003018" type="vs">And I said, My strength and my hope is perished from the LORD:</frag>
-    <frag id="25003019" type="vs">Remembering mine affliction and my misery, the wormwood and the gall.</frag>
-    <frag id="25003020" type="vs">My soul hath them still in remembrance, and is humbled in me.</frag>
-    <frag id="25003021" type="vs">This I recall to my mind, therefore have I hope.</frag>
-    <frag id="25003022" type="vs">It is of the LORD'S mercies that we are not consumed, because his compassions fail not.</frag>
-    <frag id="25003023" type="vs">They are new every morning: great is thy faithfulness.</frag>
-    <frag id="25003024" type="vs">The LORD is my portion, saith my soul; therefore will I hope in him.</frag>
-    <frag id="25003025" type="vs">The LORD is good unto them that wait for him, to the soul that seeketh him.</frag>
-    <frag id="25003026" type="vs">It is good that a man should both hope and quietly wait for the salvation of the LORD.</frag>
-    <frag id="25003027" type="vs">It is good for a man that he bear the yoke in his youth.</frag>
-    <frag id="25003028" type="vs">He sitteth alone and keepeth silence, because he hath borne it upon him.</frag>
-    <frag id="25003029" type="vs">He putteth his mouth in the dust; if so be there may be hope.</frag>
-    <frag id="25003030" type="vs">He giveth his cheek to him that smiteth him: he is filled full with reproach.</frag>
-    <frag id="25003031" type="vs">For the Lord will not cast off for ever:</frag>
-    <frag id="25003032" type="vs">But though he cause grief, yet will he have compassion according to the multitude of his mercies.</frag>
-    <frag id="25003033" type="vs">For he doth not afflict willingly nor grieve the children of men.</frag>
-    <frag id="25003034" type="vs">To crush under his feet all the prisoners of the earth,</frag>
-    <frag id="25003035" type="vs">To turn aside the right of a man before the face of the most High,</frag>
-    <frag id="25003036" type="vs">To subvert a man in his cause, the Lord approveth not.</frag>
-    <frag id="25003037" type="vs">Who is he that saith, and it cometh to pass, when the Lord commandeth it not?</frag>
-    <frag id="25003038" type="vs">Out of the mouth of the most High proceedeth not evil and good?</frag>
-    <frag id="25003039" type="vs">Wherefore doth a living man complain, a man for the punishment of his sins?</frag>
-    <frag id="25003040" type="vs">Let us search and try our ways, and turn again to the LORD.</frag>
-    <frag id="25003041" type="vs">Let us lift up our heart with our hands unto God in the heavens.</frag>
-    <frag id="25003042" type="vs">We have transgressed and have rebelled: thou hast not pardoned.</frag>
-    <frag id="25003043" type="vs">Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.</frag>
-    <frag id="25003044" type="vs">Thou hast covered thyself with a cloud, that our prayer should not pass through.</frag>
-    <frag id="25003045" type="vs">Thou hast made us as the offscouring and refuse in the midst of the people.</frag>
-    <frag id="25003046" type="vs">All our enemies have opened their mouths against us.</frag>
-    <frag id="25003047" type="vs">Fear and a snare is come upon us, desolation and destruction.</frag>
-    <frag id="25003048" type="vs">Mine eye runneth down with rivers of water for the destruction of the daughter of my people.</frag>
-    <frag id="25003049" type="vs">Mine eye trickleth down, and ceaseth not, without any intermission,</frag>
-    <frag id="25003050" type="vs">Till the LORD look down, and behold from heaven.</frag>
-    <frag id="25003051" type="vs">Mine eye affecteth mine heart because of all the daughters of my city.</frag>
-    <frag id="25003052" type="vs">Mine enemies chased me sore, like a bird, without cause.</frag>
-    <frag id="25003053" type="vs">They have cut off my life in the dungeon, and cast a stone upon me.</frag>
-    <frag id="25003054" type="vs">Waters flowed over mine head; then I said, I am cut off.</frag>
-    <frag id="25003055" type="vs">I called upon thy name, O LORD, out of the low dungeon.</frag>
-    <frag id="25003056" type="vs">Thou hast heard my voice: hide not thine ear at my breathing, at my cry.</frag>
-    <frag id="25003057" type="vs">Thou drewest near in the day that I called upon thee: thou saidst, Fear not.</frag>
-    <frag id="25003058" type="vs">O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.</frag>
-    <frag id="25003059" type="vs">O LORD, thou hast seen my wrong: judge thou my cause.</frag>
-    <frag id="25003060" type="vs">Thou hast seen all their vengeance and all their imaginations against me.</frag>
-    <frag id="25003061" type="vs">Thou hast heard their reproach, O LORD, and all their imaginations against me;</frag>
-    <frag id="25003062" type="vs">The lips of those that rose up against me, and their device against me all the day.</frag>
-    <frag id="25003063" type="vs">Behold their sitting down, and their rising up; I am their musick.</frag>
-    <frag id="25003064" type="vs">Render unto them a recompence, O LORD, according to the work of their hands.</frag>
-    <frag id="25003065" type="vs">Give them sorrow of heart, thy curse unto them.</frag>
-    <frag id="25003066" type="vs">Persecute and destroy them in anger from under the heavens of the LORD.</frag>
-  </sec>
-  <sec type="ch" id="25004">
-    <frag id="25004001" type="vs">How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.</frag>
-    <frag id="25004002" type="vs">The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!</frag>
-    <frag id="25004003" type="vs">Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.</frag>
-    <frag id="25004004" type="vs">The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.</frag>
-    <frag id="25004005" type="vs">They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.</frag>
-    <frag id="25004006" type="vs">For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.</frag>
-    <frag id="25004007" type="vs">Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:</frag>
-    <frag id="25004008" type="vs">Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.</frag>
-    <frag id="25004009" type="vs">They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.</frag>
-    <frag id="25004010" type="vs">The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.</frag>
-    <frag id="25004011" type="vs">The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.</frag>
-    <frag id="25004012" type="vs">The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.</frag>
-    <frag id="25004013" type="vs">For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,</frag>
-    <frag id="25004014" type="vs">They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.</frag>
-    <frag id="25004015" type="vs">They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.</frag>
-    <frag id="25004016" type="vs">The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.</frag>
-    <frag id="25004017" type="vs">As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.</frag>
-    <frag id="25004018" type="vs">They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.</frag>
-    <frag id="25004019" type="vs">Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.</frag>
-    <frag id="25004020" type="vs">The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.</frag>
-    <frag id="25004021" type="vs">Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.</frag>
-    <frag id="25004022" type="vs">The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.</frag>
-  </sec>
-  <sec type="ch" id="25005">
-    <frag id="25005001" type="vs">Remember, O LORD, what is come upon us: consider, and behold our reproach.</frag>
-    <frag id="25005002" type="vs">Our inheritance is turned to strangers, our houses to aliens.</frag>
-    <frag id="25005003" type="vs">We are orphans and fatherless, our mothers are as widows.</frag>
-    <frag id="25005004" type="vs">We have drunken our water for money; our wood is sold unto us.</frag>
-    <frag id="25005005" type="vs">Our necks are under persecution: we labour, and have no rest.</frag>
-    <frag id="25005006" type="vs">We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.</frag>
-    <frag id="25005007" type="vs">Our fathers have sinned, and are not; and we have borne their iniquities.</frag>
-    <frag id="25005008" type="vs">Servants have ruled over us: there is none that doth deliver us out of their hand.</frag>
-    <frag id="25005009" type="vs">We gat our bread with the peril of our lives because of the sword of the wilderness.</frag>
-    <frag id="25005010" type="vs">Our skin was black like an oven because of the terrible famine.</frag>
-    <frag id="25005011" type="vs">They ravished the women in Zion, and the maids in the cities of Judah.</frag>
-    <frag id="25005012" type="vs">Princes are hanged up by their hand: the faces of elders were not honoured.</frag>
-    <frag id="25005013" type="vs">They took the young men to grind, and the children fell under the wood.</frag>
-    <frag id="25005014" type="vs">The elders have ceased from the gate, the young men from their musick.</frag>
-    <frag id="25005015" type="vs">The joy of our heart is ceased; our dance is turned into mourning.</frag>
-    <frag id="25005016" type="vs">The crown is fallen from our head: woe unto us, that we have sinned!</frag>
-    <frag id="25005017" type="vs">For this our heart is faint; for these things our eyes are dim.</frag>
-    <frag id="25005018" type="vs">Because of the mountain of Zion, which is desolate, the foxes walk upon it.</frag>
-    <frag id="25005019" type="vs">Thou, O LORD, remainest for ever; thy throne from generation to generation.</frag>
-    <frag id="25005020" type="vs">Wherefore dost thou forget us for ever, and forsake us so long time?</frag>
-    <frag id="25005021" type="vs">Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.</frag>
-    <frag id="25005022" type="vs">But thou hast utterly rejected us; thou art very wroth against us.</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Lamentations" id="25" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="25001">
+      <fragments>
+        <fragment id="25001001" kind="vs">How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!</fragment>
+        <fragment id="25001002" kind="vs">She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.</fragment>
+        <fragment id="25001003" kind="vs">Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.</fragment>
+        <fragment id="25001004" kind="vs">The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.</fragment>
+        <fragment id="25001005" kind="vs">Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.</fragment>
+        <fragment id="25001006" kind="vs">And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.</fragment>
+        <fragment id="25001007" kind="vs">Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.</fragment>
+        <fragment id="25001008" kind="vs">Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.</fragment>
+        <fragment id="25001009" kind="vs">Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.</fragment>
+        <fragment id="25001010" kind="vs">The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.</fragment>
+        <fragment id="25001011" kind="vs">All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.</fragment>
+        <fragment id="25001012" kind="vs">Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.</fragment>
+        <fragment id="25001013" kind="vs">From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.</fragment>
+        <fragment id="25001014" kind="vs">The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up.</fragment>
+        <fragment id="25001015" kind="vs">The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a winepress.</fragment>
+        <fragment id="25001016" kind="vs">For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.</fragment>
+        <fragment id="25001017" kind="vs">Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.</fragment>
+        <fragment id="25001018" kind="vs">The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.</fragment>
+        <fragment id="25001019" kind="vs">I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.</fragment>
+        <fragment id="25001020" kind="vs">Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.</fragment>
+        <fragment id="25001021" kind="vs">They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.</fragment>
+        <fragment id="25001022" kind="vs">Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="25002">
+      <fragments>
+        <fragment id="25002001" kind="vs">How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!</fragment>
+        <fragment id="25002002" kind="vs">The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.</fragment>
+        <fragment id="25002003" kind="vs">He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.</fragment>
+        <fragment id="25002004" kind="vs">He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.</fragment>
+        <fragment id="25002005" kind="vs">The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.</fragment>
+        <fragment id="25002006" kind="vs">And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.</fragment>
+        <fragment id="25002007" kind="vs">The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.</fragment>
+        <fragment id="25002008" kind="vs">The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.</fragment>
+        <fragment id="25002009" kind="vs">Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD.</fragment>
+        <fragment id="25002010" kind="vs">The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.</fragment>
+        <fragment id="25002011" kind="vs">Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.</fragment>
+        <fragment id="25002012" kind="vs">They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.</fragment>
+        <fragment id="25002013" kind="vs">What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?</fragment>
+        <fragment id="25002014" kind="vs">Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.</fragment>
+        <fragment id="25002015" kind="vs">All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?</fragment>
+        <fragment id="25002016" kind="vs">All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.</fragment>
+        <fragment id="25002017" kind="vs">The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries.</fragment>
+        <fragment id="25002018" kind="vs">Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.</fragment>
+        <fragment id="25002019" kind="vs">Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.</fragment>
+        <fragment id="25002020" kind="vs">Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?</fragment>
+        <fragment id="25002021" kind="vs">The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.</fragment>
+        <fragment id="25002022" kind="vs">Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="25003">
+      <fragments>
+        <fragment id="25003001" kind="vs">I am the man that hath seen affliction by the rod of his wrath.</fragment>
+        <fragment id="25003002" kind="vs">He hath led me, and brought me into darkness, but not into light.</fragment>
+        <fragment id="25003003" kind="vs">Surely against me is he turned; he turneth his hand against me all the day.</fragment>
+        <fragment id="25003004" kind="vs">My flesh and my skin hath he made old; he hath broken my bones.</fragment>
+        <fragment id="25003005" kind="vs">He hath builded against me, and compassed me with gall and travail.</fragment>
+        <fragment id="25003006" kind="vs">He hath set me in dark places, as they that be dead of old.</fragment>
+        <fragment id="25003007" kind="vs">He hath hedged me about, that I cannot get out: he hath made my chain heavy.</fragment>
+        <fragment id="25003008" kind="vs">Also when I cry and shout, he shutteth out my prayer.</fragment>
+        <fragment id="25003009" kind="vs">He hath inclosed my ways with hewn stone, he hath made my paths crooked.</fragment>
+        <fragment id="25003010" kind="vs">He was unto me as a bear lying in wait, and as a lion in secret places.</fragment>
+        <fragment id="25003011" kind="vs">He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.</fragment>
+        <fragment id="25003012" kind="vs">He hath bent his bow, and set me as a mark for the arrow.</fragment>
+        <fragment id="25003013" kind="vs">He hath caused the arrows of his quiver to enter into my reins.</fragment>
+        <fragment id="25003014" kind="vs">I was a derision to all my people; and their song all the day.</fragment>
+        <fragment id="25003015" kind="vs">He hath filled me with bitterness, he hath made me drunken with wormwood.</fragment>
+        <fragment id="25003016" kind="vs">He hath also broken my teeth with gravel stones, he hath covered me with ashes.</fragment>
+        <fragment id="25003017" kind="vs">And thou hast removed my soul far off from peace: I forgat prosperity.</fragment>
+        <fragment id="25003018" kind="vs">And I said, My strength and my hope is perished from the LORD:</fragment>
+        <fragment id="25003019" kind="vs">Remembering mine affliction and my misery, the wormwood and the gall.</fragment>
+        <fragment id="25003020" kind="vs">My soul hath them still in remembrance, and is humbled in me.</fragment>
+        <fragment id="25003021" kind="vs">This I recall to my mind, therefore have I hope.</fragment>
+        <fragment id="25003022" kind="vs">It is of the LORD'S mercies that we are not consumed, because his compassions fail not.</fragment>
+        <fragment id="25003023" kind="vs">They are new every morning: great is thy faithfulness.</fragment>
+        <fragment id="25003024" kind="vs">The LORD is my portion, saith my soul; therefore will I hope in him.</fragment>
+        <fragment id="25003025" kind="vs">The LORD is good unto them that wait for him, to the soul that seeketh him.</fragment>
+        <fragment id="25003026" kind="vs">It is good that a man should both hope and quietly wait for the salvation of the LORD.</fragment>
+        <fragment id="25003027" kind="vs">It is good for a man that he bear the yoke in his youth.</fragment>
+        <fragment id="25003028" kind="vs">He sitteth alone and keepeth silence, because he hath borne it upon him.</fragment>
+        <fragment id="25003029" kind="vs">He putteth his mouth in the dust; if so be there may be hope.</fragment>
+        <fragment id="25003030" kind="vs">He giveth his cheek to him that smiteth him: he is filled full with reproach.</fragment>
+        <fragment id="25003031" kind="vs">For the Lord will not cast off for ever:</fragment>
+        <fragment id="25003032" kind="vs">But though he cause grief, yet will he have compassion according to the multitude of his mercies.</fragment>
+        <fragment id="25003033" kind="vs">For he doth not afflict willingly nor grieve the children of men.</fragment>
+        <fragment id="25003034" kind="vs">To crush under his feet all the prisoners of the earth,</fragment>
+        <fragment id="25003035" kind="vs">To turn aside the right of a man before the face of the most High,</fragment>
+        <fragment id="25003036" kind="vs">To subvert a man in his cause, the Lord approveth not.</fragment>
+        <fragment id="25003037" kind="vs">Who is he that saith, and it cometh to pass, when the Lord commandeth it not?</fragment>
+        <fragment id="25003038" kind="vs">Out of the mouth of the most High proceedeth not evil and good?</fragment>
+        <fragment id="25003039" kind="vs">Wherefore doth a living man complain, a man for the punishment of his sins?</fragment>
+        <fragment id="25003040" kind="vs">Let us search and try our ways, and turn again to the LORD.</fragment>
+        <fragment id="25003041" kind="vs">Let us lift up our heart with our hands unto God in the heavens.</fragment>
+        <fragment id="25003042" kind="vs">We have transgressed and have rebelled: thou hast not pardoned.</fragment>
+        <fragment id="25003043" kind="vs">Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.</fragment>
+        <fragment id="25003044" kind="vs">Thou hast covered thyself with a cloud, that our prayer should not pass through.</fragment>
+        <fragment id="25003045" kind="vs">Thou hast made us as the offscouring and refuse in the midst of the people.</fragment>
+        <fragment id="25003046" kind="vs">All our enemies have opened their mouths against us.</fragment>
+        <fragment id="25003047" kind="vs">Fear and a snare is come upon us, desolation and destruction.</fragment>
+        <fragment id="25003048" kind="vs">Mine eye runneth down with rivers of water for the destruction of the daughter of my people.</fragment>
+        <fragment id="25003049" kind="vs">Mine eye trickleth down, and ceaseth not, without any intermission,</fragment>
+        <fragment id="25003050" kind="vs">Till the LORD look down, and behold from heaven.</fragment>
+        <fragment id="25003051" kind="vs">Mine eye affecteth mine heart because of all the daughters of my city.</fragment>
+        <fragment id="25003052" kind="vs">Mine enemies chased me sore, like a bird, without cause.</fragment>
+        <fragment id="25003053" kind="vs">They have cut off my life in the dungeon, and cast a stone upon me.</fragment>
+        <fragment id="25003054" kind="vs">Waters flowed over mine head; then I said, I am cut off.</fragment>
+        <fragment id="25003055" kind="vs">I called upon thy name, O LORD, out of the low dungeon.</fragment>
+        <fragment id="25003056" kind="vs">Thou hast heard my voice: hide not thine ear at my breathing, at my cry.</fragment>
+        <fragment id="25003057" kind="vs">Thou drewest near in the day that I called upon thee: thou saidst, Fear not.</fragment>
+        <fragment id="25003058" kind="vs">O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.</fragment>
+        <fragment id="25003059" kind="vs">O LORD, thou hast seen my wrong: judge thou my cause.</fragment>
+        <fragment id="25003060" kind="vs">Thou hast seen all their vengeance and all their imaginations against me.</fragment>
+        <fragment id="25003061" kind="vs">Thou hast heard their reproach, O LORD, and all their imaginations against me;</fragment>
+        <fragment id="25003062" kind="vs">The lips of those that rose up against me, and their device against me all the day.</fragment>
+        <fragment id="25003063" kind="vs">Behold their sitting down, and their rising up; I am their musick.</fragment>
+        <fragment id="25003064" kind="vs">Render unto them a recompence, O LORD, according to the work of their hands.</fragment>
+        <fragment id="25003065" kind="vs">Give them sorrow of heart, thy curse unto them.</fragment>
+        <fragment id="25003066" kind="vs">Persecute and destroy them in anger from under the heavens of the LORD.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="25004">
+      <fragments>
+        <fragment id="25004001" kind="vs">How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.</fragment>
+        <fragment id="25004002" kind="vs">The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!</fragment>
+        <fragment id="25004003" kind="vs">Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.</fragment>
+        <fragment id="25004004" kind="vs">The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.</fragment>
+        <fragment id="25004005" kind="vs">They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.</fragment>
+        <fragment id="25004006" kind="vs">For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.</fragment>
+        <fragment id="25004007" kind="vs">Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:</fragment>
+        <fragment id="25004008" kind="vs">Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.</fragment>
+        <fragment id="25004009" kind="vs">They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.</fragment>
+        <fragment id="25004010" kind="vs">The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.</fragment>
+        <fragment id="25004011" kind="vs">The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.</fragment>
+        <fragment id="25004012" kind="vs">The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.</fragment>
+        <fragment id="25004013" kind="vs">For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,</fragment>
+        <fragment id="25004014" kind="vs">They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.</fragment>
+        <fragment id="25004015" kind="vs">They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.</fragment>
+        <fragment id="25004016" kind="vs">The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.</fragment>
+        <fragment id="25004017" kind="vs">As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.</fragment>
+        <fragment id="25004018" kind="vs">They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.</fragment>
+        <fragment id="25004019" kind="vs">Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.</fragment>
+        <fragment id="25004020" kind="vs">The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.</fragment>
+        <fragment id="25004021" kind="vs">Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.</fragment>
+        <fragment id="25004022" kind="vs">The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="25005">
+      <fragments>
+        <fragment id="25005001" kind="vs">Remember, O LORD, what is come upon us: consider, and behold our reproach.</fragment>
+        <fragment id="25005002" kind="vs">Our inheritance is turned to strangers, our houses to aliens.</fragment>
+        <fragment id="25005003" kind="vs">We are orphans and fatherless, our mothers are as widows.</fragment>
+        <fragment id="25005004" kind="vs">We have drunken our water for money; our wood is sold unto us.</fragment>
+        <fragment id="25005005" kind="vs">Our necks are under persecution: we labour, and have no rest.</fragment>
+        <fragment id="25005006" kind="vs">We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.</fragment>
+        <fragment id="25005007" kind="vs">Our fathers have sinned, and are not; and we have borne their iniquities.</fragment>
+        <fragment id="25005008" kind="vs">Servants have ruled over us: there is none that doth deliver us out of their hand.</fragment>
+        <fragment id="25005009" kind="vs">We gat our bread with the peril of our lives because of the sword of the wilderness.</fragment>
+        <fragment id="25005010" kind="vs">Our skin was black like an oven because of the terrible famine.</fragment>
+        <fragment id="25005011" kind="vs">They ravished the women in Zion, and the maids in the cities of Judah.</fragment>
+        <fragment id="25005012" kind="vs">Princes are hanged up by their hand: the faces of elders were not honoured.</fragment>
+        <fragment id="25005013" kind="vs">They took the young men to grind, and the children fell under the wood.</fragment>
+        <fragment id="25005014" kind="vs">The elders have ceased from the gate, the young men from their musick.</fragment>
+        <fragment id="25005015" kind="vs">The joy of our heart is ceased; our dance is turned into mourning.</fragment>
+        <fragment id="25005016" kind="vs">The crown is fallen from our head: woe unto us, that we have sinned!</fragment>
+        <fragment id="25005017" kind="vs">For this our heart is faint; for these things our eyes are dim.</fragment>
+        <fragment id="25005018" kind="vs">Because of the mountain of Zion, which is desolate, the foxes walk upon it.</fragment>
+        <fragment id="25005019" kind="vs">Thou, O LORD, remainest for ever; thy throne from generation to generation.</fragment>
+        <fragment id="25005020" kind="vs">Wherefore dost thou forget us for ever, and forsake us so long time?</fragment>
+        <fragment id="25005021" kind="vs">Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.</fragment>
+        <fragment id="25005022" kind="vs">But thou hast utterly rejected us; thou art very wroth against us.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

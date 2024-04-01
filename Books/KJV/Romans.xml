@@ -1,470 +1,502 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Romans" id="45"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="45001">
-    <frag id="45001001" type="vs">Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,</frag>
-    <frag id="45001002" type="vs">Which he had promised afore by his prophets in the holy scriptures,)</frag>
-    <frag id="45001003" type="vs">Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;</frag>
-    <frag id="45001004" type="vs">And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:</frag>
-    <frag id="45001005" type="vs">By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:</frag>
-    <frag id="45001006" type="vs">Among whom are ye also the called of Jesus Christ:</frag>
-    <frag id="45001007" type="vs">To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.</frag>
-    <frag id="45001008" type="vs">First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.</frag>
-    <frag id="45001009" type="vs">For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;</frag>
-    <frag id="45001010" type="vs">Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.</frag>
-    <frag id="45001011" type="vs">For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;</frag>
-    <frag id="45001012" type="vs">That is, that I may be comforted together with you by the mutual faith both of you and me.</frag>
-    <frag id="45001013" type="vs">Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.</frag>
-    <frag id="45001014" type="vs">I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.</frag>
-    <frag id="45001015" type="vs">So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.</frag>
-    <frag id="45001016" type="vs">For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.</frag>
-    <frag id="45001017" type="vs">For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.</frag>
-    <frag id="45001018" type="vs">For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;</frag>
-    <frag id="45001019" type="vs">Because that which may be known of God is manifest in them; for God hath shewed it unto them.</frag>
-    <frag id="45001020" type="vs">For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:</frag>
-    <frag id="45001021" type="vs">Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.</frag>
-    <frag id="45001022" type="vs">Professing themselves to be wise, they became fools,</frag>
-    <frag id="45001023" type="vs">And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.</frag>
-    <frag id="45001024" type="vs">Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:</frag>
-    <frag id="45001025" type="vs">Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.</frag>
-    <frag id="45001026" type="vs">For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:</frag>
-    <frag id="45001027" type="vs">And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.</frag>
-    <frag id="45001028" type="vs">And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;</frag>
-    <frag id="45001029" type="vs">Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,</frag>
-    <frag id="45001030" type="vs">Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,</frag>
-    <frag id="45001031" type="vs">Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:</frag>
-    <frag id="45001032" type="vs">Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.</frag>
-  </sec>
-  <sec type="ch" id="45002">
-    <frag id="45002001" type="vs">Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.</frag>
-    <frag id="45002002" type="vs">But we are sure that the judgment of God is according to truth against them which commit such things.</frag>
-    <frag id="45002003" type="vs">And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?</frag>
-    <frag id="45002004" type="vs">Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?</frag>
-    <frag id="45002005" type="vs">But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;</frag>
-    <frag id="45002006" type="vs">Who will render to every man according to his deeds:</frag>
-    <frag id="45002007" type="vs">To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:</frag>
-    <frag id="45002008" type="vs">But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,</frag>
-    <frag id="45002009" type="vs">Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;</frag>
-    <frag id="45002010" type="vs">But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:</frag>
-    <frag id="45002011" type="vs">For there is no respect of persons with God.</frag>
-    <frag id="45002012" type="vs">For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;</frag>
-    <frag id="45002013" type="vs">For not the hearers of the law are just before God, but the doers of the law shall be justified.</frag>
-    <frag id="45002014" type="vs">For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:</frag>
-    <frag id="45002015" type="vs">Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)</frag>
-    <frag id="45002016" type="vs">In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.</frag>
-    <frag id="45002017" type="vs">Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,</frag>
-    <frag id="45002018" type="vs">And knowest his will, and approvest the things that are more excellent, being instructed out of the law;</frag>
-    <frag id="45002019" type="vs">And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,</frag>
-    <frag id="45002020" type="vs">An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.</frag>
-    <frag id="45002021" type="vs">Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?</frag>
-    <frag id="45002022" type="vs">Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?</frag>
-    <frag id="45002023" type="vs">Thou that makest thy boast of the law, through breaking the law dishonourest thou God?</frag>
-    <frag id="45002024" type="vs">For the name of God is blasphemed among the Gentiles through you, as it is written.</frag>
-    <frag id="45002025" type="vs">For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.</frag>
-    <frag id="45002026" type="vs">Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?</frag>
-    <frag id="45002027" type="vs">And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?</frag>
-    <frag id="45002028" type="vs">For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:</frag>
-    <frag id="45002029" type="vs">But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.</frag>
-  </sec>
-  <sec type="ch" id="45003">
-    <frag id="45003001" type="vs">What advantage then hath the Jew? or what profit is there of circumcision?</frag>
-    <frag id="45003002" type="vs">Much every way: chiefly, because that unto them were committed the oracles of God.</frag>
-    <frag id="45003003" type="vs">For what if some did not believe? shall their unbelief make the faith of God without effect?</frag>
-    <frag id="45003004" type="vs">God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.</frag>
-    <frag id="45003005" type="vs">But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)</frag>
-    <frag id="45003006" type="vs">God forbid: for then how shall God judge the world?</frag>
-    <frag id="45003007" type="vs">For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?</frag>
-    <frag id="45003008" type="vs">And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.</frag>
-    <frag id="45003009" type="vs">What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;</frag>
-    <frag id="45003010" type="vs">As it is written, There is none righteous, no, not one:</frag>
-    <frag id="45003011" type="vs">There is none that understandeth, there is none that seeketh after God.</frag>
-    <frag id="45003012" type="vs">They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.</frag>
-    <frag id="45003013" type="vs">Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:</frag>
-    <frag id="45003014" type="vs">Whose mouth is full of cursing and bitterness:</frag>
-    <frag id="45003015" type="vs">Their feet are swift to shed blood:</frag>
-    <frag id="45003016" type="vs">Destruction and misery are in their ways:</frag>
-    <frag id="45003017" type="vs">And the way of peace have they not known:</frag>
-    <frag id="45003018" type="vs">There is no fear of God before their eyes.</frag>
-    <frag id="45003019" type="vs">Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.</frag>
-    <frag id="45003020" type="vs">Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.</frag>
-    <frag id="45003021" type="vs">But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;</frag>
-    <frag id="45003022" type="vs">Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:</frag>
-    <frag id="45003023" type="vs">For all have sinned, and come short of the glory of God;</frag>
-    <frag id="45003024" type="vs">Being justified freely by his grace through the redemption that is in Christ Jesus:</frag>
-    <frag id="45003025" type="vs">Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;</frag>
-    <frag id="45003026" type="vs">To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.</frag>
-    <frag id="45003027" type="vs">Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.</frag>
-    <frag id="45003028" type="vs">Therefore we conclude that a man is justified by faith without the deeds of the law.</frag>
-    <frag id="45003029" type="vs">Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:</frag>
-    <frag id="45003030" type="vs">Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.</frag>
-    <frag id="45003031" type="vs">Do we then make void the law through faith? God forbid: yea, we establish the law.</frag>
-  </sec>
-  <sec type="ch" id="45004">
-    <frag id="45004001" type="vs">What shall we say then that Abraham our father, as pertaining to the flesh, hath found?</frag>
-    <frag id="45004002" type="vs">For if Abraham were justified by works, he hath whereof to glory; but not before God.</frag>
-    <frag id="45004003" type="vs">For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.</frag>
-    <frag id="45004004" type="vs">Now to him that worketh is the reward not reckoned of grace, but of debt.</frag>
-    <frag id="45004005" type="vs">But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.</frag>
-    <frag id="45004006" type="vs">Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,</frag>
-    <frag id="45004007" type="vs">Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.</frag>
-    <frag id="45004008" type="vs">Blessed is the man to whom the Lord will not impute sin.</frag>
-    <frag id="45004009" type="vs">Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.</frag>
-    <frag id="45004010" type="vs">How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.</frag>
-    <frag id="45004011" type="vs">And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:</frag>
-    <frag id="45004012" type="vs">And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.</frag>
-    <frag id="45004013" type="vs">For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.</frag>
-    <frag id="45004014" type="vs">For if they which are of the law be heirs, faith is made void, and the promise made of none effect:</frag>
-    <frag id="45004015" type="vs">Because the law worketh wrath: for where no law is, there is no transgression.</frag>
-    <frag id="45004016" type="vs">Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,</frag>
-    <frag id="45004017" type="vs">As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were.</frag>
-    <frag id="45004018" type="vs">Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be.</frag>
-    <frag id="45004019" type="vs">And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara's womb:</frag>
-    <frag id="45004020" type="vs">He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;</frag>
-    <frag id="45004021" type="vs">And being fully persuaded that, what he had promised, he was able also to perform.</frag>
-    <frag id="45004022" type="vs">And therefore it was imputed to him for righteousness.</frag>
-    <frag id="45004023" type="vs">Now it was not written for his sake alone, that it was imputed to him;</frag>
-    <frag id="45004024" type="vs">But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;</frag>
-    <frag id="45004025" type="vs">Who was delivered for our offences, and was raised again for our justification.</frag>
-  </sec>
-  <sec type="ch" id="45005">
-    <frag id="45005001" type="vs">Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:</frag>
-    <frag id="45005002" type="vs">By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.</frag>
-    <frag id="45005003" type="vs">And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;</frag>
-    <frag id="45005004" type="vs">And patience, experience; and experience, hope:</frag>
-    <frag id="45005005" type="vs">And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.</frag>
-    <frag id="45005006" type="vs">For when we were yet without strength, in due time Christ died for the ungodly.</frag>
-    <frag id="45005007" type="vs">For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.</frag>
-    <frag id="45005008" type="vs">But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.</frag>
-    <frag id="45005009" type="vs">Much more then, being now justified by his blood, we shall be saved from wrath through him.</frag>
-    <frag id="45005010" type="vs">For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.</frag>
-    <frag id="45005011" type="vs">And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.</frag>
-    <frag id="45005012" type="vs">Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:</frag>
-    <frag id="45005013" type="vs">For until the law sin was in the world: but sin is not imputed when there is no law.</frag>
-    <frag id="45005014" type="vs">Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.</frag>
-    <frag id="45005015" type="vs">But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.</frag>
-    <frag id="45005016" type="vs">And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.</frag>
-    <frag id="45005017" type="vs">For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)</frag>
-    <frag id="45005018" type="vs">Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.</frag>
-    <frag id="45005019" type="vs">For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.</frag>
-    <frag id="45005020" type="vs">Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:</frag>
-    <frag id="45005021" type="vs">That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.</frag>
-  </sec>
-  <sec type="ch" id="45006">
-    <frag id="45006001" type="vs">What shall we say then? Shall we continue in sin, that grace may abound?</frag>
-    <frag id="45006002" type="vs">God forbid. How shall we, that are dead to sin, live any longer therein?</frag>
-    <frag id="45006003" type="vs">Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?</frag>
-    <frag id="45006004" type="vs">Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.</frag>
-    <frag id="45006005" type="vs">For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:</frag>
-    <frag id="45006006" type="vs">Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.</frag>
-    <frag id="45006007" type="vs">For he that is dead is freed from sin.</frag>
-    <frag id="45006008" type="vs">Now if we be dead with Christ, we believe that we shall also live with him:</frag>
-    <frag id="45006009" type="vs">Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.</frag>
-    <frag id="45006010" type="vs">For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.</frag>
-    <frag id="45006011" type="vs">Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.</frag>
-    <frag id="45006012" type="vs">Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.</frag>
-    <frag id="45006013" type="vs">Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.</frag>
-    <frag id="45006014" type="vs">For sin shall not have dominion over you: for ye are not under the law, but under grace.</frag>
-    <frag id="45006015" type="vs">What then? shall we sin, because we are not under the law, but under grace? God forbid.</frag>
-    <frag id="45006016" type="vs">Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?</frag>
-    <frag id="45006017" type="vs">But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.</frag>
-    <frag id="45006018" type="vs">Being then made free from sin, ye became the servants of righteousness.</frag>
-    <frag id="45006019" type="vs">I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.</frag>
-    <frag id="45006020" type="vs">For when ye were the servants of sin, ye were free from righteousness.</frag>
-    <frag id="45006021" type="vs">What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.</frag>
-    <frag id="45006022" type="vs">But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.</frag>
-    <frag id="45006023" type="vs">For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.</frag>
-  </sec>
-  <sec type="ch" id="45007">
-    <frag id="45007001" type="vs">Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?</frag>
-    <frag id="45007002" type="vs">For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.</frag>
-    <frag id="45007003" type="vs">So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.</frag>
-    <frag id="45007004" type="vs">Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.</frag>
-    <frag id="45007005" type="vs">For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.</frag>
-    <frag id="45007006" type="vs">But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.</frag>
-    <frag id="45007007" type="vs">What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.</frag>
-    <frag id="45007008" type="vs">But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.</frag>
-    <frag id="45007009" type="vs">For I was alive without the law once: but when the commandment came, sin revived, and I died.</frag>
-    <frag id="45007010" type="vs">And the commandment, which was ordained to life, I found to be unto death.</frag>
-    <frag id="45007011" type="vs">For sin, taking occasion by the commandment, deceived me, and by it slew me.</frag>
-    <frag id="45007012" type="vs">Wherefore the law is holy, and the commandment holy, and just, and good.</frag>
-    <frag id="45007013" type="vs">Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.</frag>
-    <frag id="45007014" type="vs">For we know that the law is spiritual: but I am carnal, sold under sin.</frag>
-    <frag id="45007015" type="vs">For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.</frag>
-    <frag id="45007016" type="vs">If then I do that which I would not, I consent unto the law that it is good.</frag>
-    <frag id="45007017" type="vs">Now then it is no more I that do it, but sin that dwelleth in me.</frag>
-    <frag id="45007018" type="vs">For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.</frag>
-    <frag id="45007019" type="vs">For the good that I would I do not: but the evil which I would not, that I do.</frag>
-    <frag id="45007020" type="vs">Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.</frag>
-    <frag id="45007021" type="vs">I find then a law, that, when I would do good, evil is present with me.</frag>
-    <frag id="45007022" type="vs">For I delight in the law of God after the inward man:</frag>
-    <frag id="45007023" type="vs">But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.</frag>
-    <frag id="45007024" type="vs">O wretched man that I am! who shall deliver me from the body of this death?</frag>
-    <frag id="45007025" type="vs">I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.</frag>
-  </sec>
-  <sec type="ch" id="45008">
-    <frag id="45008001" type="vs">There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.</frag>
-    <frag id="45008002" type="vs">For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</frag>
-    <frag id="45008003" type="vs">For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:</frag>
-    <frag id="45008004" type="vs">That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</frag>
-    <frag id="45008005" type="vs">For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.</frag>
-    <frag id="45008006" type="vs">For to be carnally minded is death; but to be spiritually minded is life and peace.</frag>
-    <frag id="45008007" type="vs">Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.</frag>
-    <frag id="45008008" type="vs">So then they that are in the flesh cannot please God.</frag>
-    <frag id="45008009" type="vs">But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.</frag>
-    <frag id="45008010" type="vs">And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.</frag>
-    <frag id="45008011" type="vs">But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.</frag>
-    <frag id="45008012" type="vs">Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.</frag>
-    <frag id="45008013" type="vs">For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.</frag>
-    <frag id="45008014" type="vs">For as many as are led by the Spirit of God, they are the sons of God.</frag>
-    <frag id="45008015" type="vs">For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.</frag>
-    <frag id="45008016" type="vs">The Spirit itself beareth witness with our spirit, that we are the children of God:</frag>
-    <frag id="45008017" type="vs">And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.</frag>
-    <frag id="45008018" type="vs">For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.</frag>
-    <frag id="45008019" type="vs">For the earnest expectation of the creature waiteth for the manifestation of the sons of God.</frag>
-    <frag id="45008020" type="vs">For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,</frag>
-    <frag id="45008021" type="vs">Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.</frag>
-    <frag id="45008022" type="vs">For we know that the whole creation groaneth and travaileth in pain together until now.</frag>
-    <frag id="45008023" type="vs">And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.</frag>
-    <frag id="45008024" type="vs">For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?</frag>
-    <frag id="45008025" type="vs">But if we hope for that we see not, then do we with patience wait for it.</frag>
-    <frag id="45008026" type="vs">Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.</frag>
-    <frag id="45008027" type="vs">And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.</frag>
-    <frag id="45008028" type="vs">And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</frag>
-    <frag id="45008029" type="vs">For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.</frag>
-    <frag id="45008030" type="vs">Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.</frag>
-    <frag id="45008031" type="vs">What shall we then say to these things? If God be for us, who can be against us?</frag>
-    <frag id="45008032" type="vs">He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?</frag>
-    <frag id="45008033" type="vs">Who shall lay any thing to the charge of God's elect? It is God that justifieth.</frag>
-    <frag id="45008034" type="vs">Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.</frag>
-    <frag id="45008035" type="vs">Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?</frag>
-    <frag id="45008036" type="vs">As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.</frag>
-    <frag id="45008037" type="vs">Nay, in all these things we are more than conquerors through him that loved us.</frag>
-    <frag id="45008038" type="vs">For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,</frag>
-    <frag id="45008039" type="vs">Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.</frag>
-  </sec>
-  <sec type="ch" id="45009">
-    <frag id="45009001" type="vs">I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,</frag>
-    <frag id="45009002" type="vs">That I have great heaviness and continual sorrow in my heart.</frag>
-    <frag id="45009003" type="vs">For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:</frag>
-    <frag id="45009004" type="vs">Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;</frag>
-    <frag id="45009005" type="vs">Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.</frag>
-    <frag id="45009006" type="vs">Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:</frag>
-    <frag id="45009007" type="vs">Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.</frag>
-    <frag id="45009008" type="vs">That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.</frag>
-    <frag id="45009009" type="vs">For this is the word of promise, At this time will I come, and Sara shall have a son.</frag>
-    <frag id="45009010" type="vs">And not only this; but when Rebecca also had conceived by one, even by our father Isaac;</frag>
-    <frag id="45009011" type="vs">For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)</frag>
-    <frag id="45009012" type="vs">It was said unto her, The elder shall serve the younger.</frag>
-    <frag id="45009013" type="vs">As it is written, Jacob have I loved, but Esau have I hated.</frag>
-    <frag id="45009014" type="vs">What shall we say then? Is there unrighteousness with God? God forbid.</frag>
-    <frag id="45009015" type="vs">For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.</frag>
-    <frag id="45009016" type="vs">So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.</frag>
-    <frag id="45009017" type="vs">For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.</frag>
-    <frag id="45009018" type="vs">Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.</frag>
-    <frag id="45009019" type="vs">Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?</frag>
-    <frag id="45009020" type="vs">Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?</frag>
-    <frag id="45009021" type="vs">Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?</frag>
-    <frag id="45009022" type="vs">What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:</frag>
-    <frag id="45009023" type="vs">And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,</frag>
-    <frag id="45009024" type="vs">Even us, whom he hath called, not of the Jews only, but also of the Gentiles?</frag>
-    <frag id="45009025" type="vs">As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.</frag>
-    <frag id="45009026" type="vs">And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.</frag>
-    <frag id="45009027" type="vs">Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:</frag>
-    <frag id="45009028" type="vs">For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.</frag>
-    <frag id="45009029" type="vs">And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.</frag>
-    <frag id="45009030" type="vs">What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.</frag>
-    <frag id="45009031" type="vs">But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.</frag>
-    <frag id="45009032" type="vs">Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;</frag>
-    <frag id="45009033" type="vs">As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.</frag>
-  </sec>
-  <sec type="ch" id="45010">
-    <frag id="45010001" type="vs">Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.</frag>
-    <frag id="45010002" type="vs">For I bear them record that they have a zeal of God, but not according to knowledge.</frag>
-    <frag id="45010003" type="vs">For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.</frag>
-    <frag id="45010004" type="vs">For Christ is the end of the law for righteousness to every one that believeth.</frag>
-    <frag id="45010005" type="vs">For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.</frag>
-    <frag id="45010006" type="vs">But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)</frag>
-    <frag id="45010007" type="vs">Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)</frag>
-    <frag id="45010008" type="vs">But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;</frag>
-    <frag id="45010009" type="vs">That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</frag>
-    <frag id="45010010" type="vs">For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.</frag>
-    <frag id="45010011" type="vs">For the scripture saith, Whosoever believeth on him shall not be ashamed.</frag>
-    <frag id="45010012" type="vs">For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.</frag>
-    <frag id="45010013" type="vs">For whosoever shall call upon the name of the Lord shall be saved.</frag>
-    <frag id="45010014" type="vs">How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?</frag>
-    <frag id="45010015" type="vs">And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!</frag>
-    <frag id="45010016" type="vs">But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?</frag>
-    <frag id="45010017" type="vs">So then faith cometh by hearing, and hearing by the word of God.</frag>
-    <frag id="45010018" type="vs">But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.</frag>
-    <frag id="45010019" type="vs">But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.</frag>
-    <frag id="45010020" type="vs">But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.</frag>
-    <frag id="45010021" type="vs">But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.</frag>
-  </sec>
-  <sec type="ch" id="45011">
-    <frag id="45011001" type="vs">I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.</frag>
-    <frag id="45011002" type="vs">God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,</frag>
-    <frag id="45011003" type="vs">Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.</frag>
-    <frag id="45011004" type="vs">But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.</frag>
-    <frag id="45011005" type="vs">Even so then at this present time also there is a remnant according to the election of grace.</frag>
-    <frag id="45011006" type="vs">And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.</frag>
-    <frag id="45011007" type="vs">What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded</frag>
-    <frag id="45011008" type="vs">According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.</frag>
-    <frag id="45011009" type="vs">And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:</frag>
-    <frag id="45011010" type="vs">Let their eyes be darkened, that they may not see, and bow down their back alway.</frag>
-    <frag id="45011011" type="vs">I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.</frag>
-    <frag id="45011012" type="vs">Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?</frag>
-    <frag id="45011013" type="vs">For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:</frag>
-    <frag id="45011014" type="vs">If by any means I may provoke to emulation them which are my flesh, and might save some of them.</frag>
-    <frag id="45011015" type="vs">For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?</frag>
-    <frag id="45011016" type="vs">For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.</frag>
-    <frag id="45011017" type="vs">And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;</frag>
-    <frag id="45011018" type="vs">Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.</frag>
-    <frag id="45011019" type="vs">Thou wilt say then, The branches were broken off, that I might be graffed in.</frag>
-    <frag id="45011020" type="vs">Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:</frag>
-    <frag id="45011021" type="vs">For if God spared not the natural branches, take heed lest he also spare not thee.</frag>
-    <frag id="45011022" type="vs">Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off.</frag>
-    <frag id="45011023" type="vs">And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.</frag>
-    <frag id="45011024" type="vs">For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?</frag>
-    <frag id="45011025" type="vs">For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.</frag>
-    <frag id="45011026" type="vs">And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:</frag>
-    <frag id="45011027" type="vs">For this is my covenant unto them, when I shall take away their sins.</frag>
-    <frag id="45011028" type="vs">As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers' sakes.</frag>
-    <frag id="45011029" type="vs">For the gifts and calling of God are without repentance.</frag>
-    <frag id="45011030" type="vs">For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:</frag>
-    <frag id="45011031" type="vs">Even so have these also now not believed, that through your mercy they also may obtain mercy.</frag>
-    <frag id="45011032" type="vs">For God hath concluded them all in unbelief, that he might have mercy upon all.</frag>
-    <frag id="45011033" type="vs">O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!</frag>
-    <frag id="45011034" type="vs">For who hath known the mind of the Lord? or who hath been his counsellor?</frag>
-    <frag id="45011035" type="vs">Or who hath first given to him, and it shall be recompensed unto him again?</frag>
-    <frag id="45011036" type="vs">For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.</frag>
-  </sec>
-  <sec type="ch" id="45012">
-    <frag id="45012001" type="vs">I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.</frag>
-    <frag id="45012002" type="vs">And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.</frag>
-    <frag id="45012003" type="vs">For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.</frag>
-    <frag id="45012004" type="vs">For as we have many members in one body, and all members have not the same office:</frag>
-    <frag id="45012005" type="vs">So we, being many, are one body in Christ, and every one members one of another.</frag>
-    <frag id="45012006" type="vs">Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;</frag>
-    <frag id="45012007" type="vs">Or ministry, let us wait on our ministering: or he that teacheth, on teaching;</frag>
-    <frag id="45012008" type="vs">Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.</frag>
-    <frag id="45012009" type="vs">Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.</frag>
-    <frag id="45012010" type="vs">Be kindly affectioned one to another with brotherly love; in honour preferring one another;</frag>
-    <frag id="45012011" type="vs">Not slothful in business; fervent in spirit; serving the Lord;</frag>
-    <frag id="45012012" type="vs">Rejoicing in hope; patient in tribulation; continuing instant in prayer;</frag>
-    <frag id="45012013" type="vs">Distributing to the necessity of saints; given to hospitality.</frag>
-    <frag id="45012014" type="vs">Bless them which persecute you: bless, and curse not.</frag>
-    <frag id="45012015" type="vs">Rejoice with them that do rejoice, and weep with them that weep.</frag>
-    <frag id="45012016" type="vs">Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.</frag>
-    <frag id="45012017" type="vs">Recompense to no man evil for evil. Provide things honest in the sight of all men.</frag>
-    <frag id="45012018" type="vs">If it be possible, as much as lieth in you, live peaceably with all men.</frag>
-    <frag id="45012019" type="vs">Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.</frag>
-    <frag id="45012020" type="vs">Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.</frag>
-    <frag id="45012021" type="vs">Be not overcome of evil, but overcome evil with good.</frag>
-  </sec>
-  <sec type="ch" id="45013">
-    <frag id="45013001" type="vs">Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.</frag>
-    <frag id="45013002" type="vs">Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.</frag>
-    <frag id="45013003" type="vs">For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:</frag>
-    <frag id="45013004" type="vs">For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.</frag>
-    <frag id="45013005" type="vs">Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.</frag>
-    <frag id="45013006" type="vs">For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.</frag>
-    <frag id="45013007" type="vs">Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.</frag>
-    <frag id="45013008" type="vs">Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.</frag>
-    <frag id="45013009" type="vs">For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.</frag>
-    <frag id="45013010" type="vs">Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.</frag>
-    <frag id="45013011" type="vs">And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.</frag>
-    <frag id="45013012" type="vs">The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.</frag>
-    <frag id="45013013" type="vs">Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.</frag>
-    <frag id="45013014" type="vs">But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.</frag>
-  </sec>
-  <sec type="ch" id="45014">
-    <frag id="45014001" type="vs">Him that is weak in the faith receive ye, but not to doubtful disputations.</frag>
-    <frag id="45014002" type="vs">For one believeth that he may eat all things: another, who is weak, eateth herbs.</frag>
-    <frag id="45014003" type="vs">Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.</frag>
-    <frag id="45014004" type="vs">Who art thou that judgest another man's servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.</frag>
-    <frag id="45014005" type="vs">One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.</frag>
-    <frag id="45014006" type="vs">He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.</frag>
-    <frag id="45014007" type="vs">For none of us liveth to himself, and no man dieth to himself.</frag>
-    <frag id="45014008" type="vs">For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.</frag>
-    <frag id="45014009" type="vs">For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.</frag>
-    <frag id="45014010" type="vs">But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.</frag>
-    <frag id="45014011" type="vs">For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.</frag>
-    <frag id="45014012" type="vs">So then every one of us shall give account of himself to God.</frag>
-    <frag id="45014013" type="vs">Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way.</frag>
-    <frag id="45014014" type="vs">I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.</frag>
-    <frag id="45014015" type="vs">But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.</frag>
-    <frag id="45014016" type="vs">Let not then your good be evil spoken of:</frag>
-    <frag id="45014017" type="vs">For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.</frag>
-    <frag id="45014018" type="vs">For he that in these things serveth Christ is acceptable to God, and approved of men.</frag>
-    <frag id="45014019" type="vs">Let us therefore follow after the things which make for peace, and things wherewith one may edify another.</frag>
-    <frag id="45014020" type="vs">For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence.</frag>
-    <frag id="45014021" type="vs">It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak.</frag>
-    <frag id="45014022" type="vs">Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth.</frag>
-    <frag id="45014023" type="vs">And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.</frag>
-  </sec>
-  <sec type="ch" id="45015">
-    <frag id="45015001" type="vs">We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.</frag>
-    <frag id="45015002" type="vs">Let every one of us please his neighbour for his good to edification.</frag>
-    <frag id="45015003" type="vs">For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.</frag>
-    <frag id="45015004" type="vs">For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.</frag>
-    <frag id="45015005" type="vs">Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:</frag>
-    <frag id="45015006" type="vs">That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.</frag>
-    <frag id="45015007" type="vs">Wherefore receive ye one another, as Christ also received us to the glory of God.</frag>
-    <frag id="45015008" type="vs">Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:</frag>
-    <frag id="45015009" type="vs">And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.</frag>
-    <frag id="45015010" type="vs">And again he saith, Rejoice, ye Gentiles, with his people.</frag>
-    <frag id="45015011" type="vs">And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.</frag>
-    <frag id="45015012" type="vs">And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.</frag>
-    <frag id="45015013" type="vs">Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.</frag>
-    <frag id="45015014" type="vs">And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.</frag>
-    <frag id="45015015" type="vs">Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,</frag>
-    <frag id="45015016" type="vs">That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.</frag>
-    <frag id="45015017" type="vs">I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.</frag>
-    <frag id="45015018" type="vs">For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,</frag>
-    <frag id="45015019" type="vs">Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.</frag>
-    <frag id="45015020" type="vs">Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:</frag>
-    <frag id="45015021" type="vs">But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.</frag>
-    <frag id="45015022" type="vs">For which cause also I have been much hindered from coming to you.</frag>
-    <frag id="45015023" type="vs">But now having no more place in these parts, and having a great desire these many years to come unto you;</frag>
-    <frag id="45015024" type="vs">Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.</frag>
-    <frag id="45015025" type="vs">But now I go unto Jerusalem to minister unto the saints.</frag>
-    <frag id="45015026" type="vs">For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.</frag>
-    <frag id="45015027" type="vs">It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.</frag>
-    <frag id="45015028" type="vs">When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.</frag>
-    <frag id="45015029" type="vs">And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.</frag>
-    <frag id="45015030" type="vs">Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;</frag>
-    <frag id="45015031" type="vs">That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;</frag>
-    <frag id="45015032" type="vs">That I may come unto you with joy by the will of God, and may with you be refreshed.</frag>
-    <frag id="45015033" type="vs">Now the God of peace be with you all. Amen.</frag>
-  </sec>
-  <sec type="ch" id="45016">
-    <frag id="45016001" type="vs">I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:</frag>
-    <frag id="45016002" type="vs">That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.</frag>
-    <frag id="45016003" type="vs">Greet Priscilla and Aquila my helpers in Christ Jesus:</frag>
-    <frag id="45016004" type="vs">Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.</frag>
-    <frag id="45016005" type="vs">Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.</frag>
-    <frag id="45016006" type="vs">Greet Mary, who bestowed much labour on us.</frag>
-    <frag id="45016007" type="vs">Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.</frag>
-    <frag id="45016008" type="vs">Greet Amplias my beloved in the Lord.</frag>
-    <frag id="45016009" type="vs">Salute Urbane, our helper in Christ, and Stachys my beloved.</frag>
-    <frag id="45016010" type="vs">Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.</frag>
-    <frag id="45016011" type="vs">Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.</frag>
-    <frag id="45016012" type="vs">Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.</frag>
-    <frag id="45016013" type="vs">Salute Rufus chosen in the Lord, and his mother and mine.</frag>
-    <frag id="45016014" type="vs">Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.</frag>
-    <frag id="45016015" type="vs">Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.</frag>
-    <frag id="45016016" type="vs">Salute one another with an holy kiss. The churches of Christ salute you.</frag>
-    <frag id="45016017" type="vs">Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.</frag>
-    <frag id="45016018" type="vs">For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.</frag>
-    <frag id="45016019" type="vs">For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.</frag>
-    <frag id="45016020" type="vs">And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.</frag>
-    <frag id="45016021" type="vs">Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.</frag>
-    <frag id="45016022" type="vs">I Tertius, who wrote this epistle, salute you in the Lord.</frag>
-    <frag id="45016023" type="vs">Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.</frag>
-    <frag id="45016024" type="vs">The grace of our Lord Jesus Christ be with you all. Amen.</frag>
-    <frag id="45016025" type="vs">Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,</frag>
-    <frag id="45016026" type="vs">But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:</frag>
-    <frag id="45016027" type="vs">To God only wise, be glory through Jesus Christ for ever. Amen.</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Romans" id="45" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="45001">
+      <fragments>
+        <fragment id="45001001" kind="vs">Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,</fragment>
+        <fragment id="45001002" kind="vs">Which he had promised afore by his prophets in the holy scriptures,)</fragment>
+        <fragment id="45001003" kind="vs">Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;</fragment>
+        <fragment id="45001004" kind="vs">And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:</fragment>
+        <fragment id="45001005" kind="vs">By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:</fragment>
+        <fragment id="45001006" kind="vs">Among whom are ye also the called of Jesus Christ:</fragment>
+        <fragment id="45001007" kind="vs">To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.</fragment>
+        <fragment id="45001008" kind="vs">First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.</fragment>
+        <fragment id="45001009" kind="vs">For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;</fragment>
+        <fragment id="45001010" kind="vs">Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.</fragment>
+        <fragment id="45001011" kind="vs">For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;</fragment>
+        <fragment id="45001012" kind="vs">That is, that I may be comforted together with you by the mutual faith both of you and me.</fragment>
+        <fragment id="45001013" kind="vs">Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.</fragment>
+        <fragment id="45001014" kind="vs">I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.</fragment>
+        <fragment id="45001015" kind="vs">So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.</fragment>
+        <fragment id="45001016" kind="vs">For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.</fragment>
+        <fragment id="45001017" kind="vs">For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.</fragment>
+        <fragment id="45001018" kind="vs">For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;</fragment>
+        <fragment id="45001019" kind="vs">Because that which may be known of God is manifest in them; for God hath shewed it unto them.</fragment>
+        <fragment id="45001020" kind="vs">For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:</fragment>
+        <fragment id="45001021" kind="vs">Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.</fragment>
+        <fragment id="45001022" kind="vs">Professing themselves to be wise, they became fools,</fragment>
+        <fragment id="45001023" kind="vs">And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.</fragment>
+        <fragment id="45001024" kind="vs">Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:</fragment>
+        <fragment id="45001025" kind="vs">Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.</fragment>
+        <fragment id="45001026" kind="vs">For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:</fragment>
+        <fragment id="45001027" kind="vs">And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.</fragment>
+        <fragment id="45001028" kind="vs">And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;</fragment>
+        <fragment id="45001029" kind="vs">Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,</fragment>
+        <fragment id="45001030" kind="vs">Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,</fragment>
+        <fragment id="45001031" kind="vs">Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:</fragment>
+        <fragment id="45001032" kind="vs">Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45002">
+      <fragments>
+        <fragment id="45002001" kind="vs">Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.</fragment>
+        <fragment id="45002002" kind="vs">But we are sure that the judgment of God is according to truth against them which commit such things.</fragment>
+        <fragment id="45002003" kind="vs">And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?</fragment>
+        <fragment id="45002004" kind="vs">Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?</fragment>
+        <fragment id="45002005" kind="vs">But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;</fragment>
+        <fragment id="45002006" kind="vs">Who will render to every man according to his deeds:</fragment>
+        <fragment id="45002007" kind="vs">To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:</fragment>
+        <fragment id="45002008" kind="vs">But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,</fragment>
+        <fragment id="45002009" kind="vs">Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;</fragment>
+        <fragment id="45002010" kind="vs">But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:</fragment>
+        <fragment id="45002011" kind="vs">For there is no respect of persons with God.</fragment>
+        <fragment id="45002012" kind="vs">For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;</fragment>
+        <fragment id="45002013" kind="vs">For not the hearers of the law are just before God, but the doers of the law shall be justified.</fragment>
+        <fragment id="45002014" kind="vs">For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:</fragment>
+        <fragment id="45002015" kind="vs">Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)</fragment>
+        <fragment id="45002016" kind="vs">In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.</fragment>
+        <fragment id="45002017" kind="vs">Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,</fragment>
+        <fragment id="45002018" kind="vs">And knowest his will, and approvest the things that are more excellent, being instructed out of the law;</fragment>
+        <fragment id="45002019" kind="vs">And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,</fragment>
+        <fragment id="45002020" kind="vs">An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.</fragment>
+        <fragment id="45002021" kind="vs">Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?</fragment>
+        <fragment id="45002022" kind="vs">Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?</fragment>
+        <fragment id="45002023" kind="vs">Thou that makest thy boast of the law, through breaking the law dishonourest thou God?</fragment>
+        <fragment id="45002024" kind="vs">For the name of God is blasphemed among the Gentiles through you, as it is written.</fragment>
+        <fragment id="45002025" kind="vs">For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.</fragment>
+        <fragment id="45002026" kind="vs">Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?</fragment>
+        <fragment id="45002027" kind="vs">And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?</fragment>
+        <fragment id="45002028" kind="vs">For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:</fragment>
+        <fragment id="45002029" kind="vs">But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45003">
+      <fragments>
+        <fragment id="45003001" kind="vs">What advantage then hath the Jew? or what profit is there of circumcision?</fragment>
+        <fragment id="45003002" kind="vs">Much every way: chiefly, because that unto them were committed the oracles of God.</fragment>
+        <fragment id="45003003" kind="vs">For what if some did not believe? shall their unbelief make the faith of God without effect?</fragment>
+        <fragment id="45003004" kind="vs">God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.</fragment>
+        <fragment id="45003005" kind="vs">But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)</fragment>
+        <fragment id="45003006" kind="vs">God forbid: for then how shall God judge the world?</fragment>
+        <fragment id="45003007" kind="vs">For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?</fragment>
+        <fragment id="45003008" kind="vs">And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.</fragment>
+        <fragment id="45003009" kind="vs">What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;</fragment>
+        <fragment id="45003010" kind="vs">As it is written, There is none righteous, no, not one:</fragment>
+        <fragment id="45003011" kind="vs">There is none that understandeth, there is none that seeketh after God.</fragment>
+        <fragment id="45003012" kind="vs">They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.</fragment>
+        <fragment id="45003013" kind="vs">Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:</fragment>
+        <fragment id="45003014" kind="vs">Whose mouth is full of cursing and bitterness:</fragment>
+        <fragment id="45003015" kind="vs">Their feet are swift to shed blood:</fragment>
+        <fragment id="45003016" kind="vs">Destruction and misery are in their ways:</fragment>
+        <fragment id="45003017" kind="vs">And the way of peace have they not known:</fragment>
+        <fragment id="45003018" kind="vs">There is no fear of God before their eyes.</fragment>
+        <fragment id="45003019" kind="vs">Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.</fragment>
+        <fragment id="45003020" kind="vs">Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.</fragment>
+        <fragment id="45003021" kind="vs">But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;</fragment>
+        <fragment id="45003022" kind="vs">Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:</fragment>
+        <fragment id="45003023" kind="vs">For all have sinned, and come short of the glory of God;</fragment>
+        <fragment id="45003024" kind="vs">Being justified freely by his grace through the redemption that is in Christ Jesus:</fragment>
+        <fragment id="45003025" kind="vs">Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;</fragment>
+        <fragment id="45003026" kind="vs">To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.</fragment>
+        <fragment id="45003027" kind="vs">Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.</fragment>
+        <fragment id="45003028" kind="vs">Therefore we conclude that a man is justified by faith without the deeds of the law.</fragment>
+        <fragment id="45003029" kind="vs">Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:</fragment>
+        <fragment id="45003030" kind="vs">Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.</fragment>
+        <fragment id="45003031" kind="vs">Do we then make void the law through faith? God forbid: yea, we establish the law.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45004">
+      <fragments>
+        <fragment id="45004001" kind="vs">What shall we say then that Abraham our father, as pertaining to the flesh, hath found?</fragment>
+        <fragment id="45004002" kind="vs">For if Abraham were justified by works, he hath whereof to glory; but not before God.</fragment>
+        <fragment id="45004003" kind="vs">For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.</fragment>
+        <fragment id="45004004" kind="vs">Now to him that worketh is the reward not reckoned of grace, but of debt.</fragment>
+        <fragment id="45004005" kind="vs">But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.</fragment>
+        <fragment id="45004006" kind="vs">Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,</fragment>
+        <fragment id="45004007" kind="vs">Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.</fragment>
+        <fragment id="45004008" kind="vs">Blessed is the man to whom the Lord will not impute sin.</fragment>
+        <fragment id="45004009" kind="vs">Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.</fragment>
+        <fragment id="45004010" kind="vs">How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.</fragment>
+        <fragment id="45004011" kind="vs">And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:</fragment>
+        <fragment id="45004012" kind="vs">And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.</fragment>
+        <fragment id="45004013" kind="vs">For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.</fragment>
+        <fragment id="45004014" kind="vs">For if they which are of the law be heirs, faith is made void, and the promise made of none effect:</fragment>
+        <fragment id="45004015" kind="vs">Because the law worketh wrath: for where no law is, there is no transgression.</fragment>
+        <fragment id="45004016" kind="vs">Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,</fragment>
+        <fragment id="45004017" kind="vs">As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were.</fragment>
+        <fragment id="45004018" kind="vs">Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be.</fragment>
+        <fragment id="45004019" kind="vs">And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara's womb:</fragment>
+        <fragment id="45004020" kind="vs">He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;</fragment>
+        <fragment id="45004021" kind="vs">And being fully persuaded that, what he had promised, he was able also to perform.</fragment>
+        <fragment id="45004022" kind="vs">And therefore it was imputed to him for righteousness.</fragment>
+        <fragment id="45004023" kind="vs">Now it was not written for his sake alone, that it was imputed to him;</fragment>
+        <fragment id="45004024" kind="vs">But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;</fragment>
+        <fragment id="45004025" kind="vs">Who was delivered for our offences, and was raised again for our justification.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45005">
+      <fragments>
+        <fragment id="45005001" kind="vs">Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:</fragment>
+        <fragment id="45005002" kind="vs">By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.</fragment>
+        <fragment id="45005003" kind="vs">And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;</fragment>
+        <fragment id="45005004" kind="vs">And patience, experience; and experience, hope:</fragment>
+        <fragment id="45005005" kind="vs">And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.</fragment>
+        <fragment id="45005006" kind="vs">For when we were yet without strength, in due time Christ died for the ungodly.</fragment>
+        <fragment id="45005007" kind="vs">For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.</fragment>
+        <fragment id="45005008" kind="vs">But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.</fragment>
+        <fragment id="45005009" kind="vs">Much more then, being now justified by his blood, we shall be saved from wrath through him.</fragment>
+        <fragment id="45005010" kind="vs">For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.</fragment>
+        <fragment id="45005011" kind="vs">And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.</fragment>
+        <fragment id="45005012" kind="vs">Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:</fragment>
+        <fragment id="45005013" kind="vs">For until the law sin was in the world: but sin is not imputed when there is no law.</fragment>
+        <fragment id="45005014" kind="vs">Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.</fragment>
+        <fragment id="45005015" kind="vs">But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.</fragment>
+        <fragment id="45005016" kind="vs">And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.</fragment>
+        <fragment id="45005017" kind="vs">For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)</fragment>
+        <fragment id="45005018" kind="vs">Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.</fragment>
+        <fragment id="45005019" kind="vs">For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.</fragment>
+        <fragment id="45005020" kind="vs">Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:</fragment>
+        <fragment id="45005021" kind="vs">That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45006">
+      <fragments>
+        <fragment id="45006001" kind="vs">What shall we say then? Shall we continue in sin, that grace may abound?</fragment>
+        <fragment id="45006002" kind="vs">God forbid. How shall we, that are dead to sin, live any longer therein?</fragment>
+        <fragment id="45006003" kind="vs">Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?</fragment>
+        <fragment id="45006004" kind="vs">Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.</fragment>
+        <fragment id="45006005" kind="vs">For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:</fragment>
+        <fragment id="45006006" kind="vs">Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.</fragment>
+        <fragment id="45006007" kind="vs">For he that is dead is freed from sin.</fragment>
+        <fragment id="45006008" kind="vs">Now if we be dead with Christ, we believe that we shall also live with him:</fragment>
+        <fragment id="45006009" kind="vs">Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.</fragment>
+        <fragment id="45006010" kind="vs">For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.</fragment>
+        <fragment id="45006011" kind="vs">Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.</fragment>
+        <fragment id="45006012" kind="vs">Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.</fragment>
+        <fragment id="45006013" kind="vs">Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.</fragment>
+        <fragment id="45006014" kind="vs">For sin shall not have dominion over you: for ye are not under the law, but under grace.</fragment>
+        <fragment id="45006015" kind="vs">What then? shall we sin, because we are not under the law, but under grace? God forbid.</fragment>
+        <fragment id="45006016" kind="vs">Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?</fragment>
+        <fragment id="45006017" kind="vs">But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.</fragment>
+        <fragment id="45006018" kind="vs">Being then made free from sin, ye became the servants of righteousness.</fragment>
+        <fragment id="45006019" kind="vs">I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.</fragment>
+        <fragment id="45006020" kind="vs">For when ye were the servants of sin, ye were free from righteousness.</fragment>
+        <fragment id="45006021" kind="vs">What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.</fragment>
+        <fragment id="45006022" kind="vs">But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.</fragment>
+        <fragment id="45006023" kind="vs">For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45007">
+      <fragments>
+        <fragment id="45007001" kind="vs">Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?</fragment>
+        <fragment id="45007002" kind="vs">For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.</fragment>
+        <fragment id="45007003" kind="vs">So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.</fragment>
+        <fragment id="45007004" kind="vs">Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.</fragment>
+        <fragment id="45007005" kind="vs">For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.</fragment>
+        <fragment id="45007006" kind="vs">But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.</fragment>
+        <fragment id="45007007" kind="vs">What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.</fragment>
+        <fragment id="45007008" kind="vs">But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.</fragment>
+        <fragment id="45007009" kind="vs">For I was alive without the law once: but when the commandment came, sin revived, and I died.</fragment>
+        <fragment id="45007010" kind="vs">And the commandment, which was ordained to life, I found to be unto death.</fragment>
+        <fragment id="45007011" kind="vs">For sin, taking occasion by the commandment, deceived me, and by it slew me.</fragment>
+        <fragment id="45007012" kind="vs">Wherefore the law is holy, and the commandment holy, and just, and good.</fragment>
+        <fragment id="45007013" kind="vs">Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.</fragment>
+        <fragment id="45007014" kind="vs">For we know that the law is spiritual: but I am carnal, sold under sin.</fragment>
+        <fragment id="45007015" kind="vs">For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.</fragment>
+        <fragment id="45007016" kind="vs">If then I do that which I would not, I consent unto the law that it is good.</fragment>
+        <fragment id="45007017" kind="vs">Now then it is no more I that do it, but sin that dwelleth in me.</fragment>
+        <fragment id="45007018" kind="vs">For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.</fragment>
+        <fragment id="45007019" kind="vs">For the good that I would I do not: but the evil which I would not, that I do.</fragment>
+        <fragment id="45007020" kind="vs">Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.</fragment>
+        <fragment id="45007021" kind="vs">I find then a law, that, when I would do good, evil is present with me.</fragment>
+        <fragment id="45007022" kind="vs">For I delight in the law of God after the inward man:</fragment>
+        <fragment id="45007023" kind="vs">But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.</fragment>
+        <fragment id="45007024" kind="vs">O wretched man that I am! who shall deliver me from the body of this death?</fragment>
+        <fragment id="45007025" kind="vs">I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45008">
+      <fragments>
+        <fragment id="45008001" kind="vs">There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.</fragment>
+        <fragment id="45008002" kind="vs">For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</fragment>
+        <fragment id="45008003" kind="vs">For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:</fragment>
+        <fragment id="45008004" kind="vs">That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</fragment>
+        <fragment id="45008005" kind="vs">For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.</fragment>
+        <fragment id="45008006" kind="vs">For to be carnally minded is death; but to be spiritually minded is life and peace.</fragment>
+        <fragment id="45008007" kind="vs">Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.</fragment>
+        <fragment id="45008008" kind="vs">So then they that are in the flesh cannot please God.</fragment>
+        <fragment id="45008009" kind="vs">But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.</fragment>
+        <fragment id="45008010" kind="vs">And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.</fragment>
+        <fragment id="45008011" kind="vs">But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.</fragment>
+        <fragment id="45008012" kind="vs">Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.</fragment>
+        <fragment id="45008013" kind="vs">For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.</fragment>
+        <fragment id="45008014" kind="vs">For as many as are led by the Spirit of God, they are the sons of God.</fragment>
+        <fragment id="45008015" kind="vs">For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.</fragment>
+        <fragment id="45008016" kind="vs">The Spirit itself beareth witness with our spirit, that we are the children of God:</fragment>
+        <fragment id="45008017" kind="vs">And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.</fragment>
+        <fragment id="45008018" kind="vs">For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.</fragment>
+        <fragment id="45008019" kind="vs">For the earnest expectation of the creature waiteth for the manifestation of the sons of God.</fragment>
+        <fragment id="45008020" kind="vs">For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,</fragment>
+        <fragment id="45008021" kind="vs">Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.</fragment>
+        <fragment id="45008022" kind="vs">For we know that the whole creation groaneth and travaileth in pain together until now.</fragment>
+        <fragment id="45008023" kind="vs">And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.</fragment>
+        <fragment id="45008024" kind="vs">For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?</fragment>
+        <fragment id="45008025" kind="vs">But if we hope for that we see not, then do we with patience wait for it.</fragment>
+        <fragment id="45008026" kind="vs">Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.</fragment>
+        <fragment id="45008027" kind="vs">And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.</fragment>
+        <fragment id="45008028" kind="vs">And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</fragment>
+        <fragment id="45008029" kind="vs">For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.</fragment>
+        <fragment id="45008030" kind="vs">Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.</fragment>
+        <fragment id="45008031" kind="vs">What shall we then say to these things? If God be for us, who can be against us?</fragment>
+        <fragment id="45008032" kind="vs">He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?</fragment>
+        <fragment id="45008033" kind="vs">Who shall lay any thing to the charge of God's elect? It is God that justifieth.</fragment>
+        <fragment id="45008034" kind="vs">Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.</fragment>
+        <fragment id="45008035" kind="vs">Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?</fragment>
+        <fragment id="45008036" kind="vs">As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.</fragment>
+        <fragment id="45008037" kind="vs">Nay, in all these things we are more than conquerors through him that loved us.</fragment>
+        <fragment id="45008038" kind="vs">For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,</fragment>
+        <fragment id="45008039" kind="vs">Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45009">
+      <fragments>
+        <fragment id="45009001" kind="vs">I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,</fragment>
+        <fragment id="45009002" kind="vs">That I have great heaviness and continual sorrow in my heart.</fragment>
+        <fragment id="45009003" kind="vs">For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:</fragment>
+        <fragment id="45009004" kind="vs">Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;</fragment>
+        <fragment id="45009005" kind="vs">Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.</fragment>
+        <fragment id="45009006" kind="vs">Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:</fragment>
+        <fragment id="45009007" kind="vs">Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.</fragment>
+        <fragment id="45009008" kind="vs">That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.</fragment>
+        <fragment id="45009009" kind="vs">For this is the word of promise, At this time will I come, and Sara shall have a son.</fragment>
+        <fragment id="45009010" kind="vs">And not only this; but when Rebecca also had conceived by one, even by our father Isaac;</fragment>
+        <fragment id="45009011" kind="vs">For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)</fragment>
+        <fragment id="45009012" kind="vs">It was said unto her, The elder shall serve the younger.</fragment>
+        <fragment id="45009013" kind="vs">As it is written, Jacob have I loved, but Esau have I hated.</fragment>
+        <fragment id="45009014" kind="vs">What shall we say then? Is there unrighteousness with God? God forbid.</fragment>
+        <fragment id="45009015" kind="vs">For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.</fragment>
+        <fragment id="45009016" kind="vs">So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.</fragment>
+        <fragment id="45009017" kind="vs">For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.</fragment>
+        <fragment id="45009018" kind="vs">Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.</fragment>
+        <fragment id="45009019" kind="vs">Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?</fragment>
+        <fragment id="45009020" kind="vs">Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?</fragment>
+        <fragment id="45009021" kind="vs">Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?</fragment>
+        <fragment id="45009022" kind="vs">What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:</fragment>
+        <fragment id="45009023" kind="vs">And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,</fragment>
+        <fragment id="45009024" kind="vs">Even us, whom he hath called, not of the Jews only, but also of the Gentiles?</fragment>
+        <fragment id="45009025" kind="vs">As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.</fragment>
+        <fragment id="45009026" kind="vs">And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.</fragment>
+        <fragment id="45009027" kind="vs">Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:</fragment>
+        <fragment id="45009028" kind="vs">For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.</fragment>
+        <fragment id="45009029" kind="vs">And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.</fragment>
+        <fragment id="45009030" kind="vs">What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.</fragment>
+        <fragment id="45009031" kind="vs">But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.</fragment>
+        <fragment id="45009032" kind="vs">Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;</fragment>
+        <fragment id="45009033" kind="vs">As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45010">
+      <fragments>
+        <fragment id="45010001" kind="vs">Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.</fragment>
+        <fragment id="45010002" kind="vs">For I bear them record that they have a zeal of God, but not according to knowledge.</fragment>
+        <fragment id="45010003" kind="vs">For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.</fragment>
+        <fragment id="45010004" kind="vs">For Christ is the end of the law for righteousness to every one that believeth.</fragment>
+        <fragment id="45010005" kind="vs">For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.</fragment>
+        <fragment id="45010006" kind="vs">But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)</fragment>
+        <fragment id="45010007" kind="vs">Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)</fragment>
+        <fragment id="45010008" kind="vs">But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;</fragment>
+        <fragment id="45010009" kind="vs">That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</fragment>
+        <fragment id="45010010" kind="vs">For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.</fragment>
+        <fragment id="45010011" kind="vs">For the scripture saith, Whosoever believeth on him shall not be ashamed.</fragment>
+        <fragment id="45010012" kind="vs">For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.</fragment>
+        <fragment id="45010013" kind="vs">For whosoever shall call upon the name of the Lord shall be saved.</fragment>
+        <fragment id="45010014" kind="vs">How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?</fragment>
+        <fragment id="45010015" kind="vs">And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!</fragment>
+        <fragment id="45010016" kind="vs">But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?</fragment>
+        <fragment id="45010017" kind="vs">So then faith cometh by hearing, and hearing by the word of God.</fragment>
+        <fragment id="45010018" kind="vs">But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.</fragment>
+        <fragment id="45010019" kind="vs">But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.</fragment>
+        <fragment id="45010020" kind="vs">But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.</fragment>
+        <fragment id="45010021" kind="vs">But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45011">
+      <fragments>
+        <fragment id="45011001" kind="vs">I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.</fragment>
+        <fragment id="45011002" kind="vs">God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,</fragment>
+        <fragment id="45011003" kind="vs">Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.</fragment>
+        <fragment id="45011004" kind="vs">But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.</fragment>
+        <fragment id="45011005" kind="vs">Even so then at this present time also there is a remnant according to the election of grace.</fragment>
+        <fragment id="45011006" kind="vs">And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.</fragment>
+        <fragment id="45011007" kind="vs">What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded</fragment>
+        <fragment id="45011008" kind="vs">According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.</fragment>
+        <fragment id="45011009" kind="vs">And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:</fragment>
+        <fragment id="45011010" kind="vs">Let their eyes be darkened, that they may not see, and bow down their back alway.</fragment>
+        <fragment id="45011011" kind="vs">I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.</fragment>
+        <fragment id="45011012" kind="vs">Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?</fragment>
+        <fragment id="45011013" kind="vs">For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:</fragment>
+        <fragment id="45011014" kind="vs">If by any means I may provoke to emulation them which are my flesh, and might save some of them.</fragment>
+        <fragment id="45011015" kind="vs">For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?</fragment>
+        <fragment id="45011016" kind="vs">For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.</fragment>
+        <fragment id="45011017" kind="vs">And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;</fragment>
+        <fragment id="45011018" kind="vs">Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.</fragment>
+        <fragment id="45011019" kind="vs">Thou wilt say then, The branches were broken off, that I might be graffed in.</fragment>
+        <fragment id="45011020" kind="vs">Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:</fragment>
+        <fragment id="45011021" kind="vs">For if God spared not the natural branches, take heed lest he also spare not thee.</fragment>
+        <fragment id="45011022" kind="vs">Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off.</fragment>
+        <fragment id="45011023" kind="vs">And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.</fragment>
+        <fragment id="45011024" kind="vs">For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?</fragment>
+        <fragment id="45011025" kind="vs">For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.</fragment>
+        <fragment id="45011026" kind="vs">And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:</fragment>
+        <fragment id="45011027" kind="vs">For this is my covenant unto them, when I shall take away their sins.</fragment>
+        <fragment id="45011028" kind="vs">As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers' sakes.</fragment>
+        <fragment id="45011029" kind="vs">For the gifts and calling of God are without repentance.</fragment>
+        <fragment id="45011030" kind="vs">For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:</fragment>
+        <fragment id="45011031" kind="vs">Even so have these also now not believed, that through your mercy they also may obtain mercy.</fragment>
+        <fragment id="45011032" kind="vs">For God hath concluded them all in unbelief, that he might have mercy upon all.</fragment>
+        <fragment id="45011033" kind="vs">O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!</fragment>
+        <fragment id="45011034" kind="vs">For who hath known the mind of the Lord? or who hath been his counsellor?</fragment>
+        <fragment id="45011035" kind="vs">Or who hath first given to him, and it shall be recompensed unto him again?</fragment>
+        <fragment id="45011036" kind="vs">For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45012">
+      <fragments>
+        <fragment id="45012001" kind="vs">I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.</fragment>
+        <fragment id="45012002" kind="vs">And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.</fragment>
+        <fragment id="45012003" kind="vs">For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.</fragment>
+        <fragment id="45012004" kind="vs">For as we have many members in one body, and all members have not the same office:</fragment>
+        <fragment id="45012005" kind="vs">So we, being many, are one body in Christ, and every one members one of another.</fragment>
+        <fragment id="45012006" kind="vs">Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;</fragment>
+        <fragment id="45012007" kind="vs">Or ministry, let us wait on our ministering: or he that teacheth, on teaching;</fragment>
+        <fragment id="45012008" kind="vs">Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.</fragment>
+        <fragment id="45012009" kind="vs">Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.</fragment>
+        <fragment id="45012010" kind="vs">Be kindly affectioned one to another with brotherly love; in honour preferring one another;</fragment>
+        <fragment id="45012011" kind="vs">Not slothful in business; fervent in spirit; serving the Lord;</fragment>
+        <fragment id="45012012" kind="vs">Rejoicing in hope; patient in tribulation; continuing instant in prayer;</fragment>
+        <fragment id="45012013" kind="vs">Distributing to the necessity of saints; given to hospitality.</fragment>
+        <fragment id="45012014" kind="vs">Bless them which persecute you: bless, and curse not.</fragment>
+        <fragment id="45012015" kind="vs">Rejoice with them that do rejoice, and weep with them that weep.</fragment>
+        <fragment id="45012016" kind="vs">Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.</fragment>
+        <fragment id="45012017" kind="vs">Recompense to no man evil for evil. Provide things honest in the sight of all men.</fragment>
+        <fragment id="45012018" kind="vs">If it be possible, as much as lieth in you, live peaceably with all men.</fragment>
+        <fragment id="45012019" kind="vs">Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.</fragment>
+        <fragment id="45012020" kind="vs">Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.</fragment>
+        <fragment id="45012021" kind="vs">Be not overcome of evil, but overcome evil with good.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45013">
+      <fragments>
+        <fragment id="45013001" kind="vs">Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.</fragment>
+        <fragment id="45013002" kind="vs">Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.</fragment>
+        <fragment id="45013003" kind="vs">For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:</fragment>
+        <fragment id="45013004" kind="vs">For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.</fragment>
+        <fragment id="45013005" kind="vs">Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.</fragment>
+        <fragment id="45013006" kind="vs">For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.</fragment>
+        <fragment id="45013007" kind="vs">Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.</fragment>
+        <fragment id="45013008" kind="vs">Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.</fragment>
+        <fragment id="45013009" kind="vs">For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.</fragment>
+        <fragment id="45013010" kind="vs">Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.</fragment>
+        <fragment id="45013011" kind="vs">And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.</fragment>
+        <fragment id="45013012" kind="vs">The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.</fragment>
+        <fragment id="45013013" kind="vs">Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.</fragment>
+        <fragment id="45013014" kind="vs">But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45014">
+      <fragments>
+        <fragment id="45014001" kind="vs">Him that is weak in the faith receive ye, but not to doubtful disputations.</fragment>
+        <fragment id="45014002" kind="vs">For one believeth that he may eat all things: another, who is weak, eateth herbs.</fragment>
+        <fragment id="45014003" kind="vs">Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.</fragment>
+        <fragment id="45014004" kind="vs">Who art thou that judgest another man's servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.</fragment>
+        <fragment id="45014005" kind="vs">One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.</fragment>
+        <fragment id="45014006" kind="vs">He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.</fragment>
+        <fragment id="45014007" kind="vs">For none of us liveth to himself, and no man dieth to himself.</fragment>
+        <fragment id="45014008" kind="vs">For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.</fragment>
+        <fragment id="45014009" kind="vs">For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.</fragment>
+        <fragment id="45014010" kind="vs">But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.</fragment>
+        <fragment id="45014011" kind="vs">For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.</fragment>
+        <fragment id="45014012" kind="vs">So then every one of us shall give account of himself to God.</fragment>
+        <fragment id="45014013" kind="vs">Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way.</fragment>
+        <fragment id="45014014" kind="vs">I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.</fragment>
+        <fragment id="45014015" kind="vs">But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.</fragment>
+        <fragment id="45014016" kind="vs">Let not then your good be evil spoken of:</fragment>
+        <fragment id="45014017" kind="vs">For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.</fragment>
+        <fragment id="45014018" kind="vs">For he that in these things serveth Christ is acceptable to God, and approved of men.</fragment>
+        <fragment id="45014019" kind="vs">Let us therefore follow after the things which make for peace, and things wherewith one may edify another.</fragment>
+        <fragment id="45014020" kind="vs">For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence.</fragment>
+        <fragment id="45014021" kind="vs">It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak.</fragment>
+        <fragment id="45014022" kind="vs">Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth.</fragment>
+        <fragment id="45014023" kind="vs">And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45015">
+      <fragments>
+        <fragment id="45015001" kind="vs">We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.</fragment>
+        <fragment id="45015002" kind="vs">Let every one of us please his neighbour for his good to edification.</fragment>
+        <fragment id="45015003" kind="vs">For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.</fragment>
+        <fragment id="45015004" kind="vs">For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.</fragment>
+        <fragment id="45015005" kind="vs">Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:</fragment>
+        <fragment id="45015006" kind="vs">That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.</fragment>
+        <fragment id="45015007" kind="vs">Wherefore receive ye one another, as Christ also received us to the glory of God.</fragment>
+        <fragment id="45015008" kind="vs">Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:</fragment>
+        <fragment id="45015009" kind="vs">And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.</fragment>
+        <fragment id="45015010" kind="vs">And again he saith, Rejoice, ye Gentiles, with his people.</fragment>
+        <fragment id="45015011" kind="vs">And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.</fragment>
+        <fragment id="45015012" kind="vs">And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.</fragment>
+        <fragment id="45015013" kind="vs">Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.</fragment>
+        <fragment id="45015014" kind="vs">And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.</fragment>
+        <fragment id="45015015" kind="vs">Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,</fragment>
+        <fragment id="45015016" kind="vs">That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.</fragment>
+        <fragment id="45015017" kind="vs">I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.</fragment>
+        <fragment id="45015018" kind="vs">For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,</fragment>
+        <fragment id="45015019" kind="vs">Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.</fragment>
+        <fragment id="45015020" kind="vs">Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:</fragment>
+        <fragment id="45015021" kind="vs">But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.</fragment>
+        <fragment id="45015022" kind="vs">For which cause also I have been much hindered from coming to you.</fragment>
+        <fragment id="45015023" kind="vs">But now having no more place in these parts, and having a great desire these many years to come unto you;</fragment>
+        <fragment id="45015024" kind="vs">Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.</fragment>
+        <fragment id="45015025" kind="vs">But now I go unto Jerusalem to minister unto the saints.</fragment>
+        <fragment id="45015026" kind="vs">For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.</fragment>
+        <fragment id="45015027" kind="vs">It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.</fragment>
+        <fragment id="45015028" kind="vs">When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.</fragment>
+        <fragment id="45015029" kind="vs">And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.</fragment>
+        <fragment id="45015030" kind="vs">Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;</fragment>
+        <fragment id="45015031" kind="vs">That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;</fragment>
+        <fragment id="45015032" kind="vs">That I may come unto you with joy by the will of God, and may with you be refreshed.</fragment>
+        <fragment id="45015033" kind="vs">Now the God of peace be with you all. Amen.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="45016">
+      <fragments>
+        <fragment id="45016001" kind="vs">I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:</fragment>
+        <fragment id="45016002" kind="vs">That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.</fragment>
+        <fragment id="45016003" kind="vs">Greet Priscilla and Aquila my helpers in Christ Jesus:</fragment>
+        <fragment id="45016004" kind="vs">Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.</fragment>
+        <fragment id="45016005" kind="vs">Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.</fragment>
+        <fragment id="45016006" kind="vs">Greet Mary, who bestowed much labour on us.</fragment>
+        <fragment id="45016007" kind="vs">Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.</fragment>
+        <fragment id="45016008" kind="vs">Greet Amplias my beloved in the Lord.</fragment>
+        <fragment id="45016009" kind="vs">Salute Urbane, our helper in Christ, and Stachys my beloved.</fragment>
+        <fragment id="45016010" kind="vs">Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.</fragment>
+        <fragment id="45016011" kind="vs">Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.</fragment>
+        <fragment id="45016012" kind="vs">Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.</fragment>
+        <fragment id="45016013" kind="vs">Salute Rufus chosen in the Lord, and his mother and mine.</fragment>
+        <fragment id="45016014" kind="vs">Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.</fragment>
+        <fragment id="45016015" kind="vs">Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.</fragment>
+        <fragment id="45016016" kind="vs">Salute one another with an holy kiss. The churches of Christ salute you.</fragment>
+        <fragment id="45016017" kind="vs">Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.</fragment>
+        <fragment id="45016018" kind="vs">For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.</fragment>
+        <fragment id="45016019" kind="vs">For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.</fragment>
+        <fragment id="45016020" kind="vs">And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.</fragment>
+        <fragment id="45016021" kind="vs">Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.</fragment>
+        <fragment id="45016022" kind="vs">I Tertius, who wrote this epistle, salute you in the Lord.</fragment>
+        <fragment id="45016023" kind="vs">Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.</fragment>
+        <fragment id="45016024" kind="vs">The grace of our Lord Jesus Christ be with you all. Amen.</fragment>
+        <fragment id="45016025" kind="vs">Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,</fragment>
+        <fragment id="45016026" kind="vs">But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:</fragment>
+        <fragment id="45016027" kind="vs">To God only wise, be glory through Jesus Christ for ever. Amen.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

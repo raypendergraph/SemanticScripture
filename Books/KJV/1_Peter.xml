@@ -1,120 +1,130 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="1 Peter" id="60"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="60001">
-    <frag id="60001001" type="vs">Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,</frag>
-    <frag id="60001002" type="vs">Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.</frag>
-    <frag id="60001003" type="vs">Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,</frag>
-    <frag id="60001004" type="vs">To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,</frag>
-    <frag id="60001005" type="vs">Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.</frag>
-    <frag id="60001006" type="vs">Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:</frag>
-    <frag id="60001007" type="vs">That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:</frag>
-    <frag id="60001008" type="vs">Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:</frag>
-    <frag id="60001009" type="vs">Receiving the end of your faith, even the salvation of your souls.</frag>
-    <frag id="60001010" type="vs">Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:</frag>
-    <frag id="60001011" type="vs">Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.</frag>
-    <frag id="60001012" type="vs">Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.</frag>
-    <frag id="60001013" type="vs">Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;</frag>
-    <frag id="60001014" type="vs">As obedient children, not fashioning yourselves according to the former lusts in your ignorance:</frag>
-    <frag id="60001015" type="vs">But as he which hath called you is holy, so be ye holy in all manner of conversation;</frag>
-    <frag id="60001016" type="vs">Because it is written, Be ye holy; for I am holy.</frag>
-    <frag id="60001017" type="vs">And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:</frag>
-    <frag id="60001018" type="vs">Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;</frag>
-    <frag id="60001019" type="vs">But with the precious blood of Christ, as of a lamb without blemish and without spot:</frag>
-    <frag id="60001020" type="vs">Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,</frag>
-    <frag id="60001021" type="vs">Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.</frag>
-    <frag id="60001022" type="vs">Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:</frag>
-    <frag id="60001023" type="vs">Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.</frag>
-    <frag id="60001024" type="vs">For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:</frag>
-    <frag id="60001025" type="vs">But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.</frag>
-  </sec>
-  <sec type="ch" id="60002">
-    <frag id="60002001" type="vs">Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,</frag>
-    <frag id="60002002" type="vs">As newborn babes, desire the sincere milk of the word, that ye may grow thereby:</frag>
-    <frag id="60002003" type="vs">If so be ye have tasted that the Lord is gracious.</frag>
-    <frag id="60002004" type="vs">To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,</frag>
-    <frag id="60002005" type="vs">Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.</frag>
-    <frag id="60002006" type="vs">Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.</frag>
-    <frag id="60002007" type="vs">Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,</frag>
-    <frag id="60002008" type="vs">And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.</frag>
-    <frag id="60002009" type="vs">But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:</frag>
-    <frag id="60002010" type="vs">Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.</frag>
-    <frag id="60002011" type="vs">Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;</frag>
-    <frag id="60002012" type="vs">Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.</frag>
-    <frag id="60002013" type="vs">Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;</frag>
-    <frag id="60002014" type="vs">Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well.</frag>
-    <frag id="60002015" type="vs">For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:</frag>
-    <frag id="60002016" type="vs">As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.</frag>
-    <frag id="60002017" type="vs">Honour all men. Love the brotherhood. Fear God. Honour the king.</frag>
-    <frag id="60002018" type="vs">Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.</frag>
-    <frag id="60002019" type="vs">For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.</frag>
-    <frag id="60002020" type="vs">For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.</frag>
-    <frag id="60002021" type="vs">For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:</frag>
-    <frag id="60002022" type="vs">Who did no sin, neither was guile found in his mouth:</frag>
-    <frag id="60002023" type="vs">Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:</frag>
-    <frag id="60002024" type="vs">Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.</frag>
-    <frag id="60002025" type="vs">For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.</frag>
-  </sec>
-  <sec type="ch" id="60003">
-    <frag id="60003001" type="vs">Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;</frag>
-    <frag id="60003002" type="vs">While they behold your chaste conversation coupled with fear.</frag>
-    <frag id="60003003" type="vs">Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;</frag>
-    <frag id="60003004" type="vs">But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.</frag>
-    <frag id="60003005" type="vs">For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:</frag>
-    <frag id="60003006" type="vs">Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.</frag>
-    <frag id="60003007" type="vs">Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.</frag>
-    <frag id="60003008" type="vs">Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:</frag>
-    <frag id="60003009" type="vs">Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.</frag>
-    <frag id="60003010" type="vs">For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:</frag>
-    <frag id="60003011" type="vs">Let him eschew evil, and do good; let him seek peace, and ensue it.</frag>
-    <frag id="60003012" type="vs">For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.</frag>
-    <frag id="60003013" type="vs">And who is he that will harm you, if ye be followers of that which is good?</frag>
-    <frag id="60003014" type="vs">But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled;</frag>
-    <frag id="60003015" type="vs">But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:</frag>
-    <frag id="60003016" type="vs">Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.</frag>
-    <frag id="60003017" type="vs">For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.</frag>
-    <frag id="60003018" type="vs">For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:</frag>
-    <frag id="60003019" type="vs">By which also he went and preached unto the spirits in prison;</frag>
-    <frag id="60003020" type="vs">Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.</frag>
-    <frag id="60003021" type="vs">The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:</frag>
-    <frag id="60003022" type="vs">Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.</frag>
-  </sec>
-  <sec type="ch" id="60004">
-    <frag id="60004001" type="vs">Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;</frag>
-    <frag id="60004002" type="vs">That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.</frag>
-    <frag id="60004003" type="vs">For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:</frag>
-    <frag id="60004004" type="vs">Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:</frag>
-    <frag id="60004005" type="vs">Who shall give account to him that is ready to judge the quick and the dead.</frag>
-    <frag id="60004006" type="vs">For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.</frag>
-    <frag id="60004007" type="vs">But the end of all things is at hand: be ye therefore sober, and watch unto prayer.</frag>
-    <frag id="60004008" type="vs">And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.</frag>
-    <frag id="60004009" type="vs">Use hospitality one to another without grudging.</frag>
-    <frag id="60004010" type="vs">As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.</frag>
-    <frag id="60004011" type="vs">If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.</frag>
-    <frag id="60004012" type="vs">Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:</frag>
-    <frag id="60004013" type="vs">But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.</frag>
-    <frag id="60004014" type="vs">If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.</frag>
-    <frag id="60004015" type="vs">But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.</frag>
-    <frag id="60004016" type="vs">Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.</frag>
-    <frag id="60004017" type="vs">For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?</frag>
-    <frag id="60004018" type="vs">And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?</frag>
-    <frag id="60004019" type="vs">Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.</frag>
-  </sec>
-  <sec type="ch" id="60005">
-    <frag id="60005001" type="vs">The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:</frag>
-    <frag id="60005002" type="vs">Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;</frag>
-    <frag id="60005003" type="vs">Neither as being lords over God's heritage, but being ensamples to the flock.</frag>
-    <frag id="60005004" type="vs">And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.</frag>
-    <frag id="60005005" type="vs">Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.</frag>
-    <frag id="60005006" type="vs">Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:</frag>
-    <frag id="60005007" type="vs">Casting all your care upon him; for he careth for you.</frag>
-    <frag id="60005008" type="vs">Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</frag>
-    <frag id="60005009" type="vs">Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.</frag>
-    <frag id="60005010" type="vs">But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.</frag>
-    <frag id="60005011" type="vs">To him be glory and dominion for ever and ever. Amen.</frag>
-    <frag id="60005012" type="vs">By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.</frag>
-    <frag id="60005013" type="vs">The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.</frag>
-    <frag id="60005014" type="vs">Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="1 Peter" id="60" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="60001">
+      <fragments>
+        <fragment id="60001001" kind="vs">Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,</fragment>
+        <fragment id="60001002" kind="vs">Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.</fragment>
+        <fragment id="60001003" kind="vs">Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,</fragment>
+        <fragment id="60001004" kind="vs">To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,</fragment>
+        <fragment id="60001005" kind="vs">Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.</fragment>
+        <fragment id="60001006" kind="vs">Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:</fragment>
+        <fragment id="60001007" kind="vs">That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:</fragment>
+        <fragment id="60001008" kind="vs">Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:</fragment>
+        <fragment id="60001009" kind="vs">Receiving the end of your faith, even the salvation of your souls.</fragment>
+        <fragment id="60001010" kind="vs">Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:</fragment>
+        <fragment id="60001011" kind="vs">Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.</fragment>
+        <fragment id="60001012" kind="vs">Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.</fragment>
+        <fragment id="60001013" kind="vs">Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;</fragment>
+        <fragment id="60001014" kind="vs">As obedient children, not fashioning yourselves according to the former lusts in your ignorance:</fragment>
+        <fragment id="60001015" kind="vs">But as he which hath called you is holy, so be ye holy in all manner of conversation;</fragment>
+        <fragment id="60001016" kind="vs">Because it is written, Be ye holy; for I am holy.</fragment>
+        <fragment id="60001017" kind="vs">And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:</fragment>
+        <fragment id="60001018" kind="vs">Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;</fragment>
+        <fragment id="60001019" kind="vs">But with the precious blood of Christ, as of a lamb without blemish and without spot:</fragment>
+        <fragment id="60001020" kind="vs">Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,</fragment>
+        <fragment id="60001021" kind="vs">Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.</fragment>
+        <fragment id="60001022" kind="vs">Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:</fragment>
+        <fragment id="60001023" kind="vs">Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.</fragment>
+        <fragment id="60001024" kind="vs">For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:</fragment>
+        <fragment id="60001025" kind="vs">But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="60002">
+      <fragments>
+        <fragment id="60002001" kind="vs">Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,</fragment>
+        <fragment id="60002002" kind="vs">As newborn babes, desire the sincere milk of the word, that ye may grow thereby:</fragment>
+        <fragment id="60002003" kind="vs">If so be ye have tasted that the Lord is gracious.</fragment>
+        <fragment id="60002004" kind="vs">To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,</fragment>
+        <fragment id="60002005" kind="vs">Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.</fragment>
+        <fragment id="60002006" kind="vs">Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.</fragment>
+        <fragment id="60002007" kind="vs">Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,</fragment>
+        <fragment id="60002008" kind="vs">And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.</fragment>
+        <fragment id="60002009" kind="vs">But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:</fragment>
+        <fragment id="60002010" kind="vs">Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.</fragment>
+        <fragment id="60002011" kind="vs">Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;</fragment>
+        <fragment id="60002012" kind="vs">Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.</fragment>
+        <fragment id="60002013" kind="vs">Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;</fragment>
+        <fragment id="60002014" kind="vs">Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well.</fragment>
+        <fragment id="60002015" kind="vs">For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:</fragment>
+        <fragment id="60002016" kind="vs">As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.</fragment>
+        <fragment id="60002017" kind="vs">Honour all men. Love the brotherhood. Fear God. Honour the king.</fragment>
+        <fragment id="60002018" kind="vs">Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.</fragment>
+        <fragment id="60002019" kind="vs">For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.</fragment>
+        <fragment id="60002020" kind="vs">For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.</fragment>
+        <fragment id="60002021" kind="vs">For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:</fragment>
+        <fragment id="60002022" kind="vs">Who did no sin, neither was guile found in his mouth:</fragment>
+        <fragment id="60002023" kind="vs">Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:</fragment>
+        <fragment id="60002024" kind="vs">Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.</fragment>
+        <fragment id="60002025" kind="vs">For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="60003">
+      <fragments>
+        <fragment id="60003001" kind="vs">Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;</fragment>
+        <fragment id="60003002" kind="vs">While they behold your chaste conversation coupled with fear.</fragment>
+        <fragment id="60003003" kind="vs">Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;</fragment>
+        <fragment id="60003004" kind="vs">But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.</fragment>
+        <fragment id="60003005" kind="vs">For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:</fragment>
+        <fragment id="60003006" kind="vs">Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.</fragment>
+        <fragment id="60003007" kind="vs">Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.</fragment>
+        <fragment id="60003008" kind="vs">Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:</fragment>
+        <fragment id="60003009" kind="vs">Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.</fragment>
+        <fragment id="60003010" kind="vs">For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:</fragment>
+        <fragment id="60003011" kind="vs">Let him eschew evil, and do good; let him seek peace, and ensue it.</fragment>
+        <fragment id="60003012" kind="vs">For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.</fragment>
+        <fragment id="60003013" kind="vs">And who is he that will harm you, if ye be followers of that which is good?</fragment>
+        <fragment id="60003014" kind="vs">But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled;</fragment>
+        <fragment id="60003015" kind="vs">But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:</fragment>
+        <fragment id="60003016" kind="vs">Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.</fragment>
+        <fragment id="60003017" kind="vs">For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.</fragment>
+        <fragment id="60003018" kind="vs">For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:</fragment>
+        <fragment id="60003019" kind="vs">By which also he went and preached unto the spirits in prison;</fragment>
+        <fragment id="60003020" kind="vs">Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.</fragment>
+        <fragment id="60003021" kind="vs">The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:</fragment>
+        <fragment id="60003022" kind="vs">Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="60004">
+      <fragments>
+        <fragment id="60004001" kind="vs">Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;</fragment>
+        <fragment id="60004002" kind="vs">That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.</fragment>
+        <fragment id="60004003" kind="vs">For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:</fragment>
+        <fragment id="60004004" kind="vs">Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:</fragment>
+        <fragment id="60004005" kind="vs">Who shall give account to him that is ready to judge the quick and the dead.</fragment>
+        <fragment id="60004006" kind="vs">For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.</fragment>
+        <fragment id="60004007" kind="vs">But the end of all things is at hand: be ye therefore sober, and watch unto prayer.</fragment>
+        <fragment id="60004008" kind="vs">And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.</fragment>
+        <fragment id="60004009" kind="vs">Use hospitality one to another without grudging.</fragment>
+        <fragment id="60004010" kind="vs">As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.</fragment>
+        <fragment id="60004011" kind="vs">If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.</fragment>
+        <fragment id="60004012" kind="vs">Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:</fragment>
+        <fragment id="60004013" kind="vs">But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.</fragment>
+        <fragment id="60004014" kind="vs">If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.</fragment>
+        <fragment id="60004015" kind="vs">But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.</fragment>
+        <fragment id="60004016" kind="vs">Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.</fragment>
+        <fragment id="60004017" kind="vs">For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?</fragment>
+        <fragment id="60004018" kind="vs">And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?</fragment>
+        <fragment id="60004019" kind="vs">Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="60005">
+      <fragments>
+        <fragment id="60005001" kind="vs">The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:</fragment>
+        <fragment id="60005002" kind="vs">Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;</fragment>
+        <fragment id="60005003" kind="vs">Neither as being lords over God's heritage, but being ensamples to the flock.</fragment>
+        <fragment id="60005004" kind="vs">And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.</fragment>
+        <fragment id="60005005" kind="vs">Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.</fragment>
+        <fragment id="60005006" kind="vs">Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:</fragment>
+        <fragment id="60005007" kind="vs">Casting all your care upon him; for he careth for you.</fragment>
+        <fragment id="60005008" kind="vs">Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</fragment>
+        <fragment id="60005009" kind="vs">Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.</fragment>
+        <fragment id="60005010" kind="vs">But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.</fragment>
+        <fragment id="60005011" kind="vs">To him be glory and dominion for ever and ever. Amen.</fragment>
+        <fragment id="60005012" kind="vs">By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.</fragment>
+        <fragment id="60005013" kind="vs">The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.</fragment>
+        <fragment id="60005014" kind="vs">Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

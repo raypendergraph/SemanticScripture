@@ -1,84 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Joel" id="29"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="29001">
-    <frag id="29001001" type="vs">The word of the LORD that came to Joel the son of Pethuel.</frag>
-    <frag id="29001002" type="vs">Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?</frag>
-    <frag id="29001003" type="vs">Tell ye your children of it, and let your children tell their children, and their children another generation.</frag>
-    <frag id="29001004" type="vs">That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.</frag>
-    <frag id="29001005" type="vs">Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.</frag>
-    <frag id="29001006" type="vs">For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.</frag>
-    <frag id="29001007" type="vs">He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.</frag>
-    <frag id="29001008" type="vs">Lament like a virgin girded with sackcloth for the husband of her youth.</frag>
-    <frag id="29001009" type="vs">The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD'S ministers, mourn.</frag>
-    <frag id="29001010" type="vs">The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.</frag>
-    <frag id="29001011" type="vs">Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.</frag>
-    <frag id="29001012" type="vs">The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.</frag>
-    <frag id="29001013" type="vs">Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.</frag>
-    <frag id="29001014" type="vs">Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,</frag>
-    <frag id="29001015" type="vs">Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.</frag>
-    <frag id="29001016" type="vs">Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?</frag>
-    <frag id="29001017" type="vs">The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.</frag>
-    <frag id="29001018" type="vs">How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.</frag>
-    <frag id="29001019" type="vs">O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.</frag>
-    <frag id="29001020" type="vs">The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.</frag>
-  </sec>
-  <sec type="ch" id="29002">
-    <frag id="29002001" type="vs">Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;</frag>
-    <frag id="29002002" type="vs">A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations.</frag>
-    <frag id="29002003" type="vs">A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.</frag>
-    <frag id="29002004" type="vs">The appearance of them is as the appearance of horses; and as horsemen, so shall they run.</frag>
-    <frag id="29002005" type="vs">Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.</frag>
-    <frag id="29002006" type="vs">Before their face the people shall be much pained: all faces shall gather blackness.</frag>
-    <frag id="29002007" type="vs">They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:</frag>
-    <frag id="29002008" type="vs">Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded.</frag>
-    <frag id="29002009" type="vs">They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.</frag>
-    <frag id="29002010" type="vs">The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:</frag>
-    <frag id="29002011" type="vs">And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?</frag>
-    <frag id="29002012" type="vs">Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:</frag>
-    <frag id="29002013" type="vs">And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.</frag>
-    <frag id="29002014" type="vs">Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?</frag>
-    <frag id="29002015" type="vs">Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:</frag>
-    <frag id="29002016" type="vs">Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.</frag>
-    <frag id="29002017" type="vs">Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?</frag>
-    <frag id="29002018" type="vs">Then will the LORD be jealous for his land, and pity his people.</frag>
-    <frag id="29002019" type="vs">Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:</frag>
-    <frag id="29002020" type="vs">But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.</frag>
-    <frag id="29002021" type="vs">Fear not, O land; be glad and rejoice: for the LORD will do great things.</frag>
-    <frag id="29002022" type="vs">Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.</frag>
-    <frag id="29002023" type="vs">Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month.</frag>
-    <frag id="29002024" type="vs">And the floors shall be full of wheat, and the fats shall overflow with wine and oil.</frag>
-    <frag id="29002025" type="vs">And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.</frag>
-    <frag id="29002026" type="vs">And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.</frag>
-    <frag id="29002027" type="vs">And ye shall know that I am in the midst of Israel, and that I am the LORD your God, and none else: and my people shall never be ashamed.</frag>
-    <frag id="29002028" type="vs">And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:</frag>
-    <frag id="29002029" type="vs">And also upon the servants and upon the handmaids in those days will I pour out my spirit.</frag>
-    <frag id="29002030" type="vs">And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.</frag>
-    <frag id="29002031" type="vs">The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.</frag>
-    <frag id="29002032" type="vs">And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.</frag>
-  </sec>
-  <sec type="ch" id="29003">
-    <frag id="29003001" type="vs">For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,</frag>
-    <frag id="29003002" type="vs">I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.</frag>
-    <frag id="29003003" type="vs">And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.</frag>
-    <frag id="29003004" type="vs">Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;</frag>
-    <frag id="29003005" type="vs">Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:</frag>
-    <frag id="29003006" type="vs">The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.</frag>
-    <frag id="29003007" type="vs">Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:</frag>
-    <frag id="29003008" type="vs">And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken it.</frag>
-    <frag id="29003009" type="vs">Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:</frag>
-    <frag id="29003010" type="vs">Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.</frag>
-    <frag id="29003011" type="vs">Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.</frag>
-    <frag id="29003012" type="vs">Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.</frag>
-    <frag id="29003013" type="vs">Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.</frag>
-    <frag id="29003014" type="vs">Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision.</frag>
-    <frag id="29003015" type="vs">The sun and the moon shall be darkened, and the stars shall withdraw their shining.</frag>
-    <frag id="29003016" type="vs">The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel.</frag>
-    <frag id="29003017" type="vs">So shall ye know that I am the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.</frag>
-    <frag id="29003018" type="vs">And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.</frag>
-    <frag id="29003019" type="vs">Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land.</frag>
-    <frag id="29003020" type="vs">But Judah shall dwell for ever, and Jerusalem from generation to generation.</frag>
-    <frag id="29003021" type="vs">For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion.</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Joel" id="29" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="29001">
+      <fragments>
+        <fragment id="29001001" kind="vs">The word of the LORD that came to Joel the son of Pethuel.</fragment>
+        <fragment id="29001002" kind="vs">Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?</fragment>
+        <fragment id="29001003" kind="vs">Tell ye your children of it, and let your children tell their children, and their children another generation.</fragment>
+        <fragment id="29001004" kind="vs">That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.</fragment>
+        <fragment id="29001005" kind="vs">Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.</fragment>
+        <fragment id="29001006" kind="vs">For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.</fragment>
+        <fragment id="29001007" kind="vs">He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.</fragment>
+        <fragment id="29001008" kind="vs">Lament like a virgin girded with sackcloth for the husband of her youth.</fragment>
+        <fragment id="29001009" kind="vs">The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD'S ministers, mourn.</fragment>
+        <fragment id="29001010" kind="vs">The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.</fragment>
+        <fragment id="29001011" kind="vs">Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.</fragment>
+        <fragment id="29001012" kind="vs">The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.</fragment>
+        <fragment id="29001013" kind="vs">Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.</fragment>
+        <fragment id="29001014" kind="vs">Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,</fragment>
+        <fragment id="29001015" kind="vs">Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.</fragment>
+        <fragment id="29001016" kind="vs">Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?</fragment>
+        <fragment id="29001017" kind="vs">The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.</fragment>
+        <fragment id="29001018" kind="vs">How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.</fragment>
+        <fragment id="29001019" kind="vs">O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.</fragment>
+        <fragment id="29001020" kind="vs">The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="29002">
+      <fragments>
+        <fragment id="29002001" kind="vs">Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;</fragment>
+        <fragment id="29002002" kind="vs">A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations.</fragment>
+        <fragment id="29002003" kind="vs">A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.</fragment>
+        <fragment id="29002004" kind="vs">The appearance of them is as the appearance of horses; and as horsemen, so shall they run.</fragment>
+        <fragment id="29002005" kind="vs">Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.</fragment>
+        <fragment id="29002006" kind="vs">Before their face the people shall be much pained: all faces shall gather blackness.</fragment>
+        <fragment id="29002007" kind="vs">They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:</fragment>
+        <fragment id="29002008" kind="vs">Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded.</fragment>
+        <fragment id="29002009" kind="vs">They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.</fragment>
+        <fragment id="29002010" kind="vs">The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:</fragment>
+        <fragment id="29002011" kind="vs">And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?</fragment>
+        <fragment id="29002012" kind="vs">Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:</fragment>
+        <fragment id="29002013" kind="vs">And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.</fragment>
+        <fragment id="29002014" kind="vs">Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?</fragment>
+        <fragment id="29002015" kind="vs">Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:</fragment>
+        <fragment id="29002016" kind="vs">Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.</fragment>
+        <fragment id="29002017" kind="vs">Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?</fragment>
+        <fragment id="29002018" kind="vs">Then will the LORD be jealous for his land, and pity his people.</fragment>
+        <fragment id="29002019" kind="vs">Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:</fragment>
+        <fragment id="29002020" kind="vs">But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.</fragment>
+        <fragment id="29002021" kind="vs">Fear not, O land; be glad and rejoice: for the LORD will do great things.</fragment>
+        <fragment id="29002022" kind="vs">Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.</fragment>
+        <fragment id="29002023" kind="vs">Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month.</fragment>
+        <fragment id="29002024" kind="vs">And the floors shall be full of wheat, and the fats shall overflow with wine and oil.</fragment>
+        <fragment id="29002025" kind="vs">And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.</fragment>
+        <fragment id="29002026" kind="vs">And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.</fragment>
+        <fragment id="29002027" kind="vs">And ye shall know that I am in the midst of Israel, and that I am the LORD your God, and none else: and my people shall never be ashamed.</fragment>
+        <fragment id="29002028" kind="vs">And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:</fragment>
+        <fragment id="29002029" kind="vs">And also upon the servants and upon the handmaids in those days will I pour out my spirit.</fragment>
+        <fragment id="29002030" kind="vs">And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.</fragment>
+        <fragment id="29002031" kind="vs">The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.</fragment>
+        <fragment id="29002032" kind="vs">And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="29003">
+      <fragments>
+        <fragment id="29003001" kind="vs">For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,</fragment>
+        <fragment id="29003002" kind="vs">I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.</fragment>
+        <fragment id="29003003" kind="vs">And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.</fragment>
+        <fragment id="29003004" kind="vs">Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;</fragment>
+        <fragment id="29003005" kind="vs">Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:</fragment>
+        <fragment id="29003006" kind="vs">The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.</fragment>
+        <fragment id="29003007" kind="vs">Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:</fragment>
+        <fragment id="29003008" kind="vs">And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken it.</fragment>
+        <fragment id="29003009" kind="vs">Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:</fragment>
+        <fragment id="29003010" kind="vs">Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.</fragment>
+        <fragment id="29003011" kind="vs">Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.</fragment>
+        <fragment id="29003012" kind="vs">Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.</fragment>
+        <fragment id="29003013" kind="vs">Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.</fragment>
+        <fragment id="29003014" kind="vs">Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision.</fragment>
+        <fragment id="29003015" kind="vs">The sun and the moon shall be darkened, and the stars shall withdraw their shining.</fragment>
+        <fragment id="29003016" kind="vs">The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel.</fragment>
+        <fragment id="29003017" kind="vs">So shall ye know that I am the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.</fragment>
+        <fragment id="29003018" kind="vs">And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.</fragment>
+        <fragment id="29003019" kind="vs">Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land.</fragment>
+        <fragment id="29003020" kind="vs">But Judah shall dwell for ever, and Jerusalem from generation to generation.</fragment>
+        <fragment id="29003021" kind="vs">For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

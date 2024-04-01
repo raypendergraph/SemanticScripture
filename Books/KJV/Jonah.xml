@@ -1,61 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text title="Jonah" id="32" xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="32001">
-    <frag id="32001001" type="vs">Now the word of the LORD came unto Jonah the son of Amittai, saying,</frag>
-    <frag id="32001002" type="vs">Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.</frag>
-    <frag id="32001003" type="vs">But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.</frag>
-    <frag id="32001004" type="vs">But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.</frag>
-    <frag id="32001005" type="vs">Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.</frag>
-    <frag id="32001006" type="vs">So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.</frag>
-    <frag id="32001007" type="vs">And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.</frag>
-    <frag id="32001008" type="vs">Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?</frag>
-    <frag id="32001009" type="vs">And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.</frag>
-    <frag id="32001010" type="vs">Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.</frag>
-    <frag id="32001011" type="vs">Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.</frag>
-    <frag id="32001012" type="vs">And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.</frag>
-    <frag id="32001013" type="vs">Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.</frag>
-    <frag id="32001014" type="vs">Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.</frag>
-    <frag id="32001015" type="vs">So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.</frag>
-    <frag id="32001016" type="vs">Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.</frag>
-    <frag id="32001017" type="vs">Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.</frag>
-  </sec>
-  <sec type="ch" id="32002">
-    <frag id="32002001" type="vs">Then Jonah prayed unto the LORD his God out of the fish's belly,</frag>
-    <frag id="32002002" type="vs">And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.</frag>
-    <frag id="32002003" type="vs">For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.</frag>
-    <frag id="32002004" type="vs">Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.</frag>
-    <frag id="32002005" type="vs">The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.</frag>
-    <frag id="32002006" type="vs">I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.</frag>
-    <frag id="32002007" type="vs">When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.</frag>
-    <frag id="32002008" type="vs">They that observe lying vanities forsake their own mercy.</frag>
-    <frag id="32002009" type="vs">But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.</frag>
-    <frag id="32002010" type="vs">And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.</frag>
-  </sec>
-  <sec type="ch" id="32003">
-    <frag id="32003001" type="vs">And the word of the LORD came unto Jonah the second time, saying,</frag>
-    <frag id="32003002" type="vs">Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.</frag>
-    <frag id="32003003" type="vs">So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.</frag>
-    <frag id="32003004" type="vs">And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.</frag>
-    <frag id="32003005" type="vs">So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.</frag>
-    <frag id="32003006" type="vs">For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.</frag>
-    <frag id="32003007" type="vs">And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:</frag>
-    <frag id="32003008" type="vs">But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.</frag>
-    <frag id="32003009" type="vs">Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?</frag>
-    <frag id="32003010" type="vs">And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.</frag>
-  </sec>
-  <sec type="ch" id="32004">
-    <frag id="32004001" type="vs">But it displeased Jonah exceedingly, and he was very angry.</frag>
-    <frag id="32004002" type="vs">And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.</frag>
-    <frag id="32004003" type="vs">Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.</frag>
-    <frag id="32004004" type="vs">Then said the LORD, Doest thou well to be angry?</frag>
-    <frag id="32004005" type="vs">So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.</frag>
-    <frag id="32004006" type="vs">And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.</frag>
-    <frag id="32004007" type="vs">But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.</frag>
-    <frag id="32004008" type="vs">And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.</frag>
-    <frag id="32004009" type="vs">And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.</frag>
-    <frag id="32004010" type="vs">Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:</frag>
-    <frag id="32004011" type="vs">And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Jonah" id="32" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="32001">
+      <fragments>
+        <fragment id="32001001" kind="vs">Now the word of the LORD came unto Jonah the son of Amittai, saying,</fragment>
+        <fragment id="32001002" kind="vs">Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.</fragment>
+        <fragment id="32001003" kind="vs">But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.</fragment>
+        <fragment id="32001004" kind="vs">But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.</fragment>
+        <fragment id="32001005" kind="vs">Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.</fragment>
+        <fragment id="32001006" kind="vs">So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.</fragment>
+        <fragment id="32001007" kind="vs">And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.</fragment>
+        <fragment id="32001008" kind="vs">Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?</fragment>
+        <fragment id="32001009" kind="vs">And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.</fragment>
+        <fragment id="32001010" kind="vs">Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.</fragment>
+        <fragment id="32001011" kind="vs">Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.</fragment>
+        <fragment id="32001012" kind="vs">And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.</fragment>
+        <fragment id="32001013" kind="vs">Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.</fragment>
+        <fragment id="32001014" kind="vs">Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.</fragment>
+        <fragment id="32001015" kind="vs">So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.</fragment>
+        <fragment id="32001016" kind="vs">Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.</fragment>
+        <fragment id="32001017" kind="vs">Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="32002">
+      <fragments>
+        <fragment id="32002001" kind="vs">Then Jonah prayed unto the LORD his God out of the fish's belly,</fragment>
+        <fragment id="32002002" kind="vs">And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.</fragment>
+        <fragment id="32002003" kind="vs">For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.</fragment>
+        <fragment id="32002004" kind="vs">Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.</fragment>
+        <fragment id="32002005" kind="vs">The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.</fragment>
+        <fragment id="32002006" kind="vs">I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.</fragment>
+        <fragment id="32002007" kind="vs">When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.</fragment>
+        <fragment id="32002008" kind="vs">They that observe lying vanities forsake their own mercy.</fragment>
+        <fragment id="32002009" kind="vs">But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.</fragment>
+        <fragment id="32002010" kind="vs">And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="32003">
+      <fragments>
+        <fragment id="32003001" kind="vs">And the word of the LORD came unto Jonah the second time, saying,</fragment>
+        <fragment id="32003002" kind="vs">Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.</fragment>
+        <fragment id="32003003" kind="vs">So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.</fragment>
+        <fragment id="32003004" kind="vs">And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.</fragment>
+        <fragment id="32003005" kind="vs">So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.</fragment>
+        <fragment id="32003006" kind="vs">For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.</fragment>
+        <fragment id="32003007" kind="vs">And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:</fragment>
+        <fragment id="32003008" kind="vs">But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.</fragment>
+        <fragment id="32003009" kind="vs">Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?</fragment>
+        <fragment id="32003010" kind="vs">And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="32004">
+      <fragments>
+        <fragment id="32004001" kind="vs">But it displeased Jonah exceedingly, and he was very angry.</fragment>
+        <fragment id="32004002" kind="vs">And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.</fragment>
+        <fragment id="32004003" kind="vs">Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.</fragment>
+        <fragment id="32004004" kind="vs">Then said the LORD, Doest thou well to be angry?</fragment>
+        <fragment id="32004005" kind="vs">So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.</fragment>
+        <fragment id="32004006" kind="vs">And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.</fragment>
+        <fragment id="32004007" kind="vs">But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.</fragment>
+        <fragment id="32004008" kind="vs">And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.</fragment>
+        <fragment id="32004009" kind="vs">And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.</fragment>
+        <fragment id="32004010" kind="vs">Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:</fragment>
+        <fragment id="32004011" kind="vs">And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>

@@ -1,230 +1,258 @@
 <?xml version='1.0' encoding='utf-8'?>
-<text title="Hosea" id="28" xmlns="http://example.com/SemanticScripture"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <sec type="ch" id="28001">
-    <frag id="28001001" type="vs">The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.</frag>
-    <frag id="28001002" type="vs">The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.</frag>
-    <frag id="28001003" type="vs">So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.</frag>
-    <frag id="28001004" type="vs">And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.</frag>
-    <frag id="28001005" type="vs">And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.</frag>
-    <frag id="28001006" type="vs">And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.</frag>
-    <frag id="28001007" type="vs">But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.</frag>
-    <frag id="28001008" type="vs">Now when she had weaned Loruhamah, she conceived, and bare a son.</frag>
-    <frag id="28001009" type="vs">Then said God, Call his name Loammi: for ye are not my people, and I will not be your God.</frag>
-    <frag id="28001010" type="vs">Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.</frag>
-    <frag id="28001011" type="vs">Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.</frag>
-  </sec>
-  <sec type="ch" id="28002">
-    <frag id="28002001" type="vs">Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.</frag>
-    <frag id="28002002" type="vs">Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;</frag>
-    <frag id="28002003" type="vs">Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.</frag>
-    <frag id="28002004" type="vs">And I will not have mercy upon her children; for they be the children of whoredoms.</frag>
-    <frag id="28002005" type="vs">For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.</frag>
-    <frag id="28002006" type="vs">Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.</frag>
-    <frag id="28002007" type="vs">And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now.</frag>
-    <frag id="28002008" type="vs">For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.</frag>
-    <frag id="28002009" type="vs">Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.</frag>
-    <frag id="28002010" type="vs">And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand.</frag>
-    <frag id="28002011" type="vs">I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.</frag>
-    <frag id="28002012" type="vs">And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.</frag>
-    <frag id="28002013" type="vs">And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.</frag>
-    <frag id="28002014" type="vs">Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.</frag>
-    <frag id="28002015" type="vs">And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.</frag>
-    <frag id="28002016" type="vs">And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali.</frag>
-    <frag id="28002017" type="vs">For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.</frag>
-    <frag id="28002018" type="vs">And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.</frag>
-    <frag id="28002019" type="vs">And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies.</frag>
-    <frag id="28002020" type="vs">I will even betroth thee unto me in faithfulness: and thou shalt know the LORD.</frag>
-    <frag id="28002021" type="vs">And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;</frag>
-    <frag id="28002022" type="vs">And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.</frag>
-    <frag id="28002023" type="vs">And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.</frag>
-  </sec>
-  <sec type="ch" id="28003">
-    <frag id="28003001" type="vs">Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.</frag>
-    <frag id="28003002" type="vs">So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:</frag>
-    <frag id="28003003" type="vs">And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.</frag>
-    <frag id="28003004" type="vs">For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:</frag>
-    <frag id="28003005" type="vs">Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.</frag>
-  </sec>
-  <sec type="ch" id="28004">
-    <frag id="28004001" type="vs">Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.</frag>
-    <frag id="28004002" type="vs">By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.</frag>
-    <frag id="28004003" type="vs">Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.</frag>
-    <frag id="28004004" type="vs">Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.</frag>
-    <frag id="28004005" type="vs">Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.</frag>
-    <frag id="28004006" type="vs">My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.</frag>
-    <frag id="28004007" type="vs">As they were increased, so they sinned against me: therefore will I change their glory into shame.</frag>
-    <frag id="28004008" type="vs">They eat up the sin of my people, and they set their heart on their iniquity.</frag>
-    <frag id="28004009" type="vs">And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.</frag>
-    <frag id="28004010" type="vs">For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.</frag>
-    <frag id="28004011" type="vs">Whoredom and wine and new wine take away the heart.</frag>
-    <frag id="28004012" type="vs">My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.</frag>
-    <frag id="28004013" type="vs">They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.</frag>
-    <frag id="28004014" type="vs">I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.</frag>
-    <frag id="28004015" type="vs">Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.</frag>
-    <frag id="28004016" type="vs">For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.</frag>
-    <frag id="28004017" type="vs">Ephraim is joined to idols: let him alone.</frag>
-    <frag id="28004018" type="vs">Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.</frag>
-    <frag id="28004019" type="vs">The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.</frag>
-  </sec>
-  <sec type="ch" id="28005">
-    <frag id="28005001" type="vs">Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.</frag>
-    <frag id="28005002" type="vs">And the revolters are profound to make slaughter, though I have been a rebuker of them all.</frag>
-    <frag id="28005003" type="vs">I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.</frag>
-    <frag id="28005004" type="vs">They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.</frag>
-    <frag id="28005005" type="vs">And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.</frag>
-    <frag id="28005006" type="vs">They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.</frag>
-    <frag id="28005007" type="vs">They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.</frag>
-    <frag id="28005008" type="vs">Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Bethaven, after thee, O Benjamin.</frag>
-    <frag id="28005009" type="vs">Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.</frag>
-    <frag id="28005010" type="vs">The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.</frag>
-    <frag id="28005011" type="vs">Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.</frag>
-    <frag id="28005012" type="vs">Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.</frag>
-    <frag id="28005013" type="vs">When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.</frag>
-    <frag id="28005014" type="vs">For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.</frag>
-    <frag id="28005015" type="vs">I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.</frag>
-  </sec>
-  <sec type="ch" id="28006">
-    <frag id="28006001" type="vs">Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.</frag>
-    <frag id="28006002" type="vs">After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.</frag>
-    <frag id="28006003" type="vs">Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.</frag>
-    <frag id="28006004" type="vs">O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.</frag>
-    <frag id="28006005" type="vs">Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.</frag>
-    <frag id="28006006" type="vs">For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.</frag>
-    <frag id="28006007" type="vs">But they like men have transgressed the covenant: there have they dealt treacherously against me.</frag>
-    <frag id="28006008" type="vs">Gilead is a city of them that work iniquity, and is polluted with blood.</frag>
-    <frag id="28006009" type="vs">And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.</frag>
-    <frag id="28006010" type="vs">I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.</frag>
-    <frag id="28006011" type="vs">Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.</frag>
-  </sec>
-  <sec type="ch" id="28007">
-    <frag id="28007001" type="vs">When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.</frag>
-    <frag id="28007002" type="vs">And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face.</frag>
-    <frag id="28007003" type="vs">They make the king glad with their wickedness, and the princes with their lies.</frag>
-    <frag id="28007004" type="vs">They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.</frag>
-    <frag id="28007005" type="vs">In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners.</frag>
-    <frag id="28007006" type="vs">For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.</frag>
-    <frag id="28007007" type="vs">They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me.</frag>
-    <frag id="28007008" type="vs">Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.</frag>
-    <frag id="28007009" type="vs">Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.</frag>
-    <frag id="28007010" type="vs">And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.</frag>
-    <frag id="28007011" type="vs">Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.</frag>
-    <frag id="28007012" type="vs">When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard.</frag>
-    <frag id="28007013" type="vs">Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.</frag>
-    <frag id="28007014" type="vs">And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.</frag>
-    <frag id="28007015" type="vs">Though I have bound and strengthened their arms, yet do they imagine mischief against me.</frag>
-    <frag id="28007016" type="vs">They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.</frag>
-  </sec>
-  <sec type="ch" id="28008">
-    <frag id="28008001" type="vs">Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.</frag>
-    <frag id="28008002" type="vs">Israel shall cry unto me, My God, we know thee.</frag>
-    <frag id="28008003" type="vs">Israel hath cast off the thing that is good: the enemy shall pursue him.</frag>
-    <frag id="28008004" type="vs">They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.</frag>
-    <frag id="28008005" type="vs">Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?</frag>
-    <frag id="28008006" type="vs">For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.</frag>
-    <frag id="28008007" type="vs">For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.</frag>
-    <frag id="28008008" type="vs">Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.</frag>
-    <frag id="28008009" type="vs">For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.</frag>
-    <frag id="28008010" type="vs">Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.</frag>
-    <frag id="28008011" type="vs">Because Ephraim hath made many altars to sin, altars shall be unto him to sin.</frag>
-    <frag id="28008012" type="vs">I have written to him the great things of my law, but they were counted as a strange thing.</frag>
-    <frag id="28008013" type="vs">They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.</frag>
-    <frag id="28008014" type="vs">For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.</frag>
-  </sec>
-  <sec type="ch" id="28009">
-    <frag id="28009001" type="vs">Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.</frag>
-    <frag id="28009002" type="vs">The floor and the winepress shall not feed them, and the new wine shall fail in her.</frag>
-    <frag id="28009003" type="vs">They shall not dwell in the LORD'S land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria.</frag>
-    <frag id="28009004" type="vs">They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.</frag>
-    <frag id="28009005" type="vs">What will ye do in the solemn day, and in the day of the feast of the LORD?</frag>
-    <frag id="28009006" type="vs">For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles.</frag>
-    <frag id="28009007" type="vs">The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred.</frag>
-    <frag id="28009008" type="vs">The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God.</frag>
-    <frag id="28009009" type="vs">They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.</frag>
-    <frag id="28009010" type="vs">I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved.</frag>
-    <frag id="28009011" type="vs">As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.</frag>
-    <frag id="28009012" type="vs">Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!</frag>
-    <frag id="28009013" type="vs">Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.</frag>
-    <frag id="28009014" type="vs">Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.</frag>
-    <frag id="28009015" type="vs">All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.</frag>
-    <frag id="28009016" type="vs">Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.</frag>
-    <frag id="28009017" type="vs">My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.</frag>
-  </sec>
-  <sec type="ch" id="28010">
-    <frag id="28010001" type="vs">Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.</frag>
-    <frag id="28010002" type="vs">Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.</frag>
-    <frag id="28010003" type="vs">For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?</frag>
-    <frag id="28010004" type="vs">They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field.</frag>
-    <frag id="28010005" type="vs">The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.</frag>
-    <frag id="28010006" type="vs">It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.</frag>
-    <frag id="28010007" type="vs">As for Samaria, her king is cut off as the foam upon the water.</frag>
-    <frag id="28010008" type="vs">The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.</frag>
-    <frag id="28010009" type="vs">O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.</frag>
-    <frag id="28010010" type="vs">It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.</frag>
-    <frag id="28010011" type="vs">And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.</frag>
-    <frag id="28010012" type="vs">Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you.</frag>
-    <frag id="28010013" type="vs">Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.</frag>
-    <frag id="28010014" type="vs">Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.</frag>
-    <frag id="28010015" type="vs">So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.</frag>
-  </sec>
-  <sec type="ch" id="28011">
-    <frag id="28011001" type="vs">When Israel was a child, then I loved him, and called my son out of Egypt.</frag>
-    <frag id="28011002" type="vs">As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.</frag>
-    <frag id="28011003" type="vs">I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.</frag>
-    <frag id="28011004" type="vs">I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.</frag>
-    <frag id="28011005" type="vs">He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.</frag>
-    <frag id="28011006" type="vs">And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.</frag>
-    <frag id="28011007" type="vs">And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.</frag>
-    <frag id="28011008" type="vs">How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.</frag>
-    <frag id="28011009" type="vs">I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.</frag>
-    <frag id="28011010" type="vs">They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.</frag>
-    <frag id="28011011" type="vs">They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.</frag>
-    <frag id="28011012" type="vs">Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.</frag>
-  </sec>
-  <sec type="ch" id="28012">
-    <frag id="28012001" type="vs">Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.</frag>
-    <frag id="28012002" type="vs">The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.</frag>
-    <frag id="28012003" type="vs">He took his brother by the heel in the womb, and by his strength he had power with God:</frag>
-    <frag id="28012004" type="vs">Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;</frag>
-    <frag id="28012005" type="vs">Even the LORD God of hosts; the LORD is his memorial.</frag>
-    <frag id="28012006" type="vs">Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.</frag>
-    <frag id="28012007" type="vs">He is a merchant, the balances of deceit are in his hand: he loveth to oppress.</frag>
-    <frag id="28012008" type="vs">And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.</frag>
-    <frag id="28012009" type="vs">And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.</frag>
-    <frag id="28012010" type="vs">I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.</frag>
-    <frag id="28012011" type="vs">Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.</frag>
-    <frag id="28012012" type="vs">And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.</frag>
-    <frag id="28012013" type="vs">And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.</frag>
-    <frag id="28012014" type="vs">Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.</frag>
-  </sec>
-  <sec type="ch" id="28013">
-    <frag id="28013001" type="vs">When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.</frag>
-    <frag id="28013002" type="vs">And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.</frag>
-    <frag id="28013003" type="vs">Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.</frag>
-    <frag id="28013004" type="vs">Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me.</frag>
-    <frag id="28013005" type="vs">I did know thee in the wilderness, in the land of great drought.</frag>
-    <frag id="28013006" type="vs">According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.</frag>
-    <frag id="28013007" type="vs">Therefore I will be unto them as a lion: as a leopard by the way will I observe them:</frag>
-    <frag id="28013008" type="vs">I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.</frag>
-    <frag id="28013009" type="vs">O Israel, thou hast destroyed thyself; but in me is thine help.</frag>
-    <frag id="28013010" type="vs">I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?</frag>
-    <frag id="28013011" type="vs">I gave thee a king in mine anger, and took him away in my wrath.</frag>
-    <frag id="28013012" type="vs">The iniquity of Ephraim is bound up; his sin is hid.</frag>
-    <frag id="28013013" type="vs">The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.</frag>
-    <frag id="28013014" type="vs">I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.</frag>
-    <frag id="28013015" type="vs">Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.</frag>
-    <frag id="28013016" type="vs">Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.</frag>
-  </sec>
-  <sec type="ch" id="28014">
-    <frag id="28014001" type="vs">O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.</frag>
-    <frag id="28014002" type="vs">Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.</frag>
-    <frag id="28014003" type="vs">Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.</frag>
-    <frag id="28014004" type="vs">I will heal their backsliding, I will love them freely: for mine anger is turned away from him.</frag>
-    <frag id="28014005" type="vs">I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.</frag>
-    <frag id="28014006" type="vs">His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.</frag>
-    <frag id="28014007" type="vs">They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.</frag>
-    <frag id="28014008" type="vs">Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.</frag>
-    <frag id="28014009" type="vs">Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.</frag>
-  </sec>
+<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Hosea" id="28" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
+  <sections>
+    <section kind="ch" id="28001">
+      <fragments>
+        <fragment id="28001001" kind="vs">The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.</fragment>
+        <fragment id="28001002" kind="vs">The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.</fragment>
+        <fragment id="28001003" kind="vs">So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.</fragment>
+        <fragment id="28001004" kind="vs">And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.</fragment>
+        <fragment id="28001005" kind="vs">And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.</fragment>
+        <fragment id="28001006" kind="vs">And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.</fragment>
+        <fragment id="28001007" kind="vs">But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.</fragment>
+        <fragment id="28001008" kind="vs">Now when she had weaned Loruhamah, she conceived, and bare a son.</fragment>
+        <fragment id="28001009" kind="vs">Then said God, Call his name Loammi: for ye are not my people, and I will not be your God.</fragment>
+        <fragment id="28001010" kind="vs">Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.</fragment>
+        <fragment id="28001011" kind="vs">Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28002">
+      <fragments>
+        <fragment id="28002001" kind="vs">Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.</fragment>
+        <fragment id="28002002" kind="vs">Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;</fragment>
+        <fragment id="28002003" kind="vs">Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.</fragment>
+        <fragment id="28002004" kind="vs">And I will not have mercy upon her children; for they be the children of whoredoms.</fragment>
+        <fragment id="28002005" kind="vs">For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.</fragment>
+        <fragment id="28002006" kind="vs">Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.</fragment>
+        <fragment id="28002007" kind="vs">And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now.</fragment>
+        <fragment id="28002008" kind="vs">For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.</fragment>
+        <fragment id="28002009" kind="vs">Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.</fragment>
+        <fragment id="28002010" kind="vs">And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand.</fragment>
+        <fragment id="28002011" kind="vs">I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.</fragment>
+        <fragment id="28002012" kind="vs">And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.</fragment>
+        <fragment id="28002013" kind="vs">And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.</fragment>
+        <fragment id="28002014" kind="vs">Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.</fragment>
+        <fragment id="28002015" kind="vs">And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.</fragment>
+        <fragment id="28002016" kind="vs">And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali.</fragment>
+        <fragment id="28002017" kind="vs">For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.</fragment>
+        <fragment id="28002018" kind="vs">And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.</fragment>
+        <fragment id="28002019" kind="vs">And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies.</fragment>
+        <fragment id="28002020" kind="vs">I will even betroth thee unto me in faithfulness: and thou shalt know the LORD.</fragment>
+        <fragment id="28002021" kind="vs">And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;</fragment>
+        <fragment id="28002022" kind="vs">And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.</fragment>
+        <fragment id="28002023" kind="vs">And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28003">
+      <fragments>
+        <fragment id="28003001" kind="vs">Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.</fragment>
+        <fragment id="28003002" kind="vs">So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:</fragment>
+        <fragment id="28003003" kind="vs">And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.</fragment>
+        <fragment id="28003004" kind="vs">For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:</fragment>
+        <fragment id="28003005" kind="vs">Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28004">
+      <fragments>
+        <fragment id="28004001" kind="vs">Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.</fragment>
+        <fragment id="28004002" kind="vs">By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.</fragment>
+        <fragment id="28004003" kind="vs">Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.</fragment>
+        <fragment id="28004004" kind="vs">Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.</fragment>
+        <fragment id="28004005" kind="vs">Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.</fragment>
+        <fragment id="28004006" kind="vs">My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.</fragment>
+        <fragment id="28004007" kind="vs">As they were increased, so they sinned against me: therefore will I change their glory into shame.</fragment>
+        <fragment id="28004008" kind="vs">They eat up the sin of my people, and they set their heart on their iniquity.</fragment>
+        <fragment id="28004009" kind="vs">And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.</fragment>
+        <fragment id="28004010" kind="vs">For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.</fragment>
+        <fragment id="28004011" kind="vs">Whoredom and wine and new wine take away the heart.</fragment>
+        <fragment id="28004012" kind="vs">My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.</fragment>
+        <fragment id="28004013" kind="vs">They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.</fragment>
+        <fragment id="28004014" kind="vs">I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.</fragment>
+        <fragment id="28004015" kind="vs">Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.</fragment>
+        <fragment id="28004016" kind="vs">For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.</fragment>
+        <fragment id="28004017" kind="vs">Ephraim is joined to idols: let him alone.</fragment>
+        <fragment id="28004018" kind="vs">Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.</fragment>
+        <fragment id="28004019" kind="vs">The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28005">
+      <fragments>
+        <fragment id="28005001" kind="vs">Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.</fragment>
+        <fragment id="28005002" kind="vs">And the revolters are profound to make slaughter, though I have been a rebuker of them all.</fragment>
+        <fragment id="28005003" kind="vs">I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.</fragment>
+        <fragment id="28005004" kind="vs">They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.</fragment>
+        <fragment id="28005005" kind="vs">And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.</fragment>
+        <fragment id="28005006" kind="vs">They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.</fragment>
+        <fragment id="28005007" kind="vs">They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.</fragment>
+        <fragment id="28005008" kind="vs">Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Bethaven, after thee, O Benjamin.</fragment>
+        <fragment id="28005009" kind="vs">Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.</fragment>
+        <fragment id="28005010" kind="vs">The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.</fragment>
+        <fragment id="28005011" kind="vs">Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.</fragment>
+        <fragment id="28005012" kind="vs">Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.</fragment>
+        <fragment id="28005013" kind="vs">When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.</fragment>
+        <fragment id="28005014" kind="vs">For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.</fragment>
+        <fragment id="28005015" kind="vs">I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28006">
+      <fragments>
+        <fragment id="28006001" kind="vs">Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.</fragment>
+        <fragment id="28006002" kind="vs">After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.</fragment>
+        <fragment id="28006003" kind="vs">Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.</fragment>
+        <fragment id="28006004" kind="vs">O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.</fragment>
+        <fragment id="28006005" kind="vs">Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.</fragment>
+        <fragment id="28006006" kind="vs">For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.</fragment>
+        <fragment id="28006007" kind="vs">But they like men have transgressed the covenant: there have they dealt treacherously against me.</fragment>
+        <fragment id="28006008" kind="vs">Gilead is a city of them that work iniquity, and is polluted with blood.</fragment>
+        <fragment id="28006009" kind="vs">And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.</fragment>
+        <fragment id="28006010" kind="vs">I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.</fragment>
+        <fragment id="28006011" kind="vs">Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28007">
+      <fragments>
+        <fragment id="28007001" kind="vs">When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.</fragment>
+        <fragment id="28007002" kind="vs">And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face.</fragment>
+        <fragment id="28007003" kind="vs">They make the king glad with their wickedness, and the princes with their lies.</fragment>
+        <fragment id="28007004" kind="vs">They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.</fragment>
+        <fragment id="28007005" kind="vs">In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners.</fragment>
+        <fragment id="28007006" kind="vs">For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.</fragment>
+        <fragment id="28007007" kind="vs">They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me.</fragment>
+        <fragment id="28007008" kind="vs">Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.</fragment>
+        <fragment id="28007009" kind="vs">Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.</fragment>
+        <fragment id="28007010" kind="vs">And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.</fragment>
+        <fragment id="28007011" kind="vs">Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.</fragment>
+        <fragment id="28007012" kind="vs">When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard.</fragment>
+        <fragment id="28007013" kind="vs">Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.</fragment>
+        <fragment id="28007014" kind="vs">And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.</fragment>
+        <fragment id="28007015" kind="vs">Though I have bound and strengthened their arms, yet do they imagine mischief against me.</fragment>
+        <fragment id="28007016" kind="vs">They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28008">
+      <fragments>
+        <fragment id="28008001" kind="vs">Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.</fragment>
+        <fragment id="28008002" kind="vs">Israel shall cry unto me, My God, we know thee.</fragment>
+        <fragment id="28008003" kind="vs">Israel hath cast off the thing that is good: the enemy shall pursue him.</fragment>
+        <fragment id="28008004" kind="vs">They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.</fragment>
+        <fragment id="28008005" kind="vs">Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?</fragment>
+        <fragment id="28008006" kind="vs">For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.</fragment>
+        <fragment id="28008007" kind="vs">For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.</fragment>
+        <fragment id="28008008" kind="vs">Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.</fragment>
+        <fragment id="28008009" kind="vs">For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.</fragment>
+        <fragment id="28008010" kind="vs">Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.</fragment>
+        <fragment id="28008011" kind="vs">Because Ephraim hath made many altars to sin, altars shall be unto him to sin.</fragment>
+        <fragment id="28008012" kind="vs">I have written to him the great things of my law, but they were counted as a strange thing.</fragment>
+        <fragment id="28008013" kind="vs">They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.</fragment>
+        <fragment id="28008014" kind="vs">For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28009">
+      <fragments>
+        <fragment id="28009001" kind="vs">Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.</fragment>
+        <fragment id="28009002" kind="vs">The floor and the winepress shall not feed them, and the new wine shall fail in her.</fragment>
+        <fragment id="28009003" kind="vs">They shall not dwell in the LORD'S land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria.</fragment>
+        <fragment id="28009004" kind="vs">They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.</fragment>
+        <fragment id="28009005" kind="vs">What will ye do in the solemn day, and in the day of the feast of the LORD?</fragment>
+        <fragment id="28009006" kind="vs">For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles.</fragment>
+        <fragment id="28009007" kind="vs">The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred.</fragment>
+        <fragment id="28009008" kind="vs">The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God.</fragment>
+        <fragment id="28009009" kind="vs">They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.</fragment>
+        <fragment id="28009010" kind="vs">I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved.</fragment>
+        <fragment id="28009011" kind="vs">As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.</fragment>
+        <fragment id="28009012" kind="vs">Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!</fragment>
+        <fragment id="28009013" kind="vs">Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.</fragment>
+        <fragment id="28009014" kind="vs">Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.</fragment>
+        <fragment id="28009015" kind="vs">All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.</fragment>
+        <fragment id="28009016" kind="vs">Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.</fragment>
+        <fragment id="28009017" kind="vs">My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28010">
+      <fragments>
+        <fragment id="28010001" kind="vs">Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.</fragment>
+        <fragment id="28010002" kind="vs">Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.</fragment>
+        <fragment id="28010003" kind="vs">For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?</fragment>
+        <fragment id="28010004" kind="vs">They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field.</fragment>
+        <fragment id="28010005" kind="vs">The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.</fragment>
+        <fragment id="28010006" kind="vs">It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.</fragment>
+        <fragment id="28010007" kind="vs">As for Samaria, her king is cut off as the foam upon the water.</fragment>
+        <fragment id="28010008" kind="vs">The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.</fragment>
+        <fragment id="28010009" kind="vs">O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.</fragment>
+        <fragment id="28010010" kind="vs">It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.</fragment>
+        <fragment id="28010011" kind="vs">And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.</fragment>
+        <fragment id="28010012" kind="vs">Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you.</fragment>
+        <fragment id="28010013" kind="vs">Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.</fragment>
+        <fragment id="28010014" kind="vs">Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.</fragment>
+        <fragment id="28010015" kind="vs">So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28011">
+      <fragments>
+        <fragment id="28011001" kind="vs">When Israel was a child, then I loved him, and called my son out of Egypt.</fragment>
+        <fragment id="28011002" kind="vs">As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.</fragment>
+        <fragment id="28011003" kind="vs">I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.</fragment>
+        <fragment id="28011004" kind="vs">I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.</fragment>
+        <fragment id="28011005" kind="vs">He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.</fragment>
+        <fragment id="28011006" kind="vs">And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.</fragment>
+        <fragment id="28011007" kind="vs">And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.</fragment>
+        <fragment id="28011008" kind="vs">How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.</fragment>
+        <fragment id="28011009" kind="vs">I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.</fragment>
+        <fragment id="28011010" kind="vs">They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.</fragment>
+        <fragment id="28011011" kind="vs">They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.</fragment>
+        <fragment id="28011012" kind="vs">Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28012">
+      <fragments>
+        <fragment id="28012001" kind="vs">Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.</fragment>
+        <fragment id="28012002" kind="vs">The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.</fragment>
+        <fragment id="28012003" kind="vs">He took his brother by the heel in the womb, and by his strength he had power with God:</fragment>
+        <fragment id="28012004" kind="vs">Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;</fragment>
+        <fragment id="28012005" kind="vs">Even the LORD God of hosts; the LORD is his memorial.</fragment>
+        <fragment id="28012006" kind="vs">Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.</fragment>
+        <fragment id="28012007" kind="vs">He is a merchant, the balances of deceit are in his hand: he loveth to oppress.</fragment>
+        <fragment id="28012008" kind="vs">And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.</fragment>
+        <fragment id="28012009" kind="vs">And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.</fragment>
+        <fragment id="28012010" kind="vs">I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.</fragment>
+        <fragment id="28012011" kind="vs">Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.</fragment>
+        <fragment id="28012012" kind="vs">And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.</fragment>
+        <fragment id="28012013" kind="vs">And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.</fragment>
+        <fragment id="28012014" kind="vs">Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28013">
+      <fragments>
+        <fragment id="28013001" kind="vs">When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.</fragment>
+        <fragment id="28013002" kind="vs">And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.</fragment>
+        <fragment id="28013003" kind="vs">Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.</fragment>
+        <fragment id="28013004" kind="vs">Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me.</fragment>
+        <fragment id="28013005" kind="vs">I did know thee in the wilderness, in the land of great drought.</fragment>
+        <fragment id="28013006" kind="vs">According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.</fragment>
+        <fragment id="28013007" kind="vs">Therefore I will be unto them as a lion: as a leopard by the way will I observe them:</fragment>
+        <fragment id="28013008" kind="vs">I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.</fragment>
+        <fragment id="28013009" kind="vs">O Israel, thou hast destroyed thyself; but in me is thine help.</fragment>
+        <fragment id="28013010" kind="vs">I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?</fragment>
+        <fragment id="28013011" kind="vs">I gave thee a king in mine anger, and took him away in my wrath.</fragment>
+        <fragment id="28013012" kind="vs">The iniquity of Ephraim is bound up; his sin is hid.</fragment>
+        <fragment id="28013013" kind="vs">The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.</fragment>
+        <fragment id="28013014" kind="vs">I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.</fragment>
+        <fragment id="28013015" kind="vs">Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.</fragment>
+        <fragment id="28013016" kind="vs">Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.</fragment>
+      </fragments>
+    </section>
+    <section kind="ch" id="28014">
+      <fragments>
+        <fragment id="28014001" kind="vs">O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.</fragment>
+        <fragment id="28014002" kind="vs">Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.</fragment>
+        <fragment id="28014003" kind="vs">Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.</fragment>
+        <fragment id="28014004" kind="vs">I will heal their backsliding, I will love them freely: for mine anger is turned away from him.</fragment>
+        <fragment id="28014005" kind="vs">I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.</fragment>
+        <fragment id="28014006" kind="vs">His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.</fragment>
+        <fragment id="28014007" kind="vs">They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.</fragment>
+        <fragment id="28014008" kind="vs">Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.</fragment>
+        <fragment id="28014009" kind="vs">Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.</fragment>
+      </fragments>
+    </section>
+  </sections>
 </text>
