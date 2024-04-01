@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:ss="http://example.com/SemanticScripture"
+           targetNamespace="http://example.com/SemanticScripture"
+           elementFormDefault="qualified">
+
+    <xs:element name="text" type="ss:TextType"/>
+
+
+    <xs:complexType name="AnteType">
+        <xs:sequence>
+            <xs:element name="caption" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="TextType">
+        <xs:sequence>
+            <xs:element name="ante" type="ss:AnteType" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="sections" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="section" type="ss:SectionType" minOccurs="1" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="title" type="xs:string" use="required"/>
+        <xs:attribute name="n" type="xs:integer" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="AboutType">
+        <xs:attribute name="title" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <xs:simpleType name="SectionKind">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ch"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="SectionType">
+        <xs:sequence>
+            <xs:element name="caption" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="fragments" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="fragment" type="ss:FragmentType" minOccurs="1" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="kind" type="ss:SectionKind" use="required" />
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="title" type="xs:string" use="optional"/>
+        <xs:attribute name="caption" type="xs:string" use="optional" />
+    </xs:complexType>
+
+    <xs:simpleType name="FragmentKind">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="vs"/>
+            <xs:enumeration value="p"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="FragmentType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="id" type="xs:integer" use="required"/>
+                <xs:attribute name="kind" type="ss:FragmentKind" /> 
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:schema>
