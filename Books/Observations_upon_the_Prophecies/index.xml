@@ -146,35 +146,35 @@
     </teiHeader>
     <text>
         <body>
-            <div n="p.1" type="part">
-                <xi:include href="Part1Chapter01.xml"/>
-                <xi:include href="Part1Chapter02.xml"/>
-                <xi:include href="Part1Chapter03.xml"/>
-                <xi:include href="Part1Chapter04.xml"/>
-                <xi:include href="Part1Chapter05.xml"/>
-                <xi:include href="Part1Chapter06.xml"/>
-                <xi:include href="Part1Chapter07.xml"/>
-                <xi:include href="Part1Chapter08.xml"/>
-                <xi:include href="Part1Chapter09.xml"/>
-                <xi:include href="Part1Chapter10.xml"/>
-                <xi:include href="Part1Chapter11.xml"/>
-                <xi:include href="Part1Chapter12.xml"/>
-                <xi:include href="Part1Chapter13.xml"/>
-                <xi:include href="Part1Chapter14.xml"/>
-            </div>
-            <div n="p.2" type="part">
-                <xi:include href="Part2Chapter01.xml"/>
-                <xi:include href="Part2Chapter02.xml"/>
-                <xi:include href="Part2Chapter03.xml"/>
-            </div>
+      <div n="p.1" type="part">
+            <xi:include href="Part1Chapter01.xml"/>
+            <xi:include href="Part1Chapter02.xml"/>
+            <xi:include href="Part1Chapter03.xml"/>
+            <xi:include href="Part1Chapter04.xml"/>
+            <xi:include href="Part1Chapter05.xml"/>
+            <xi:include href="Part1Chapter06.xml"/>
+            <xi:include href="Part1Chapter07.xml"/>
+            <xi:include href="Part1Chapter08.xml"/>
+            <xi:include href="Part1Chapter09.xml"/>
+            <xi:include href="Part1Chapter10.xml"/>
+            <xi:include href="Part1Chapter11.xml"/>
+            <xi:include href="Part1Chapter12.xml"/>
+            <xi:include href="Part1Chapter13.xml"/>
+            <xi:include href="Part1Chapter14.xml"/>
+        </div>
+        <div n="p.2" type="part">
+            <xi:include href="Part2Chapter01.xml"/>
+            <xi:include href="Part2Chapter02.xml"/>
+            <xi:include href="Part2Chapter03.xml"/>
+        </div>
         </body>
-        <back>
-            <div n="a.1" type="appendix">
-                <div type="preamble">
-                    <head>Advertisement.</head> _The last pages of these Observations having been differently
+<back>
+      <div n="a.1" type="appendix">
+        <div type="preamble">
+          <head>Advertisement.</head> _The last pages of these Observations having been differently
           drawn up by the Author in another copy of his Work; they are here inserted as they follow
           in that copy, after the 22d line of the 261st page foregoing._ </div>
-                <p>
+        <p>
           _And none was found worthy to open the book_ till the Lamb of God appeared;
           the great High-Priest represented by a lamb slain at the foot of the Altar
           in the morning-sacrifice. _And he came, and took the book out of the hand
@@ -185,8 +185,8 @@
           sixth, seventh, eighth, ninth and tenth days, being attended by some of the
           priests to hear him perform. These seven days are alluded to, by the Lamb's
           opening the seven seals successively.
-                </p>
-                <p>
+        </p>
+        <p>
           Upon the tenth day of the month, a young bullock was offered for a
           sin-offering for the High-Priest, and a goat for a sin-offering for the
           people: and lots were cast upon two goats to determine which of them should
@@ -213,8 +213,8 @@
           of the sin-offering to be burnt without the camp, with fire taken in a
           censer from the Altar: and as the people returned home from the Temple,
           they said to one another, _God seal you to a good new year_.
-                </p>
-                <p>
+        </p>
+        <p>
           In allusion to all this, _when he had opened the seventh seal, there was
           silence in heaven about the space of half an hour. And an Angel stood at
           the Altar having a golden Censer, and there was given unto him much
@@ -234,8 +234,8 @@
           by casting lots upon the two goats, sacrificing God's lot on mount _Sion_,
           and sending the scape-goat into the wilderness loaden with the sins of the
           people.
-                </p>
-                <p>
+        </p>
+        <p>
           Upon the fifteenth day of the month, and the six following days, there were
           very great sacrifices. And in allusion to the sounding of trumpets, and
           singing with thundring voices, and pouring out drink-offerings at those
@@ -253,8 +253,8 @@
           seventh trumpet sounds. The visions therefore of the 144000, and of the
           palm-bearing multitude, extend to the sounding of the seventh trumpet, and
           therefore are synchronal to the times of the seventh seal.
-                </p>
-                <p>
+        </p>
+        <p>
           When the 144000 _are sealed out of all the twelve tribes of _Israel__, and
           the rest receive _the mark of the Beast_, and thereby the first temple is
           destroyed; _John_ is bidden to _measure the temple and altar_, that is,
@@ -286,8 +286,8 @@
           two false Churches: and the name of _two Witnesses_ once imposed, remains
           to the true Church of God in all times and places to the end of the
           Prophecy.
-                </p>
-                <p>
+        </p>
+        <p>
           In the interpretation of this Prophecy, _the woman in heaven clothed with
           the sun_, before she flies into the wilderness, represents the primitive
           Church catholick, illuminated with the _seven lamps_ in the _seven golden
@@ -321,8 +321,8 @@
           heathen idolatry; _he was cast out_ of the throne _into the earth. And they
           overcame him by the blood of the Lamb, and by the word of their testimony;
           and they loved not their lives unto the death_.
-                </p>
-                <p>
+        </p>
+        <p>
           _And when the Dragon saw that he was cast unto the earth, he persecuted the
           woman which brought forth the man child_, stirring up a new persecution
           against her in the reign of _Licinius_. _And to the woman_, by the building
@@ -341,8 +341,8 @@
           _Jesus Christ_, which_ in that war _were sealed out of all the twelve
           tribes of _Israel__, and remained upon mount _Sion_ with the Lamb, being in
           number 144000, and having their father's name written in their foreheads.
-                </p>
-                <p>
+        </p>
+        <p>
           When the earth had swallowed up the flood, and the Dragon was gone to make
           war with the remnant of the woman's seed, _John stood upon the sand of the
           sea, and saw a Beast rise out of the sea, having seven heads and ten horns.
@@ -363,8 +363,8 @@
           _Western_ Empire became presently divided into ten kingdoms, as above; and
           these kingdoms at length united in religion under the woman, and reign with
           her _forty and two months_.
-                </p>
-                <p>
+        </p>
+        <p>
           _And I beheld_, saith _John_, _another Beast coming up out of the earth._
           When the woman fled from the Dragon into the kingdom of the Beast, and
           became his Church, this other Beast rose up out of the earth, to represent
@@ -388,8 +388,8 @@
           had the mark, or the name of the Beast, or the number of his name_; that
           is, the mark [Cross], or the name [Greek: LATEINOS], or the number thereof
           [Greek: chxs], 666. All others were excommunicated.
-                </p>
-                <p>
+        </p>
+        <p>
           When the seven Angels had poured out the seven vials of wrath, and _John_
           had described them all in the present time, he is called up from the time
           of the seventh vial to the time of the sixth seal, to take a view of the
@@ -450,20 +450,20 @@
           be fulfilled. And the woman which thou sawest, is that great city which
           reigneth over the Kings of the earth_, or the great city of the _Latins_,
           which reigneth over the ten Kings till the end of those days.
-                </p>
-                <milestone unit="appendix" n="a.1" rend="italic">
+        </p>
+        <milestone unit="appendix" n="a.1" rend="italic">
           FINIS.
-                </milestone>
-                <milestone unit="appendix" n="a.1" rend="bold">
+        </milestone>
+        <milestone unit="appendix" n="a.1" rend="bold">
           *** END OF THE PROJECT GUTENBERG EBOOK OBSERVATIONS UPON THE PROPHECIES OF DANIEL, AND THE
           APOCALYPSE OF ST. JOHN ***
-                </milestone>
-            </div>
+        </milestone>
+      </div>
 
-            <div type="colophon">
-                <p>Updated editions will replace the
+      <div type="colophon">
+        <p>Updated editions will replace the
           previous one—the old editions will be renamed.</p>
-                <p>Creating the works from print editions not
+        <p>Creating the works from print editions not
           protected by U.S. copyright law means that no one owns a United States copyright in these
           works,
           so the Foundation (and you!) can copy and distribute it in the United States without
@@ -487,20 +487,20 @@
           U.S. copyright law. Redistribution is subject to the trademark license, especially
           commercial
           redistribution. </p>
-            </div>
-            <div type="license">
-                <head> START: FULL LICENSE </head>
-                <head>THE FULL PROJECT GUTENBERG LICENSE </head>
-                <head>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK </head>
-                <p>To protect the Project Gutenberg™ mission of promoting the free
+      </div>
+      <div type="license">
+        <head> START: FULL LICENSE </head>
+        <head>THE FULL PROJECT GUTENBERG LICENSE </head>
+        <head>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK </head>
+        <p>To protect the Project Gutenberg™ mission of promoting the free
           distribution of electronic works, by using or distributing this work (or any other work
           associated
           in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of
           the
           Full Project Gutenberg™ License available with this file or online at
           www.gutenberg.org/license.</p>
-                <p>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works.</p>
-                <p>1.A.
+        <p>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works.</p>
+        <p>1.A.
           By reading or using any part of this Project Gutenberg™ electronic work, you indicate that
           you
           have read, understand, agree to and accept all the terms of this license and intellectual
@@ -515,7 +515,7 @@
           electronic work and you do not agree to be bound by the terms of this agreement, you may
           obtain a
           refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</p>
-                <p>
+        <p>
           1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated
           in
           any
@@ -529,7 +529,7 @@
           things you can do with Project Gutenberg™ electronic works if you follow the terms of this
           agreement and help preserve free future access to Project Gutenberg™ electronic works. See
           paragraph 1.E below.</p>
-                <p>1.C. The Project Gutenberg Literary Archive Foundation (“the
+        <p>1.C. The Project Gutenberg Literary Archive Foundation (“the
           Foundation” or PGLAF), owns a compilation copyright in the collection of Project
           Gutenberg™
           electronic works. Nearly all the individual works in the collection are in the public
@@ -553,7 +553,7 @@
           share
           it
           without charge with others.</p>
-                <p> 1.D. The copyright laws of the place where you are located also
+        <p> 1.D. The copyright laws of the place where you are located also
           govern what you can do with this work. Copyright laws in most countries are in a constant
           state of
           change. If you are outside the United States, check the laws of your country in addition
@@ -567,9 +567,9 @@
           than
           the
           United States. </p>
-                <p>1.E. Unless you have removed all references to Project Gutenberg:
-                </p>
-                <p> 1.E.1. The following sentence, with active links to, or other immediate access to, the
+        <p>1.E. Unless you have removed all references to Project Gutenberg:
+        </p>
+        <p> 1.E.1. The following sentence, with active links to, or other immediate access to, the
           full Project Gutenberg™ License must appear prominently whenever any copy of a Project
           Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which
           the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed,
@@ -581,8 +581,8 @@
             at www.gutenberg.org. If you
             are not located in the United States, you will have to check the laws
             of the country where you are located before using this eBook.</q>
-                </p>
-                <p> 1.E.2. If an
+        </p>
+        <p> 1.E.2. If an
           individual Project Gutenberg™ electronic work is derived from texts not protected by U.S.
           copyright law (does not contain a notice indicating that it is posted with permission of
           the
@@ -596,7 +596,7 @@
           the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the
           work
           and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</p>
-                <p>1.E.3. If
+        <p>1.E.3. If
           an individual Project Gutenberg™ electronic work is posted with the permission of the
           copyright
           holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
@@ -607,19 +607,19 @@
           at
           the
           beginning of this work. </p>
-                <p>1.E.4. Do not unlink or detach or remove the full Project
+        <p>1.E.4. Do not unlink or detach or remove the full Project
           Gutenberg™ License terms from this work, or any files containing a part of this work or
           any
           other
           work associated with Project Gutenberg™. </p>
-                <p>1.E.5. Do not copy, display, perform, distribute
+        <p>1.E.5. Do not copy, display, perform, distribute
           or redistribute this electronic work, or any part of this electronic work, without
           prominently
           displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access
           to
           the
           full terms of the Project Gutenberg™ License.</p>
-                <p>1.E.6. You may convert to and distribute this
+        <p>1.E.6. You may convert to and distribute this
           work in any binary, compressed, marked up, nonproprietary or proprietary form, including
           any
           word
@@ -637,13 +637,13 @@
           form. Any alternate format must include the full Project Gutenberg™ License as specified
           in
           paragraph 1.E.1. </p>
-                <p> 1.E.7. Do not charge a fee for access to, viewing, displaying, performing,
+        <p> 1.E.7. Do not charge a fee for access to, viewing, displaying, performing,
           copying or distributing any Project Gutenberg™ works unless you comply with paragraph
           1.E.8 or
           1.E.9. </p>
-                <p> 1.E.8. You may charge a reasonable fee for copies of or providing access to or
+        <p> 1.E.8. You may charge a reasonable fee for copies of or providing access to or
           distributing Project Gutenberg™ electronic works provided that: <list>
-                    <item>You pay a royalty fee of 20% of the gross profits you derive from
+            <item>You pay a royalty fee of 20% of the gross profits you derive from
               the use of Project Gutenberg™ works calculated using the method
               you already use to calculate your applicable taxes. The fee is owed
               to the owner of the Project Gutenberg™ trademark, but he has
@@ -656,7 +656,7 @@
               Section 4, “Information about donations to the Project Gutenberg
               Literary Archive Foundation.”</item>
 
-                    <item>You provide a full refund of any money paid by a
+            <item>You provide a full refund of any money paid by a
               user who notifies
               you in writing (or by e-mail) within 30 days of receipt that s/he
               does not agree to the terms of the full Project Gutenberg™
@@ -665,16 +665,16 @@
               all use of and all access to other copies of Project Gutenberg™
               works.</item>
 
-                    <item>You provide, in accordance with paragraph 1.F.3, a full refund of
+            <item>You provide, in accordance with paragraph 1.F.3, a full refund of
               any money paid for a work or a replacement copy, if a defect in the
               electronic work is discovered and reported to you within 90 days of
               receipt of the work.</item>
 
-                    <item>You comply with all other terms of this agreement for free
+            <item>You comply with all other terms of this agreement for free
               distribution of Project Gutenberg™ works.</item>
-                </list>
-            </p>
-            <p> 1.E.9. If you wish to
+          </list>
+        </p>
+        <p> 1.E.9. If you wish to
           charge a fee or distribute a Project Gutenberg™ electronic work or group of works on
           different
           terms than are set forth in this agreement, you must obtain permission in writing from the
@@ -682,8 +682,7 @@
           Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark.
           Contact
           the Foundation as set forth in Section 3 below. </p>
-            <p> 1.F. <br />
- 1.F.1. Project Gutenberg volunteers and employees expend considerable effort
+        <p> 1.F. <br /> 1.F.1. Project Gutenberg volunteers and employees expend considerable effort
           to identify, do copyright research on, transcribe and proofread works not protected by
           U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts,
           Project Gutenberg™ electronic works, and the medium on which they may be stored, may
@@ -691,7 +690,7 @@
           transcription errors, a copyright or other intellectual property infringement, a defective
           or damaged disk or other medium, a computer virus, or computer codes that damage or cannot
           be read by your equipment. </p>
-            <p> 1.F.2. LIMITED WARRANTY, DISCLAIMER OF
+        <p> 1.F.2. LIMITED WARRANTY, DISCLAIMER OF
           DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3,
           the
           Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™
@@ -711,7 +710,7 @@
           OF
           SUCH
           DAMAGE. </p>
-            <p> 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this
+        <p> 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this
           electronic work within 90 days of receiving it, you can receive a refund of the money (if
           any)
           you
@@ -729,14 +728,14 @@
           of a refund. If the second copy is also defective, you may demand a refund in writing
           without
           further opportunities to fix the problem. </p>
-            <p> 1.F.4. Except for the limited right of
+        <p> 1.F.4. Except for the limited right of
           replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’,
           WITH
           NO
           OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES
           OF
           MERCHANTABILITY OR FITNESS FOR ANY PURPOSE. </p>
-            <p> 1.F.5. Some states do not allow disclaimers of
+        <p> 1.F.5. Some states do not allow disclaimers of
           certain implied warranties or the exclusion or limitation of certain types of damages. If
           any
           disclaimer or limitation set forth in this agreement violates the law of the state
@@ -748,7 +747,7 @@
           of
           this
           agreement shall not void the remaining provisions. </p>
-            <p> 1.F.6. INDEMNITY - You agree to
+        <p> 1.F.6. INDEMNITY - You agree to
           indemnify and hold the Foundation, the trademark owner, any agent or employee of the
           Foundation,
           anyone providing copies of Project Gutenberg™ electronic works in accordance with this
@@ -760,16 +759,16 @@
           occur:
           (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or
           additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause. </p>
-            <p>
+        <p>
           Section 2. Information about the Mission of Project Gutenberg™ </p>
-            <p> Project Gutenberg™ is
+        <p> Project Gutenberg™ is
           synonymous with the free distribution of electronic works in formats readable by the
           widest
           variety of computers including obsolete, old, middle-aged and new computers. It exists
           because
           of
           the efforts of hundreds of volunteers and donations from people in all walks of life. </p>
-            <p>
+        <p>
           Volunteers and financial support to provide volunteers with the assistance they need are
           critical
           to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection
@@ -783,9 +782,9 @@
           efforts and donations can help, see Sections 3 and 4 and the Foundation information page
           at
           www.gutenberg.org. </p>
-            <p> Section 3. Information about the Project Gutenberg Literary Archive
+        <p> Section 3. Information about the Project Gutenberg Literary Archive
           Foundation </p>
-            <p> The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3)
+        <p> The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3)
           educational corporation organized under the laws of the state of Mississippi and granted
           tax
           exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax
@@ -794,15 +793,15 @@
           are
           tax
           deductible to the full extent permitted by U.S. federal laws and your state’s laws. </p>
-            <p> The
+        <p> The
           Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116,
           (801)
           596-1887. Email contact links and up to date contact information can be found at the
           Foundation’s
           website and official page at www.gutenberg.org/contact </p>
-            <p> Section 4. Information about
+        <p> Section 4. Information about
           Donations to the Project Gutenberg Literary Archive Foundation </p>
-            <p> Project Gutenberg™ depends
+        <p> Project Gutenberg™ depends
           upon and cannot survive without widespread public support and donations to carry out its
           mission
           of increasing the number of public domain and licensed works that can be freely
@@ -812,7 +811,7 @@
           Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt
           status
           with the IRS. </p>
-            <p> The Foundation is committed to complying with the laws regulating charities
+        <p> The Foundation is committed to complying with the laws regulating charities
           and charitable donations in all 50 states of the United States. Compliance requirements
           are
           not
@@ -824,46 +823,46 @@
           confirmation of compliance. To SEND DONATIONS or determine the status of compliance for
           any
           particular state visit www.gutenberg.org/donate. </p>
-            <p> While we cannot and do not solicit
+        <p> While we cannot and do not solicit
           contributions from states where we have not met the solicitation requirements, we know of
           no
           prohibition against accepting unsolicited donations from donors in such states who
           approach us
           with offers to donate. </p>
-            <p> International donations are gratefully accepted, but we cannot make
+        <p> International donations are gratefully accepted, but we cannot make
           any statements concerning tax treatment of donations received from outside the United
           States.
           U.S.
           laws alone swamp our small staff. </p>
-            <p> Please check the Project Gutenberg web pages for current
+        <p> Please check the Project Gutenberg web pages for current
           donation methods and addresses. Donations are accepted in a number of other ways including
           checks,
           online payments and credit card donations. To donate, please visit:
           www.gutenberg.org/donate. </p>
-            <p>
+        <p>
           Section 5. General Information About Project Gutenberg™ electronic works </p>
-            <p> Professor Michael
+        <p> Professor Michael
           S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic
           works
           that
           could be freely shared with anyone. For forty years, he produced and distributed Project
           Gutenberg™ eBooks with only a loose network of volunteer support. </p>
-            <p> Project Gutenberg™ eBooks
+        <p> Project Gutenberg™ eBooks
           are often created from several printed editions, all of which are confirmed as not
           protected
           by
           copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily
           keep
           eBooks in compliance with any particular paper edition. </p>
-            <p> Most people start at our website
+        <p> Most people start at our website
           which has the main PG search facility: www.gutenberg.org. </p>
-            <p> This website includes information
+        <p> This website includes information
           about Project Gutenberg™, including how to make donations to the Project Gutenberg
           Literary
           Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email
           newsletter to hear about new eBooks.</p>
-        </div>
+      </div>
 
     </back>
-</text>
+    </text>
 </TEI>

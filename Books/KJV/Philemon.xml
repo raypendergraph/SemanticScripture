@@ -1,37 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
-<text xmlns="http://example.com/SemanticScripture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Philemon" id="57" xsi:schemaLocation="http://example.com/SemanticScripture ../../Schema/SemanticScripture.xsd">
-  <ante>
-    <caption>Written from Rome to Philemon, by Onesimus a servant.</caption>
-  </ante>
-  
-    <div type="chapter" id="57001">
-      
-        <ab id="57001001" type="verse">Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,</ab>
-        <ab id="57001002" type="verse">And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:</ab>
-        <ab id="57001003" type="verse">Grace to you, and peace, from God our Father and the Lord Jesus Christ.</ab>
-        <ab id="57001004" type="verse">I thank my God, making mention of thee always in my prayers,</ab>
-        <ab id="57001005" type="verse">Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;</ab>
-        <ab id="57001006" type="verse">That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.</ab>
-        <ab id="57001007" type="verse">For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.</ab>
-        <ab id="57001008" type="verse">Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,</ab>
-        <ab id="57001009" type="verse">Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.</ab>
-        <ab id="57001010" type="verse">I beseech thee for my son Onesimus, whom I have begotten in my bonds:</ab>
-        <ab id="57001011" type="verse">Which in time past was to thee unprofitable, but now profitable to thee and to me:</ab>
-        <ab id="57001012" type="verse">Whom I have sent again: thou therefore receive him, that is, mine own bowels:</ab>
-        <ab id="57001013" type="verse">Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:</ab>
-        <ab id="57001014" type="verse">But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.</ab>
-        <ab id="57001015" type="verse">For perhaps he therefore departed for a season, that thou shouldest receive him for ever;</ab>
-        <ab id="57001016" type="verse">Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?</ab>
-        <ab id="57001017" type="verse">If thou count me therefore a partner, receive him as myself.</ab>
-        <ab id="57001018" type="verse">If he hath wronged thee, or oweth thee ought, put that on mine account;</ab>
-        <ab id="57001019" type="verse">I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.</ab>
-        <ab id="57001020" type="verse">Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.</ab>
-        <ab id="57001021" type="verse">Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.</ab>
-        <ab id="57001022" type="verse">But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.</ab>
-        <ab id="57001023" type="verse">There salute thee Epaphras, my fellowprisoner in Christ Jesus;</ab>
-        <ab id="57001024" type="verse">Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.</ab>
-        <ab id="57001025" type="verse">The grace of our Lord Jesus Christ be with your spirit. Amen. </ab>
-      
-    </div>
-  
-</text>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Philemon</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book" id="57">
+        <head>
+			Written from Rome to Philemon, by Onesimus a servant.</head>
+        <div type="chapter" id="57001">
+          <ab id="57001001" type="verse">Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,</ab>
+          <ab id="57001002" type="verse">And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:</ab>
+          <ab id="57001003" type="verse">Grace to you, and peace, from God our Father and the Lord Jesus Christ.</ab>
+          <ab id="57001004" type="verse">I thank my God, making mention of thee always in my prayers,</ab>
+          <ab id="57001005" type="verse">Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;</ab>
+          <ab id="57001006" type="verse">That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.</ab>
+          <ab id="57001007" type="verse">For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.</ab>
+          <ab id="57001008" type="verse">Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,</ab>
+          <ab id="57001009" type="verse">Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.</ab>
+          <ab id="57001010" type="verse">I beseech thee for my son Onesimus, whom I have begotten in my bonds:</ab>
+          <ab id="57001011" type="verse">Which in time past was to thee unprofitable, but now profitable to thee and to me:</ab>
+          <ab id="57001012" type="verse">Whom I have sent again: thou therefore receive him, that is, mine own bowels:</ab>
+          <ab id="57001013" type="verse">Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:</ab>
+          <ab id="57001014" type="verse">But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.</ab>
+          <ab id="57001015" type="verse">For perhaps he therefore departed for a season, that thou shouldest receive him for ever;</ab>
+          <ab id="57001016" type="verse">Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?</ab>
+          <ab id="57001017" type="verse">If thou count me therefore a partner, receive him as myself.</ab>
+          <ab id="57001018" type="verse">If he hath wronged thee, or oweth thee ought, put that on mine account;</ab>
+          <ab id="57001019" type="verse">I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.</ab>
+          <ab id="57001020" type="verse">Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.</ab>
+          <ab id="57001021" type="verse">Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.</ab>
+          <ab id="57001022" type="verse">But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.</ab>
+          <ab id="57001023" type="verse">There salute thee Epaphras, my fellowprisoner in Christ Jesus;</ab>
+          <ab id="57001024" type="verse">Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.</ab>
+          <ab id="57001025" type="verse">The grace of our Lord Jesus Christ be with your spirit. Amen. </ab>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
